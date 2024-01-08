@@ -1,8 +1,8 @@
 let birthdayList = [
     {
       _id: "1",
-      cardTitle: "1 Happy bday helium tower ",
-      cardText: "This is a wider card .",
+      cardTitle: "1 Happy bday helium tower setup",
+      cardText: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
       thumbSrc: "../assets/img/birthday/b1.jpg",
       imgSrc: [
         "../assets/img/birthday/b1.jpg",
@@ -111,6 +111,7 @@ birthdayList.forEach(function(list) {
       <img class="card-img-top" src="${list.thumbSrc}" alt="Card image cap">
       <div class="card-body">
         <h6 class="card-title">${list.cardTitle}</h6>
+        <p class="card-text">${list.cardText}</p>
       </div>
       <div class="btn-group" role="group" aria-label="Basic example">
       <a href="#" class="btn btn-outline-primary btn-sm rounded-0"><i class="bi bi-telephone"></i><span> Call</span></a>
@@ -151,7 +152,7 @@ birthdayList.forEach(function(list) {
             </div>
             <div class="col-12 col-lg-5 col-md-5">
               <h7>${list.cardTitle}</h7>
-              <p class="card-text">${list.cardText}</p>
+              <p>....</p>
             </div>
           </div>
         </div>
