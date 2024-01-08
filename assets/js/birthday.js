@@ -3,11 +3,11 @@ let birthdayList = [
       _id: "1",
       cardTitle: "1 Happy bday helium tower ",
       cardText: "This is a wider card .",
-      thumbSrc: "../assets/img/birthday/b1.jpg",
+      thumbSrc: "./assets/img/birthday/b1.jpg",
       imgSrc: [
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg"
+        "./assets/img/birthday/b1.jpg",
+        "./assets/img/birthday/b1.jpg",
+        "./assets/img/birthday/b1.jpg"
       ]
     },
     {
