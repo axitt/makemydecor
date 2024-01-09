@@ -1,90 +1,65 @@
 let birthdayList = [
     {
       _id: "1",
-      cardTitle: "1 Happy bday helium tower ",
-      cardText: "This is a wider card .",
-      thumbSrc: "./assets/img/birthday/b1.jpg",
+      cardTitle: "Happy Birthday Elegant Setup",
+      cardText: "<br>Indulge in an atmosphere of spohistication with our elegantlt setup birthday decoration setup.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/birthday/1.jpg",
       imgSrc: [
-        "./assets/img/birthday/b1.jpg",
-        "./assets/img/birthday/b1.jpg",
-        "./assets/img/birthday/b1.jpg"
+        "./assets/img/birthday/1.jpg"
       ]
     },
     {
       _id: "2",
-      cardTitle: "2 Happy bday helium tower setup",
-      cardText: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-      thumbSrc: "../assets/img/birthday/b1.jpg",
+      cardTitle: "Happy Birthday Blisful Setup",
+      cardText: "<br>Experience the joy of your special day surrounded by the exquisite charm of our happy birthday blisful setup.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "../assets/img/birthday/2.jpg",
       imgSrc: [
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg"
+        "../assets/img/birthday/2.jpg"
       ]
     },
     {
       _id: "3",
-      cardTitle: "3 Happy bday helium tower setup",
-      cardText: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-      thumbSrc: "../assets/img/birthday/b1.jpg",
+      cardTitle: "Jungle Theme Setup",
+      cardText: "<br>Transform your party into a jungle oasis with our vibrant and immersive jungle theme.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "../assets/img/birthday/3.jpg",
       imgSrc: [
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg"
+        "../assets/img/birthday/3.jpg"
       ]
     },
     {
       _id: "4",
-      cardTitle: "4 Happy bday helium tower setup",
-      cardText: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-      thumbSrc: "../assets/img/birthday/b1.jpg",
+      cardTitle: "Happy Birthday Rich Setup",
+      cardText: "<br>Mark your birthday with a rich setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "../assets/img/birthday/4.jpg",
       imgSrc: [
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg"
+        "../assets/img/birthday/4.jpg"
       ]
     },
     {
       _id: "5",
-      cardTitle: "1 Happy bday helium tower setup",
-      cardText: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-      thumbSrc: "../assets/img/birthday/b1.jpg",
+      cardTitle: "Happy Birthday Rainbow Setup",
+      cardText: "<br>Celebrate your special day with a burst of color in our vibrant and enchanting rainbow-themed setup.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "../assets/img/birthday/5.jpg",
       imgSrc: [
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg"
+        "../assets/img/birthday/5.jpg"
       ]
     },
     {
       _id: "6",
-      cardTitle: "2 Happy bday helium tower setup",
-      cardText: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-      thumbSrc: "../assets/img/birthday/b1.jpg",
+      cardTitle: "Happy Birthday Sweet Tower",
+      cardText: "<br>Satisfy your sweet tooth in style with our delightful and confectionery themed birthday decorations.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "../assets/img/birthday/6.jpg",
       imgSrc: [
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg"
+        "../assets/img/birthday/6.jpg"
       ]
     },
     {
       _id: "7",
-      cardTitle: "3 Happy bday helium tower setup",
-      cardText: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-      thumbSrc: "../assets/img/birthday/b1.jpg",
+      cardTitle: "Happy Birthday White Tower",
+      cardText: "<br>Reach new heights of style with our majestic white tower themed decoration making your special day truly unforgettable.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "../assets/img/birthday/7.jpg",
       imgSrc: [
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg"
-      ]
-    },
-    {
-      _id: "8",
-      cardTitle: "4 Happy bday helium tower setup",
-      cardText: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-      thumbSrc: "../assets/img/birthday/b1.jpg",
-      imgSrc: [
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg"
+        "../assets/img/birthday/7.jpg"
       ]
     }
 ];
