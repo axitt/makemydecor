@@ -1,65 +1,74 @@
 let birthdayList = [
-    {
-      _id: "1",
-      cardTitle: "Happy Birthday Elegant Setup",
-      cardText: "<br>Indulge in an atmosphere of spohistication with our elegantlt setup birthday decoration setup.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/birthday/1.jpg",
-      imgSrc: [
-        "./assets/img/birthday/1.jpg"
-      ]
-    },
+  {
+    _id: "1",
+    cardTitle: "Happy Birthday Gold Setup",
+    cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/HappyBirthdayGoldSetup.jpg",
+    imgSrc: [
+      "./assets/img/birthday/HappyBirthdayGoldSetup.jpg"
+    ]
+  },
     {
       _id: "2",
-      cardTitle: "Happy Birthday Blisful Setup",
-      cardText: "<br>Experience the joy of your special day surrounded by the exquisite charm of our happy birthday blisful setup.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "../assets/img/birthday/2.jpg",
+      cardTitle: "Happy Birthday Elegant Setup",
+      cardText: "<br>Indulge in an atmosphere of spohistication with our elegantlt setup birthday decoration setup.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/birthday/HappyBirthdayElegantSetup.jpg",
       imgSrc: [
-        "../assets/img/birthday/2.jpg"
+        "./assets/img/birthday/HappyBirthdayElegantSetup.jpg"
       ]
     },
     {
       _id: "3",
-      cardTitle: "Jungle Theme Setup",
-      cardText: "<br>Transform your party into a jungle oasis with our vibrant and immersive jungle theme.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "../assets/img/birthday/3.jpg",
+      cardTitle: "Happy Birthday Blisful Setup",
+      cardText: "<br>Experience the joy of your special day surrounded by the exquisite charm of our happy birthday blisful setup.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/birthday/HappyBirthdayBlisfulSetup.jpg",
       imgSrc: [
-        "../assets/img/birthday/3.jpg"
+        "./assets/img/birthday/HappyBirthdayBlisfulSetup.jpg"
       ]
     },
     {
       _id: "4",
-      cardTitle: "Happy Birthday Rich Setup",
-      cardText: "<br>Mark your birthday with a rich setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "../assets/img/birthday/4.jpg",
+      cardTitle: "Jungle Theme Setup",
+      cardText: "<br>Transform your party into a jungle oasis with our vibrant and immersive jungle theme.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/birthday/JungleThemeSetup.jpg",
       imgSrc: [
-        "../assets/img/birthday/4.jpg"
+        "./assets/img/birthday/JungleThemeSetup.jpg"
       ]
     },
     {
       _id: "5",
-      cardTitle: "Happy Birthday Rainbow Setup",
-      cardText: "<br>Celebrate your special day with a burst of color in our vibrant and enchanting rainbow-themed setup.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "../assets/img/birthday/5.jpg",
+      cardTitle: "Happy Birthday Richie Rich",
+      cardText: "<br>Mark your birthday with a rich setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/birthday/HappyBirthdayRichieRich.jpg",
       imgSrc: [
-        "../assets/img/birthday/5.jpg"
+        "./assets/img/birthday/HappyBirthdayRichieRich.jpg"
       ]
     },
     {
       _id: "6",
-      cardTitle: "Happy Birthday Sweet Tower",
-      cardText: "<br>Satisfy your sweet tooth in style with our delightful and confectionery themed birthday decorations.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "../assets/img/birthday/6.jpg",
+      cardTitle: "Happy Birthday Rainbow Setup",
+      cardText: "<br>Celebrate your special day with a burst of color in our vibrant and enchanting rainbow-themed setup.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/birthday/HappyBirthdayRainbowSetup.jpg",
       imgSrc: [
-        "../assets/img/birthday/6.jpg"
+        "./assets/img/birthday/HappyBirthdayRainbowSetup.jpg"
       ]
     },
     {
       _id: "7",
+      cardTitle: "Happy Birthday Sweet Tower",
+      cardText: "<br>Satisfy your sweet tooth in style with our delightful and confectionery themed birthday decorations.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/birthday/HappyBirthdaySweetTower.jpg",
+      imgSrc: [
+        "./assets/img/birthday/HappyBirthdaySweetTower.jpg"
+      ]
+    },
+    {
+      _id: "8",
       cardTitle: "Happy Birthday White Tower",
       cardText: "<br>Reach new heights of style with our majestic white tower themed decoration making your special day truly unforgettable.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "../assets/img/birthday/7.jpg",
+      thumbSrc: "./assets/img/birthday/HappyBirthdayWhiteTower.jpg",
       imgSrc: [
-        "../assets/img/birthday/7.jpg"
+        "./assets/img/birthday/HappyBirthdayWhiteTower.jpg"
       ]
     }
 ];
