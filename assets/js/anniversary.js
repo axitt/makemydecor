@@ -1,97 +1,99 @@
-let birthdayList = [
-    {
-      _id: "1",
-      cardTitle: "1 Happy bday helium tower ",
-      cardText: "This is a wider card .",
-      thumbSrc: "../assets/img/birthday/b1.jpg",
-      imgSrc: [
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg"
-      ]
-    },
-    {
-      _id: "2",
-      cardTitle: "2 Happy bday helium tower setup",
-      cardText: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-      thumbSrc: "../assets/img/birthday/b1.jpg",
-      imgSrc: [
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg"
-      ]
-    },
-    {
-      _id: "3",
-      cardTitle: "3 Happy bday helium tower setup",
-      cardText: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-      thumbSrc: "../assets/img/birthday/b1.jpg",
-      imgSrc: [
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg"
-      ]
-    },
-    {
-      _id: "4",
-      cardTitle: "4 Happy bday helium tower setup",
-      cardText: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-      thumbSrc: "../assets/img/birthday/b1.jpg",
-      imgSrc: [
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg"
-      ]
-    },
-    {
-      _id: "5",
-      cardTitle: "1 Happy bday helium tower setup",
-      cardText: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-      thumbSrc: "../assets/img/birthday/b1.jpg",
-      imgSrc: [
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg"
-      ]
-    },
-    {
-      _id: "6",
-      cardTitle: "2 Happy bday helium tower setup",
-      cardText: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-      thumbSrc: "../assets/img/birthday/b1.jpg",
-      imgSrc: [
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg"
-      ]
-    },
-    {
-      _id: "7",
-      cardTitle: "3 Happy bday helium tower setup",
-      cardText: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-      thumbSrc: "../assets/img/birthday/b1.jpg",
-      imgSrc: [
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg"
-      ]
-    },
-    {
-      _id: "8",
-      cardTitle: "4 Happy bday helium tower setup",
-      cardText: "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
-      thumbSrc: "../assets/img/birthday/b1.jpg",
-      imgSrc: [
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg",
-        "../assets/img/birthday/b1.jpg"
-      ]
-    }
+let anniversaryList = [
+  {
+    _id: "1",
+    cardTitle: "Milestone Memory Setup",
+    cardText: "<br>Opt for a eye-catching milestone memory setup to create a lively and celebratory atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/anniversary/MilestoneMemorySetup.jpg",
+    imgSrc: [
+      "./assets/img/anniversary/MilestoneMemorySetup.jpg"
+    ]
+  },
+  {
+    _id: "2",
+    cardTitle: "Radiant Love Setup",
+    cardText: "<br>Welcome guests with a stunning balloon arch in a spectrum of radiant colors, setting the tone for a joyful anniversary.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/anniversary/RadiantLoveSetup.jpg",
+    imgSrc: [
+      "./assets/img/anniversary/RadiantLoveSetup.jpg"
+    ]
+  },
+  {
+    _id: "3",
+    cardTitle: "Happy Anniversary Gold Setup",
+    cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/GoldSetup.jpg",
+    imgSrc: [
+      "./assets/img/common/GoldSetup.jpg"
+    ]
+  },
+  {
+    _id: "4",
+    cardTitle: "Happy Anniversary Vibrant Setup",
+    cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/VibrantSetup.jpg",
+    imgSrc: [
+      "./assets/img/common/VibrantSetup.jpg"
+    ]
+  },
+  {
+    _id: "5",
+    cardTitle: "Home Heaven Setup",
+    cardText: "<br>Creating an ethereal atmosphere with a mix of helium and metallic balloons, tranforming your home into a dreamy heaven.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/anniversary/HomeHeavenSetup.jpg",
+    imgSrc: [
+      "./assets/img/anniversary/HomeHeavenSetup.jpg"
+    ]
+  },
+  {
+    _id: "6",
+    cardTitle: "Pink Bliss Setup",
+    cardText: "<br>Celebrate in the shades of pink with our enchanting ballon arrangement, transforming your space into a heaven of pure bliss.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/anniversary/DomesticBlissSetup.jpg",
+    imgSrc: [
+      "./assets/img/anniversary/DomesticBlissSetup.jpg"
+    ]
+  },
+  {
+    _id: "7",
+    cardTitle: "Cuddle Companions",
+    cardText: "<br>Set the mood with soft teddy and ballons, creating a relaxed and inviting atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/CuddleCompanions.jpg",
+    imgSrc: [
+      "./assets/img/common/CuddleCompanions.jpg"
+    ]
+  },
+  {
+    _id: "8",
+    cardTitle: "Teddy Tales",
+    cardText: "<br>Tranform your space into a magical teddy bear realm to immerse the room in a whimsical narrative.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/TeddyTales.jpg",
+    imgSrc: [
+      "./assets/img/common/TeddyTales.jpg"
+    ]
+  },
+  {
+    _id: "9",
+    cardTitle: "Teddy Bear Hugs",
+    cardText: "<br>Hide small teddy bear trinkets around the room, encoraging exploration and discovery for loved ones.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/TeddyBearHugs.jpg",
+    imgSrc: [
+      "./assets/img/common/TeddyBearHugs.jpg"
+    ]
+  },
+  {
+    _id: "10",
+    cardTitle: "Love Cuddles",
+    cardText: "<br>An unfogettable love fusion of balloons and teddy to set a lovely atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/anniversary/LoveCuddles.jpg",
+    imgSrc: [
+      "./assets/img/anniversary/LoveCuddles.jpg"
+    ]
+  }
 ];
 
 
-var birthdayHTML;
-birthdayHTML = '<div class="container"> <div class="row">';
+var anniversaryHTML;
+anniversaryHTML = '<div class="container"> <div class="row">';
 
 function carouselFunction(imgList) {
   var carouselHtml = '';
@@ -104,8 +106,8 @@ function carouselFunction(imgList) {
   return carouselHtml;
 }
 
-birthdayList.forEach(function(list) {
-  birthdayHTML+=`
+anniversaryList.forEach(function(list) {
+  anniversaryHTML+=`
   <div type="button" class="col-6 col-lg-3 col-md-4 mb-4" data-toggle="modal" data-target="#exampleModal${list._id}">
     <div class="card">
       <img class="card-img-top" src="${list.thumbSrc}" alt="Card image cap">
@@ -123,7 +125,7 @@ birthdayList.forEach(function(list) {
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Birthday Decoration</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Anniversary Decoration</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -168,9 +170,9 @@ birthdayList.forEach(function(list) {
   `
 })
 
-birthdayHTML+=`
+anniversaryHTML+=`
     </div>
   </div>
   `
 
-document.getElementById("birthday-details").innerHTML = birthdayHTML;
+document.getElementById("anniversary-details").innerHTML = anniversaryHTML;

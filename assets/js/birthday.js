@@ -3,9 +3,9 @@ let birthdayList = [
     _id: "1",
     cardTitle: "Happy Birthday Gold Setup",
     cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/birthday/HappyBirthdayGoldSetup.jpg",
+    thumbSrc: "./assets/img/common/GoldSetup.jpg",
     imgSrc: [
-      "./assets/img/birthday/HappyBirthdayGoldSetup.jpg"
+      "./assets/img/common/GoldSetup.jpg"
     ]
   },
     {
@@ -37,11 +37,11 @@ let birthdayList = [
     },
     {
       _id: "5",
-      cardTitle: "Happy Birthday Richie Rich",
-      cardText: "<br>Mark your birthday with a rich setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/birthday/HappyBirthdayRichieRich.jpg",
+      cardTitle: "Happy Birthday Vibrant Setup",
+      cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/common/VibrantSetup.jpg",
       imgSrc: [
-        "./assets/img/birthday/HappyBirthdayRichieRich.jpg"
+        "./assets/img/common/VibrantSetup.jpg"
       ]
     },
     {
@@ -55,15 +55,33 @@ let birthdayList = [
     },
     {
       _id: "7",
-      cardTitle: "Happy Birthday Sweet Tower",
-      cardText: "<br>Satisfy your sweet tooth in style with our delightful and confectionery themed birthday decorations.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/birthday/HappyBirthdaySweetTower.jpg",
+      cardTitle: "Cuddle Companions",
+      cardText: "<br>Set the mood with soft teddy and ballons, creating a relaxed and inviting atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/common/CuddleCompanions.jpg",
       imgSrc: [
-        "./assets/img/birthday/HappyBirthdaySweetTower.jpg"
+        "./assets/img/common/CuddleCompanions.jpg"
       ]
     },
     {
       _id: "8",
+      cardTitle: "Teddy Tales",
+      cardText: "<br>Tranform your space into a magical teddy bear realm to immerse the room in a whimsical narrative.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/common/TeddyTales.jpg",
+      imgSrc: [
+        "./assets/img/common/TeddyTales.jpg"
+      ]
+    },
+    {
+      _id: "9",
+      cardTitle: "Teddy Bear Hugs",
+      cardText: "<br>Hide small teddy bear trinkets around the room, encoraging exploration and discovery for loved ones.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/common/TeddyBearHugs.jpg",
+      imgSrc: [
+        "./assets/img/common/TeddyBearHugs.jpg"
+      ]
+    },
+    {
+      _id: "10",
       cardTitle: "Happy Birthday White Tower",
       cardText: "<br>Reach new heights of style with our majestic white tower themed decoration making your special day truly unforgettable.<br><br> Tap on call or whatsapp to receive further details.",
       thumbSrc: "./assets/img/birthday/HappyBirthdayWhiteTower.jpg",
