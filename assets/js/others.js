@@ -1,13 +1,4 @@
 let othersList = [
-    {
-      _id: "1",
-      cardTitle: "Happy Gold Setup",
-      cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/common/GoldSetup.jpg",
-      imgSrc: [
-        "./assets/img/common/GoldSetup.jpg"
-      ]
-    }
   ];
   
   

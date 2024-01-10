@@ -1,14 +1,32 @@
 let bridalshowerList = [
-    {
-      _id: "1",
-      cardTitle: "Happy Gold Setup",
-      cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/common/GoldSetup.jpg",
-      imgSrc: [
-        "./assets/img/common/GoldSetup.jpg"
-      ]
-    }
-  ];
+  {
+    _id: "1",
+    cardTitle: "Elegance in White",
+    cardText: "<br>A scerene ambiance is created with pristine white decor, invoking a sense of purity and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/bridal-shower/EleganceInWhite.jpg",
+    imgSrc: [
+      "./assets/img/bridal-shower/EleganceInWhite.jpg"
+    ]
+   },
+   {
+    _id: "2",
+    cardTitle: "Gold Rush Decor",
+    cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/GoldSetup.jpg",
+    imgSrc: [
+      "./assets/img/common/GoldSetup.jpg"
+    ]
+   },
+   {
+     _id: "3",
+     cardTitle: "Vibrant Setup",
+     cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
+     thumbSrc: "./assets/img/common/VibrantSetup.jpg",
+     imgSrc: [
+       "./assets/img/common/VibrantSetup.jpg"
+     ]
+   }
+];
   
   
   var bridalshowerHTML;

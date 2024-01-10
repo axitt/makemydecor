@@ -1,11 +1,11 @@
 let welcomebabygirlList = [
     {
       _id: "1",
-      cardTitle: "Happy Gold Setup",
-      cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/common/GoldSetup.jpg",
+      cardTitle: "Welcome Princess",
+      cardText: "<br>Gorgeous pink drapery being an air of sophistication to welcome the pricness, setting the stage for a majestic celebration.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-girl/WelcomePrincess.jpg",
       imgSrc: [
-        "./assets/img/common/GoldSetup.jpg"
+        "./assets/img/welcome-baby-girl/WelcomePrincess.jpg"
       ]
     }
   ];

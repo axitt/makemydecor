@@ -1,14 +1,41 @@
 let babyshowerList = [
     {
-      _id: "1",
-      cardTitle: "Happy Gold Setup",
-      cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/common/GoldSetup.jpg",
-      imgSrc: [
-        "./assets/img/common/GoldSetup.jpg"
-      ]
-    }
-  ];
+    _id: "1",
+    cardTitle: "Balloon Extravaganza",
+    cardText: "<br>Balloon extravaganza sets the tone with the cloud of colorful balloons, creating a whimsical and celebratory atmosphere for the babt shower.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/baby-shower/BalloonExtravaganzaForBabyArrival.jpg",
+    imgSrc: [
+      "./assets/img/baby-shower/BalloonExtravaganzaForBabyArrival.jpg"
+    ]
+   },
+   {
+    _id: "2",
+    cardTitle: "Joyful Beginnings",
+    cardText: "<br>Joyful beginnings decorates the space with charming balloons, symbolizing the joy and excitment surrounding the upcoming arrival.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/baby-shower/JoyfulBeginnings.jpg",
+    imgSrc: [
+      "./assets/img/baby-shower/JoyfulBeginnings.jpg"
+    ]
+   },
+   {
+    _id: "3",
+    cardTitle: "Oh Baby Tiny Toes",
+    cardText: "<br>Tiney Toes theme features adorable footprints infusing a sweet and endearing touch to the baby shower celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/baby-shower/OhBabyTinyToes.jpg",
+    imgSrc: [
+      "./assets/img/baby-shower/OhBabyTinyToes.jpg"
+    ]
+   },
+   {
+    _id: "4",
+    cardTitle: "Hey Baby",
+    cardText: "<br>Hey baby transforms the venue into a playful heaven making it delightful for guests.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/baby-shower/HeyBaby.jpg",
+    imgSrc: [
+      "./assets/img/baby-shower/HeyBaby.jpg"
+    ]
+   }
+];
   
   
   var babyshowerHTML;

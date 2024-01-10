@@ -88,6 +88,51 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/anniversary/LoveCuddles.jpg"
     ]
+  },
+  {
+    _id: "11",
+    cardTitle: "Love Nest Teddy",
+    cardText: "<br>Love Nest Teddy introduces a cuddly and charming element, featuring adorable teddy bear accents that add a touch of warmth and affection to the Valentine's Day decor.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/LoveNestTeddy.jpg",
+    imgSrc: [
+      "./assets/img/common/LoveNestTeddy.jpg"
+    ]
+  },
+  {
+    _id: "12",
+    cardTitle: "Romantic Radiance",
+    cardText: "<br>Romantic Radiance bathes the space in soft, warm lighting, creating an intimate and cozy ambiance perfect for a romantic celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/RomanticRadiance.jpg",
+    imgSrc: [
+      "./assets/img/common/RomanticRadiance.jpg"
+    ]
+  },
+  {
+    _id: "13",
+    cardTitle: "Heartfelt Decor",
+    cardText: "<br>Heartfelt Decor incorporates sentimental touches to convey love and emotion throughout the setup.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/HeartfeltDecor.jpg",
+    imgSrc: [
+      "./assets/img/common/HeartfeltDecor.jpg"
+    ]
+  },
+  {
+    _id: "14",
+    cardTitle: "Cherished Charmer",
+    cardText: "<br>Cherished Charmer brings together timeless and elegant decor elements, ensuring a sophisticated and enchanting atmosphere for celebrating love.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/CherishedCharmer.jpg",
+    imgSrc: [
+      "./assets/img/common/CherishedCharmer.jpg"
+    ]
+  },
+  {
+    _id: "15",
+    cardTitle: "Romance Retreat",
+    cardText: "<br>Romance Retreat transforms the venue into a romantic heaven, with cozy seating, draped fabrics, and soft hues creating an intimate setting for couples.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/RomanceRetreat.jpg",
+    imgSrc: [
+      "./assets/img/common/RomanceRetreat.jpg"
+    ]
   }
 ];
 

@@ -1,11 +1,20 @@
 let welcomebabyboyList = [
     {
       _id: "1",
-      cardTitle: "Happy Gold Setup",
-      cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/common/GoldSetup.jpg",
+      cardTitle: "Baby Blues",
+      cardText: "<br>Baby blues welcomes the little one with a soothing palette of soft blue balloons, creating a calm atmosphere for celebration.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-boy/BabyBlues.jpg",
       imgSrc: [
-        "./assets/img/common/GoldSetup.jpg"
+        "./assets/img/welcome-baby-boy/BabyBlues.jpg"
+      ]
+    },
+    {
+      _id: "2",
+      cardTitle: "Chocolate Baby Boy",
+      cardText: "<br>Chocolate boy incorporates rich brown hues, blending warmth and sweetness to infuse the setup with a cozy and charming feel.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-boy/ChocolateBabyBoy.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-boy/ChocolateBabyBoy.jpg"
       ]
     }
   ];
