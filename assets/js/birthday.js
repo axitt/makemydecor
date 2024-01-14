@@ -1,6 +1,24 @@
 let birthdayList = [
   {
     _id: "1",
+    cardTitle: "Jungle Safari",
+    cardText: "<br>Embark on a wild adventure with a safari-inspired birthday extravaganza, where the untamed spirit of the jungle meets the joy of celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/JungleSafari.jpg",
+    imgSrc: [
+      "./assets/img/birthday/JungleSafari.jpg"
+    ]
+  },
+  {
+    _id: "2",
+    cardTitle: "Pastel Donut",
+    cardText: "<br>Indulge in the sweet hues of a pastel paradise adorned with delightful donut-inspired decor, turning your celebration into a sugary spectacle.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/PastelDonut.jpg",
+    imgSrc: [
+      "./assets/img/birthday/PastelDonut.jpg"
+    ]
+  },
+  {
+    _id: "3",
     cardTitle: "Happy Birthday Gold Setup",
     cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/GoldSetup.jpg",
@@ -8,87 +26,132 @@ let birthdayList = [
       "./assets/img/common/GoldSetup.jpg"
     ]
   },
-    {
-      _id: "2",
-      cardTitle: "Happy Birthday Elegant Setup",
-      cardText: "<br>Indulge in an atmosphere of spohistication with our elegantlt setup birthday decoration setup.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/birthday/HappyBirthdayElegantSetup.jpg",
-      imgSrc: [
-        "./assets/img/birthday/HappyBirthdayElegantSetup.jpg"
-      ]
-    },
-    {
-      _id: "3",
-      cardTitle: "Happy Birthday Blisful Setup",
-      cardText: "<br>Experience the joy of your special day surrounded by the exquisite charm of our happy birthday blisful setup.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/birthday/HappyBirthdayBlisfulSetup.jpg",
-      imgSrc: [
-        "./assets/img/birthday/HappyBirthdayBlisfulSetup.jpg"
-      ]
-    },
-    {
-      _id: "4",
-      cardTitle: "Jungle Theme Setup",
-      cardText: "<br>Transform your party into a jungle oasis with our vibrant and immersive jungle theme.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/birthday/JungleThemeSetup.jpg",
-      imgSrc: [
-        "./assets/img/birthday/JungleThemeSetup.jpg"
-      ]
-    },
-    {
-      _id: "5",
-      cardTitle: "Happy Birthday Vibrant Setup",
-      cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/common/VibrantSetup.jpg",
-      imgSrc: [
-        "./assets/img/common/VibrantSetup.jpg"
-      ]
-    },
-    {
-      _id: "6",
-      cardTitle: "Happy Birthday Rainbow Setup",
-      cardText: "<br>Celebrate your special day with a burst of color in our vibrant and enchanting rainbow-themed setup.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/birthday/HappyBirthdayRainbowSetup.jpg",
-      imgSrc: [
-        "./assets/img/birthday/HappyBirthdayRainbowSetup.jpg"
-      ]
-    },
-    {
-      _id: "7",
-      cardTitle: "Cuddle Companions",
-      cardText: "<br>Set the mood with soft teddy and ballons, creating a relaxed and inviting atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/common/CuddleCompanions.jpg",
-      imgSrc: [
-        "./assets/img/common/CuddleCompanions.jpg"
-      ]
-    },
-    {
-      _id: "8",
-      cardTitle: "Teddy Tales",
-      cardText: "<br>Tranform your space into a magical teddy bear realm to immerse the room in a whimsical narrative.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/common/TeddyTales.jpg",
-      imgSrc: [
-        "./assets/img/common/TeddyTales.jpg"
-      ]
-    },
-    {
-      _id: "9",
-      cardTitle: "Teddy Bear Hugs",
-      cardText: "<br>Hide small teddy bear trinkets around the room, encoraging exploration and discovery for loved ones.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/common/TeddyBearHugs.jpg",
-      imgSrc: [
-        "./assets/img/common/TeddyBearHugs.jpg"
-      ]
-    },
-    {
-      _id: "10",
-      cardTitle: "Happy Birthday White Tower",
-      cardText: "<br>Reach new heights of style with our majestic white tower themed decoration making your special day truly unforgettable.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/birthday/HappyBirthdayWhiteTower.jpg",
-      imgSrc: [
-        "./assets/img/birthday/HappyBirthdayWhiteTower.jpg"
-      ]
-    }
+  {
+    _id: "4",
+    cardTitle: "Happy Birthday Elegant Setup",
+    cardText: "<br>Indulge in an atmosphere of spohistication with our elegantlt setup birthday decoration setup.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/HappyBirthdayElegantSetup.jpg",
+    imgSrc: [
+      "./assets/img/birthday/HappyBirthdayElegantSetup.jpg"
+    ]
+  },
+  {
+    _id: "5",
+    cardTitle: "Happy Birthday Blisful Setup",
+    cardText: "<br>Experience the joy of your special day surrounded by the exquisite charm of our happy birthday blisful setup.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/HappyBirthdayBlisfulSetup.jpg",
+    imgSrc: [
+      "./assets/img/birthday/HappyBirthdayBlisfulSetup.jpg"
+    ]
+  },
+  {
+    _id: "6",
+    cardTitle: "Jungle Theme Setup",
+    cardText: "<br>Transform your party into a jungle oasis with our vibrant and immersive jungle theme.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/JungleThemeSetup.jpg",
+    imgSrc: [
+      "./assets/img/birthday/JungleThemeSetup.jpg"
+    ]
+  },
+  {
+    _id: "7",
+    cardTitle: "Happy Birthday Vibrant Setup",
+    cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/VibrantSetup.jpg",
+    imgSrc: [
+      "./assets/img/common/VibrantSetup.jpg"
+    ]
+  },
+  {
+    _id: "8",
+    cardTitle: "Happy Birthday Rainbow Setup",
+    cardText: "<br>Celebrate your special day with a burst of color in our vibrant and enchanting rainbow-themed setup.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/HappyBirthdayRainbowSetup.jpg",
+    imgSrc: [
+      "./assets/img/birthday/HappyBirthdayRainbowSetup.jpg"
+    ]
+  },
+  {
+    _id: "9",
+    cardTitle: "Cuddle Companions",
+    cardText: "<br>Set the mood with soft teddy and ballons, creating a relaxed and inviting atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/CuddleCompanions.jpg",
+    imgSrc: [
+      "./assets/img/common/CuddleCompanions.jpg"
+    ]
+  },
+  {
+    _id: "10",
+    cardTitle: "Teddy Tales",
+    cardText: "<br>Tranform your space into a magical teddy bear realm to immerse the room in a whimsical narrative.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/TeddyTales.jpg",
+    imgSrc: [
+      "./assets/img/common/TeddyTales.jpg"
+    ]
+  },
+  {
+    _id: "11",
+    cardTitle: "Teddy Bear Hugs",
+    cardText: "<br>Hide small teddy bear trinkets around the room, encoraging exploration and discovery for loved ones.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/TeddyBearHugs.jpg",
+    imgSrc: [
+      "./assets/img/common/TeddyBearHugs.jpg"
+    ]
+  },
+  {
+    _id: "12",
+    cardTitle: "Happy Birthday White Tower",
+    cardText: "<br>Reach new heights of style with our majestic white tower themed decoration making your special day truly unforgettable.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/HappyBirthdayWhiteTower.jpg",
+    imgSrc: [
+      "./assets/img/birthday/HappyBirthdayWhiteTower.jpg"
+    ]
+  },
+  {
+    _id: "13",
+    cardTitle: "Do Not Grow Up",
+    cardText: "<br>Step into a whimsical wonderland where age is just a number, and the celebration exudes playful charm for the eternal child at heart.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/DoNotGrowUp.jpg",
+    imgSrc: [
+      "./assets/img/birthday/DoNotGrowUp.jpg"
+    ]
+  },
+  {
+    _id: "14",
+    cardTitle: "Blush Brilliance",
+    cardText: "<br>Elevate your birthday affair with a touch of blush brilliance, where soft tones and dazzling details come together for an elegant and charming ambiance.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/BlushBrilliance.jpg",
+    imgSrc: [
+      "./assets/img/birthday/BlushBrilliance.jpg"
+    ]
+  },
+  {
+    _id: "15",
+    cardTitle: "Rose Gold Elegance",
+    cardText: "<br>Bask in the opulence of rose gold as it adds a touch of sophistication and timeless elegance to your birthday celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/RoseGoldElegance.jpg",
+    imgSrc: [
+      "./assets/img/birthday/RoseGoldElegance.jpg"
+    ]
+  },
+  {
+    _id: "16",
+    cardTitle: "Rose Gold",
+    cardText: "<br>Celebrate in style with a lavish rose gold theme, transforming your party space into a shimmering haven of glamour and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/RoseGold.jpg",
+    imgSrc: [
+      "./assets/img/birthday/RoseGold.jpg"
+    ]
+  },
+  {
+    _id: "17",
+    cardTitle: "Sea Animals",
+    cardText: "<br>Immerse your celebration in an underwater wonderland with the Sea Animals theme, where vibrant marine life decorates every corner, creating a birthday bash filled with oceanic joy.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/SeaAnimals.jpg",
+    imgSrc: [
+      "./assets/img/birthday/SeaAnimals.jpg"
+    ]
+  } 
 ];
 
 

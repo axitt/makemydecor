@@ -97,6 +97,24 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/anniversary/LoveCuddles.jpg"
     ]
+  },
+  {
+    _id: "12",
+    cardTitle: "Balloons And Bears",
+    cardText: "<br>Whisk away into a world of enchantment, where balloons and bears join forces to create an ambiance of pure love and joy.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/BalloonsAndBears.jpg",
+    imgSrc: [
+      "./assets/img/common/BalloonsAndBears.jpg"
+    ]
+  },
+  {
+    _id: "13",
+    cardTitle: "Balloon League",
+    cardText: "<br>Join the league of love with an enchanting array of balloons, transforming your celebration into a symphony of elegance.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/BalloonLeague.jpg",
+    imgSrc: [
+      "./assets/img/common/BalloonLeague.jpg"
+    ]
   }
 ];
   
@@ -134,7 +152,7 @@ let valentinespecialList = [
     <div class="modal-dialog modal-lg" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">Welcome Baby Girl Decoration</h5>
+          <h5 class="modal-title" id="exampleModalLabel">Valentine Special Decoration</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>

@@ -16,6 +16,60 @@ let welcomebabyboyList = [
       imgSrc: [
         "./assets/img/welcome-baby-boy/ChocolateBabyBoy.jpg"
       ]
+    },
+    {
+      _id: "3",
+      cardTitle: "Heaven Sent",
+      cardText: "<br>Transform your space into a celestial haven, adorned with heavenly decor, celebrating the arrival of your little angel.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-boy/HeavenSent.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-boy/HeavenSent.jpg"
+      ]
+    },
+    {
+      _id: "4",
+      cardTitle: "Blessed",
+      cardText: "<br>Embrace the warmth of blessings with a decor ensemble that radiates love and joy, marking the cherished welcome of your baby boy.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-boy/Blessed.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-boy/Blessed.jpg"
+      ]
+    },
+    {
+      _id: "5",
+      cardTitle: "Joyful Journey",
+      cardText: "<br>Embark on a whimsical adventure of joy, where every corner is adorned with delightful decorations, reflecting the beginning of a joyful journey with your baby boy.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-boy/JoyfulJourney.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-boy/JoyfulJourney.jpg"
+      ]
+    },
+    {
+      _id: "6",
+      cardTitle: "Baby Elephant",
+      cardText: "<br>Welcome your little one with the charm of baby elephants, creating a playful and adorable atmosphere for a delightful celebration.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-boy/BabyElephant.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-boy/BabyElephant.jpg"
+      ]
+    },
+    {
+      _id: "7",
+      cardTitle: "Oh Baby",
+      cardText: "<br>Infuse your space with excitement and anticipation, as the Oh Baby theme brings together whimsical elements, capturing the essence of joyful expectancy.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-boy/OhBaby.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-boy/OhBaby.jpg"
+      ]
+    },
+    {
+      _id: "8",
+      cardTitle: "Star Is Born",
+      cardText: "<br>Celebrate the celestial moment when a star is born, with an enchanting decor theme that echoes the magic and wonder of your baby boy's arrival.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-boy/StarIsBorn.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-boy/StarIsBorn.jpg"
+      ]
     }
   ];
   

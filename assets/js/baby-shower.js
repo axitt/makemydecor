@@ -2,7 +2,7 @@ let babyshowerList = [
     {
     _id: "1",
     cardTitle: "Balloon Extravaganza",
-    cardText: "<br>Balloon extravaganza sets the tone with the cloud of colorful balloons, creating a whimsical and celebratory atmosphere for the babt shower.<br><br> Tap on call or whatsapp to receive further details.",
+    cardText: "<br>Balloon extravaganza sets the tone with the cloud of colorful balloons, creating a whimsical and celebratory atmosphere for the baby shower.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/baby-shower/BalloonExtravaganzaForBabyArrival.jpg",
     imgSrc: [
       "./assets/img/baby-shower/BalloonExtravaganzaForBabyArrival.jpg"
@@ -33,6 +33,51 @@ let babyshowerList = [
     thumbSrc: "./assets/img/baby-shower/HeyBaby.jpg",
     imgSrc: [
       "./assets/img/baby-shower/HeyBaby.jpg"
+    ]
+   },
+   {
+    _id: "5",
+    cardTitle: "Pop To Know",
+    cardText: "<br>A popping extravaganza revealing the much-anticipated gender in a burst of colorful surprise.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/baby-shower/PopToKnow.jpg",
+    imgSrc: [
+      "./assets/img/baby-shower/PopToKnow.jpg"
+    ]
+   },
+   {
+    _id: "6",
+    cardTitle: "Pink Or Blue",
+    cardText: "<br>Step into a dreamy dual-toned wonderland where the gender question is celebrated with whimsy and charm.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/baby-shower/PinkOrBlue.jpg",
+    imgSrc: [
+      "./assets/img/baby-shower/PinkOrBlue.jpg"
+    ]
+   },
+   {
+    _id: "7",
+    cardTitle: "Baby Shower Spectacle",
+    cardText: "<br>Prepare for a magical celebration where each corner holds a delightful surprise, turning the baby shower into a captivating spectacle.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/baby-shower/BabyShowerSpectacle.jpg",
+    imgSrc: [
+      "./assets/img/baby-shower/BabyShowerSpectacle.jpg"
+    ]
+   },
+   {
+    _id: "8",
+    cardTitle: "Oh Baby Bliss",
+    cardText: "<br>Immerse in the serenity of pastel hues and delicate decor, creating an atmosphere of pure bliss for the impending arrival.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/baby-shower/OhBabyBliss.jpg",
+    imgSrc: [
+      "./assets/img/baby-shower/OhBabyBliss.jpg"
+    ]
+   },
+   {
+    _id: "9",
+    cardTitle: "BundleOfJoy:",
+    cardText: "<br>A heartwarming celebration adorned with soft hues, capturing the essence of the imminent bundle of joy.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/baby-shower/BundleOfJoy.jpg",
+    imgSrc: [
+      "./assets/img/baby-shower/BundleOfJoy.jpg"
     ]
    }
 ];
@@ -71,7 +116,7 @@ let babyshowerList = [
     <div class="modal-dialog modal-lg" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">Welcome Baby Girl Decoration</h5>
+          <h5 class="modal-title" id="exampleModalLabel">Baby Shower Decoration</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
