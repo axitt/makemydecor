@@ -19,7 +19,7 @@ let birthdayList = [
   },
   {
     _id: "3",
-    cardTitle: "Happy Birthday Gold Setup",
+    cardTitle: "Gold Setup",
     cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/GoldSetup.jpg",
     imgSrc: [
@@ -28,7 +28,7 @@ let birthdayList = [
   },
   {
     _id: "4",
-    cardTitle: "Happy Birthday Elegant Setup",
+    cardTitle: "Elegant Setup",
     cardText: "<br>Indulge in an atmosphere of spohistication with our elegantlt setup birthday decoration setup.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/HappyBirthdayElegantSetup.jpg",
     imgSrc: [
@@ -37,7 +37,7 @@ let birthdayList = [
   },
   {
     _id: "5",
-    cardTitle: "Happy Birthday Blisful Setup",
+    cardTitle: "Blisful Setup",
     cardText: "<br>Experience the joy of your special day surrounded by the exquisite charm of our happy birthday blisful setup.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/HappyBirthdayBlisfulSetup.jpg",
     imgSrc: [
@@ -46,7 +46,7 @@ let birthdayList = [
   },
   {
     _id: "6",
-    cardTitle: "Jungle Theme Setup",
+    cardTitle: "Jungle Theme",
     cardText: "<br>Transform your party into a jungle oasis with our vibrant and immersive jungle theme.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/JungleThemeSetup.jpg",
     imgSrc: [
@@ -55,7 +55,7 @@ let birthdayList = [
   },
   {
     _id: "7",
-    cardTitle: "Happy Birthday Vibrant Setup",
+    cardTitle: "Vibrant Setup",
     cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/VibrantSetup.jpg",
     imgSrc: [
@@ -64,7 +64,7 @@ let birthdayList = [
   },
   {
     _id: "8",
-    cardTitle: "Happy Birthday Rainbow Setup",
+    cardTitle: "Rainbow Decor",
     cardText: "<br>Celebrate your special day with a burst of color in our vibrant and enchanting rainbow-themed setup.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/HappyBirthdayRainbowSetup.jpg",
     imgSrc: [
@@ -100,7 +100,7 @@ let birthdayList = [
   },
   {
     _id: "12",
-    cardTitle: "Happy Birthday White Tower",
+    cardTitle: "White Tower",
     cardText: "<br>Reach new heights of style with our majestic white tower themed decoration making your special day truly unforgettable.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/HappyBirthdayWhiteTower.jpg",
     imgSrc: [

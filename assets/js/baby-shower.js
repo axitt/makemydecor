@@ -1,7 +1,7 @@
 let babyshowerList = [
     {
     _id: "1",
-    cardTitle: "Balloon Extravaganza",
+    cardTitle: "Extravaganza",
     cardText: "<br>Balloon extravaganza sets the tone with the cloud of colorful balloons, creating a whimsical and celebratory atmosphere for the baby shower.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/baby-shower/BalloonExtravaganzaForBabyArrival.jpg",
     imgSrc: [
@@ -55,7 +55,7 @@ let babyshowerList = [
    },
    {
     _id: "7",
-    cardTitle: "Baby Shower Spectacle",
+    cardTitle: "Magical Moment",
     cardText: "<br>Prepare for a magical celebration where each corner holds a delightful surprise, turning the baby shower into a captivating spectacle.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/baby-shower/BabyShowerSpectacle.jpg",
     imgSrc: [

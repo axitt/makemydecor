@@ -1,7 +1,7 @@
 let anniversaryList = [
   {
     _id: "1",
-    cardTitle: "Milestone Memory Setup",
+    cardTitle: "Milestone Memory",
     cardText: "<br>Opt for a eye-catching milestone memory setup to create a lively and celebratory atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/anniversary/MilestoneMemorySetup.jpg",
     imgSrc: [
@@ -10,7 +10,7 @@ let anniversaryList = [
   },
   {
     _id: "2",
-    cardTitle: "Radiant Love Setup",
+    cardTitle: "Radiant Love",
     cardText: "<br>Welcome guests with a stunning balloon arch in a spectrum of radiant colors, setting the tone for a joyful anniversary.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/anniversary/RadiantLoveSetup.jpg",
     imgSrc: [
@@ -19,7 +19,7 @@ let anniversaryList = [
   },
   {
     _id: "3",
-    cardTitle: "Happy Anniversary Gold Setup",
+    cardTitle: "Gold Setup",
     cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/GoldSetup.jpg",
     imgSrc: [
@@ -28,7 +28,7 @@ let anniversaryList = [
   },
   {
     _id: "4",
-    cardTitle: "Happy Anniversary Vibrant Setup",
+    cardTitle: "Vibrant Setup",
     cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/VibrantSetup.jpg",
     imgSrc: [
@@ -37,7 +37,7 @@ let anniversaryList = [
   },
   {
     _id: "5",
-    cardTitle: "Home Heaven Setup",
+    cardTitle: "Home Heaven",
     cardText: "<br>Creating an ethereal atmosphere with a mix of helium and metallic balloons, tranforming your home into a dreamy heaven.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/anniversary/HomeHeavenSetup.jpg",
     imgSrc: [
@@ -46,7 +46,7 @@ let anniversaryList = [
   },
   {
     _id: "6",
-    cardTitle: "Pink Bliss Setup",
+    cardTitle: "Pink Bliss",
     cardText: "<br>Celebrate in the shades of pink with our enchanting ballon arrangement, transforming your space into a heaven of pure bliss.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/anniversary/DomesticBlissSetup.jpg",
     imgSrc: [
@@ -55,7 +55,7 @@ let anniversaryList = [
   },
   {
     _id: "7",
-    cardTitle: "Cuddle Companions",
+    cardTitle: "Cuddle Companion",
     cardText: "<br>Set the mood with soft teddy and ballons, creating a relaxed and inviting atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/CuddleCompanions.jpg",
     imgSrc: [
@@ -100,7 +100,7 @@ let anniversaryList = [
   },
   {
     _id: "12",
-    cardTitle: "Romantic Radiance",
+    cardTitle: "Romantic",
     cardText: "<br>Romantic Radiance bathes the space in soft, warm lighting, creating an intimate and cozy ambiance perfect for a romantic celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/RomanticRadiance.jpg",
     imgSrc: [
@@ -118,7 +118,7 @@ let anniversaryList = [
   },
   {
     _id: "14",
-    cardTitle: "Cherished Charmer",
+    cardTitle: "Charmer",
     cardText: "<br>Cherished Charmer brings together timeless and elegant decor elements, ensuring a sophisticated and enchanting atmosphere for celebrating love.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/CherishedCharmer.jpg",
     imgSrc: [
@@ -136,7 +136,7 @@ let anniversaryList = [
   },
   {
     _id: "16",
-    cardTitle: "Balloons And Bears",
+    cardTitle: "Balloons & Bear",
     cardText: "<br>Whisk away into a world of enchantment, where balloons and bears join forces to create an ambiance of pure love and joy.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/BalloonsAndBears.jpg",
     imgSrc: [
