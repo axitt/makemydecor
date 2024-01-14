@@ -102,8 +102,8 @@ let babyshowerList = [
     <div type="button" class="col-6 col-lg-3 col-md-4 mb-4" data-toggle="modal" data-target="#exampleModal${list._id}">
       <div class="card">
         <img class="card-img-top" src="${list.thumbSrc}" alt="Card image cap">
-        <div class="card-body">
-          <h6 class="card-title">${list.cardTitle}</h6>
+      <div class="card-body py-2">
+        <h6 class="card-title card-title-text">${list.cardTitle}</h6>
         </div>
         <div class="btn-group" role="group" aria-label="Basic example">
         <a href="#" class="btn btn-outline-primary btn-sm rounded-0"><i class="bi bi-telephone"></i><span> Call</span></a>

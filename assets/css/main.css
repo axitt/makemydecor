@@ -262,7 +262,7 @@ section {
 
 .header .logo img {
   max-height: 40px;
-  margin-right: 6px;
+  margin-right: 10px;
 }
 
 .header .logo h1 {
@@ -277,22 +277,6 @@ section {
   color: var(--color-primary);
 }
 
-.header .btn-book-a-event,
-.header .btn-book-a-event:focus {
-  font-size: 14px;
-  color: #fff;
-  background: var(--color-primary);
-  padding: 8px 20px;
-  margin-left: 30px;
-  border-radius: 50px;
-  transition: 0.3s;
-}
-
-.header .btn-book-a-event:hover,
-.header .btn-book-a-event:focus:hover {
-  color: #000000;
-  background: #f4f4f4;
-}
 
 section {
   scroll-margin-top: 90px;
@@ -1143,7 +1127,7 @@ section {
   transition: 0.5s;
   color: #fff;
   background: var(--color-primary);
-  box-shadow: 0 8px 28px rgba(206, 18, 18, 0.2);
+  box-shadow: 0 8px 28px rgba(224, 221, 221, 0.45);
 }
 
 .hero .btn-book-a-event:hover {
@@ -1152,28 +1136,11 @@ section {
   box-shadow: 0 8px 28px rgba(224, 221, 221, 0.45);
 }
 
-.hero .btn-watch-video {
-  font-size: 16px;
-  transition: 0.5s;
-  margin-left: 25px;
-  color: var(--font-secondary);
-  font-weight: 600;
-}
-
-.hero .btn-watch-video i {
-  color: var(--color-primary);
-  font-size: 32px;
-  transition: 0.3s;
-  line-height: 0;
-  margin-right: 8px;
-}
-
-.hero .btn-watch-video:hover {
-  color: var(--color-primary);
-}
-
-.hero .btn-watch-video:hover i {
-  color: #000000;
+.hero .dropdown-menu {
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 1px;
+  padding: 12px 10px 12px 36px;
 }
 
 @media (max-width: 640px) {
@@ -1186,6 +1153,17 @@ section {
     font-size: 14px;
   }
 }
+
+/* Card Style */
+/*--------------------------------------------------------------
+# Cards
+--------------------------------------------------------------*/
+
+.card .card-body .card-title-text {
+  font-size: 14px;
+  margin-bottom: 0px;
+}
+
 
 /* Smooth scroll behavior */
 /*--------------------------------------------------------------

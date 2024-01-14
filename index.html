@@ -15,6 +15,7 @@
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href='https://fonts.googleapis.com/css?family=Cherry Cream Soda' rel='stylesheet'>
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&family=Amatic+SC:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
 
@@ -24,6 +25,11 @@
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
 
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
@@ -39,7 +45,7 @@
       <a href="./#hero" class="logo d-flex align-items-center me-auto me-lg-0">
 
         <img src="assets/img/logo.png" class="logo" alt=""><span></span>
-        <h1 style="font-family:'Rock Salt'">Make My Decor</h1>
+        <h1 style="font-family:'Cherry Cream Soda'">Make My Decor</h1>
       </a>
 
       <nav id="navbar" class="navbar">
@@ -65,7 +71,7 @@
         </ul>
       </nav><!-- .navbar -->
 
-      <a class="btn-book-a-event" href="#book-a-event">Book</a>
+       
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
 
@@ -77,10 +83,27 @@
     <div class="container">
       <div class="row justify-content-between gy-5">
         <div class="col-lg-5 order-2 order-lg-1 d-flex flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start">
-          <h2 data-aos="fade-up">We take away your stress<br>so that you make memories</h2>
+          <h2 data-aos="fade-up">We take away your stress</h2>
           <p data-aos="fade-up" data-aos-delay="100">We offer a wide range of impeccable decor setups to suit different budgets.</p>
           <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
-            <a href="#book-a-event" class="btn-book-a-event">select occasion</a>
+
+            <!-- <a href="#book-a-event" class="btn-book-a-event">Select Occasion</a> -->
+            <div class="dropdown custom-dropdown">
+              <button class="btn-book-a-event dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Select Occasion
+              </button>
+              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <a class="dropdown-item" href="./birthday.html">Birthday</a><div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="./anniversary.html">Anniversary</a><div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="./baby-shower.html">Baby Shower</a><div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="./bachelorette-party.html">Bachelorette Party</a><div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="./bridal-shower.html">Bridal Shower</a><div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="./valentine-special.html">Valentine Special</a><div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="./welcome-baby-boy.html">Welcome Baby Boy</a><div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="./welcome-baby-girl.html">Welcome Baby Girl</a>
+                <a class="dropdown-item" href="./others.html">Others</a>
+              </div>
+            </div>
           </div>
         </div>
         <div class="col-lg-5 order-1 order-lg-2 text-center text-lg-start">
@@ -90,7 +113,7 @@
     </div>
   </section><!-- End Hero Section -->
 
-  <main id="main">
+  <main id="main" class="z-0">
 
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
@@ -150,7 +173,7 @@
                   Our commitment to exceeding customer expectations has earned us a reputation for delivering not just balloons but unforgettable experiences.
               </p>
               <div class="text-center">
-                <a href="#" class="more-btn">Book us <i class="bx bx-chevron-right"></i></a>
+                <a href="https://wa.me/918779366396" target="_blank" class="more-btn">Book us <i class="bx bx-chevron-right"></i></a>
               </div>
             </div>
           </div><!-- End Why Box -->
@@ -274,15 +297,14 @@
         </div>
 
         <div class="d-flex justify-content-center">
-          <a href="#" class="contact-icon"><i class="bi bi-whatsapp"></i></a>
-          <a href="#" class="contact-icon"><i class="bi bi-facebook"></i></a>
-          <a href="#" class="contact-icon"><i class="bi bi-instagram"></i></a>
-          <a href="#" class="contact-icon"><i class="bi bi-snapchat"></i></a>
+          <a href="https://wa.me/918779366396" target="_blank" class="contact-icon"><i class="bi bi-whatsapp"></i></a>
+          <a href="https://www.facebook.com/profile.php?id=61553956021208" target="_blank" class="contact-icon"><i class="bi bi-facebook"></i></a>
+          <a href="https://www.instagram.com/makemydecor.in/" target="_blank" class="contact-icon"><i class="bi bi-instagram"></i></a>
         </div>
         <br/>
 
         <div class="mb-3">
-          <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30158.70040664222!2d72.8478907781536!3d19.11478125411023!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b61b41dfb131%3A0xa668297563ddac31!2sAndheri%20East%2C%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1704528004038!5m2!1sen!2sin" frameborder="0" allowfullscreen></iframe>
+          <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed/v1/place?q=Mumbai,+Maharashtra,+India&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" frameborder="0" allowfullscreen></iframe>
         </div><!-- End Google Maps -->
 
         <div class="row gy-4">
@@ -361,12 +383,12 @@
         </div>
 
         <div class="col-lg-3 col-md-6 footer-links d-flex">
-          <i class="bi bi-telephone icon"></i>
+          <i class="bi bi-person-lines-fill icon"></i>
           <div>
             <h4>Book Event at</h4>
             <p>
-              <strong>Phone:</strong> +91 8779366396<br>
-              <strong>Email:</strong> makemydecor.helpdesk@gmail.com<br>
+              <span style="color:rgba(255, 255, 255, 0.7)">+91 8779366396</span><br>
+              <span style="color:rgba(255, 255, 255, 0.7)">makemydecor.helpdesk@gmail.com</span><br>
             </p>
           </div>
         </div>
@@ -385,10 +407,9 @@
         <div class="col-lg-3 col-md-6 footer-links">
           <h4>Follow Us</h4>
           <div class="social-links d-flex">
-            <a href="#" class="contact-icon"><i class="bi bi-whatsapp"></i></a>
-            <a href="#" class="contact-icon"><i class="bi bi-facebook"></i></a>
-            <a href="#" class="contact-icon"><i class="bi bi-instagram"></i></a>
-            <a href="#" class="contact-icon"><i class="bi bi-snapchat"></i></a>
+            <a href="https://wa.me/918779366396" target="_blank" class="contact-icon"><i class="bi bi-whatsapp"></i></a>
+            <a href="https://www.facebook.com/profile.php?id=61553956021208" target="_blank" class="contact-icon"><i class="bi bi-facebook"></i></a>
+            <a href="https://www.instagram.com/makemydecor.in/" target="_blank" class="contact-icon"><i class="bi bi-instagram"></i></a>
           </div>
         </div>
 
