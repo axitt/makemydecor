@@ -7,6 +7,42 @@ let welcomebabygirlList = [
       imgSrc: [
         "./assets/img/welcome-baby-girl/WelcomePrincess.jpg"
       ]
+    },
+    {
+      _id: "2",
+      cardTitle: "Sugar And Spice",
+      cardText: "<br>Step into a world of sweetness and charm, where every corner is sprinkled with joy, welcoming our little girl with the perfect blend of sugar and spice.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-girl/SugarAndSpice.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-girl/SugarAndSpice.jpg"
+      ]
+    },
+    {
+      _id: "3",
+      cardTitle: "Pink Princess",
+      cardText: "<br>Transform your home into a regal palace adorned in shades of pink, fit for the arrival of our little princess, the newest member of the royal family.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-girl/PinkPrincess.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-girl/PinkPrincess.jpg"
+      ]
+    },
+    {
+      _id: "4",
+      cardTitle: "Dazzling Dreams",
+      cardText: "<br>Embrace the enchantment of a dreamy wonderland, where every detail sparkles and shimmers, setting the stage for a journey filled with dazzling dreams for our baby girl.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-girl/DazzlingDreams.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-girl/DazzlingDreams.jpg"
+      ]
+    },
+    {
+      _id: "5",
+      cardTitle: "Star Is Born",
+      cardText: "<br>Underneath a sky of twinkling stars, our home welcomes the brightest star of all, as we celebrate the magical moment when our little star is born.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-girl/StarIsBorn.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-girl/StarIsBorn.jpg"
+      ]
     }
   ];
   
