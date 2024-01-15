@@ -1141,6 +1141,8 @@ section {
   font-size: 14px;
   letter-spacing: 1px;
   padding: 12px 10px 12px 36px;
+  overflow-y: scroll;
+  height:150px;
 }
 
 @media (max-width: 640px) {
