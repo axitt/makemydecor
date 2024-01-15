@@ -1,7 +1,7 @@
 let anniversaryList = [
   {
     _id: "1",
-    cardTitle: "Milestone Memory",
+    cardTitle: "Mega Milestone",
     cardText: "<br>Opt for a eye-catching milestone memory setup to create a lively and celebratory atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/anniversary/MilestoneMemorySetup.jpg",
     imgSrc: [
@@ -178,7 +178,7 @@ anniversaryList.forEach(function(list) {
         <h6 class="card-title">${list.cardTitle}</h6>
       </div>
       <div class="btn-group" role="group" aria-label="Basic example">
-      <a href="#" class="btn btn-outline-primary btn-sm rounded-0"><i class="bi bi-telephone"></i><span> Call</span></a>
+      <a href="tel:+918779366396" class="btn btn-outline-primary btn-sm rounded-0"><i class="bi bi-telephone"></i><span> Call</span></a>
       <a href="#" class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>
       </div>
     </div>
@@ -223,7 +223,7 @@ anniversaryList.forEach(function(list) {
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-outline-secondary btn-sm rounded-0" data-dismiss="modal">Close</button>
-        <a href="#" class="btn btn-outline-primary btn-sm rounded-0"><i class="bi bi-telephone"></i><span> Call</span></a>
+        <a href="tel:+918779366396" class="btn btn-outline-primary btn-sm rounded-0"><i class="bi bi-telephone"></i><span> Call</span></a>
         <a href="#" class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>  
       </div>
     </div>
