@@ -151,7 +151,142 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/SeaAnimals.jpg"
     ]
-  } 
+  },
+  {
+    _id: "18",
+    cardTitle: "Purple Butterfly",
+    cardText: "<br>Transform the party space into a whimsical garden with shades of purple and enchanting butterfly decorations. Let the delicate fluttering wings add a touch of magic to the celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/PurpleButterfly.jpg",
+    imgSrc: [
+      "./assets/img/birthday/PurpleButterfly.jpg"
+    ]
+  },
+  {
+    _id: "19",
+    cardTitle: "Butterfly Bites",
+    cardText: "<br>Indulge in a feast for the eyes with the Butterfly Bites theme. A delightful combination of vibrant butterflies and delectable treats creates a visual and tasty delight.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/ButterflyBites.jpg",
+    imgSrc: [
+      "./assets/img/birthday/ButterflyBites.jpg"
+    ]
+  },
+  {
+    _id: "20",
+    cardTitle: "Jungle Magic",
+    cardText: "<br>Take a journey into the heart of the jungle with Jungle Magic. Lush greenery, wild animals, and adventurous decorations will transport guests to an exotic and thrilling celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/JungleMagic.jpg",
+    imgSrc: [
+      "./assets/img/birthday/JungleMagic.jpg"
+    ]
+  },
+  {
+    _id: "21",
+    cardTitle: "CocoMelon",
+    cardText: "<br>Dive into the world of musical joy with a CocoMelon-themed birthday. Bright colors, musical notes, and characters from the popular show set the stage for a melodious celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/CocoMelon.jpg",
+    imgSrc: [
+      "./assets/img/birthday/CocoMelon.jpg"
+    ]
+  },
+  {
+    _id: "22",
+    cardTitle: "Dino Party",
+    cardText: "<br>Roar into a prehistoric adventure with the Dino Party theme. Bring dinosaurs to life with decorations that transport guests to a land of ancient wonders.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/DinoParty.jpg",
+    imgSrc: [
+      "./assets/img/birthday/DinoParty.jpg"
+    ]
+  },
+  {
+    _id: "23",
+    cardTitle: "Dinosaur Theme",
+    cardText: "<br>Embark on a Jurassic journey with a Dinosaur-themed birthday. From T-Rex to Triceratops, let the decorations create a dino-mite atmosphere for the celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/DinosaurTheme.jpg",
+    imgSrc: [
+      "./assets/img/birthday/DinosaurTheme.jpg"
+    ]
+  },
+  {
+    _id: "24",
+    cardTitle: "Baby Boss",
+    cardText: "<br>Celebrate the little boss with a Baby Boss-themed birthday. Decorate with tiny ties, briefcases, and playful office elements for a cute and charming party setting.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/BabyBoss.jpg",
+    imgSrc: [
+      "./assets/img/birthday/BabyBoss.jpg"
+    ]
+  },
+  {
+    _id: "25",
+    cardTitle: "Car Theme",
+    cardText: "<br>Start your engines and race into a fantastic Car-themed celebration. Checkered flags, car motifs, and vibrant colors set the tone for a high-speed birthday adventure.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/CarTheme.jpg",
+    imgSrc: [
+      "./assets/img/birthday/CarTheme.jpg"
+    ]
+  },
+  {
+    _id: "26",
+    cardTitle: "Barbie Wonderland",
+    cardText: "<br>Enter a world of elegance and glamour with a Barbie Wonderland theme. Pink, sparkles, and iconic Barbie elements create a dreamy setting fit for a princess.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/BarbieWonderland.jpg",
+    imgSrc: [
+      "./assets/img/birthday/BarbieWonderland.jpg"
+    ]
+  },
+  {
+    _id: "27",
+    cardTitle: "Barbie World",
+    cardText: "<br>Dive into the chic and stylish Barbie World. Glittering decor, fashion-forward elements, and a touch of glamour make this birthday celebration a runway-worthy event.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/BarbieWorld.jpg",
+    imgSrc: [
+      "./assets/img/birthday/BarbieWorld.jpg"
+    ]
+  },
+  {
+    _id: "28",
+    cardTitle: "Barbie Bliss",
+    cardText: "<br>Immerse the party in Barbie Bliss with a perfect blend of pink, sophistication, and Barbie-inspired decorations. Let the celebration radiate glamour and joy.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/BarbieBliss.jpg",
+    imgSrc: [
+      "./assets/img/birthday/BarbieBliss.jpg"
+    ]
+  },
+  {
+    _id: "29",
+    cardTitle: "One Year Bash",
+    cardText: "<br>Celebrate the milestone with a One Year Bash. From adorable decorations to a cake smash, make the first birthday unforgettable and filled with joy.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/OneYearBash.jpg",
+    imgSrc: [
+      "./assets/img/birthday/OneYearBash.jpg"
+    ]
+  },
+  {
+    _id: "30",
+    cardTitle: "Tickled Pink",
+    cardText: "<br>Delight in the charming Tickled Pink theme. Soft pastels, whimsical decor, and an abundance of pink create a sweet and playful atmosphere for the celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/TickledPink.jpg",
+    imgSrc: [
+      "./assets/img/common/TickledPink.jpg"
+    ]
+  },
+  {
+    _id: "31",
+    cardTitle: "Flamingo Fiesta",
+    cardText: "<br>Turn the party into a tropical paradise with a Flamingo Fiesta. Flamingos, vibrant colors, and a touch of aloha spirit make for a lively and festive celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/FlamingoFiesta.jpg",
+    imgSrc: [
+      "./assets/img/common/FlamingoFiesta.jpg"
+    ]
+  },
+  {
+    _id: "32",
+    cardTitle: "Butterfly Kisses",
+    cardText: "<br>Shower the birthday star with Butterfly Kisses. Delicate butterflies, gentle hues, and enchanting decor elements set the stage for a celebration filled with love and sweetness.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/ButterflyKisses.jpg",
+    imgSrc: [
+      "./assets/img/common/ButterflyKisses.jpg"
+    ]
+  }  
 ];
 
 
