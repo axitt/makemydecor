@@ -44,6 +44,33 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/common/BalloonLeague.jpg"
     ]
+  },
+  {
+    _id: "6",
+    cardTitle: "Tickled Pink",
+    cardText: "<br>Delight in the charming Tickled Pink theme. Soft pastels, whimsical decor, and an abundance of pink create a sweet and playful atmosphere for the celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/TickledPink.jpg",
+    imgSrc: [
+      "./assets/img/common/TickledPink.jpg"
+    ]
+  },
+  {
+    _id: "7",
+    cardTitle: "Flamingo Fiesta",
+    cardText: "<br>Turn the party into a tropical paradise with a Flamingo Fiesta. Flamingos, vibrant colors, and a touch of aloha spirit make for a lively and festive celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/FlamingoFiesta.jpg",
+    imgSrc: [
+      "./assets/img/common/FlamingoFiesta.jpg"
+    ]
+  },
+  {
+    _id: "8",
+    cardTitle: "Butterfly Kisses",
+    cardText: "<br>Shower the anniversary star with Butterfly Kisses. Delicate butterflies, gentle hues, and enchanting decor elements set the stage for a celebration filled with love and sweetness.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/ButterflyKisses.jpg",
+    imgSrc: [
+      "./assets/img/common/ButterflyKisses.jpg"
+    ]
   }
  ];
   
