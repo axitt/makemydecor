@@ -71,6 +71,105 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/common/ButterflyKisses.jpg"
     ]
+  },
+  {
+    _id: "9",
+    cardTitle: "Disco Party",
+    cardText: "<br>Dive into the ultimate Disco Party experience, where dazzling lights and funky decor set the stage for a night of glamour and dance.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/bachelorette-party/DiscoParty.jpg",
+    imgSrc: [
+      "./assets/img/bachelorette-party/DiscoParty.jpg"
+    ]
+  },
+  {
+    _id: "10",
+    cardTitle: "Ultimate Disco",
+    cardText: "<br>Transform your space into the Ultimate Disco haven, radiating with retro vibes and groovy elements that promise an unforgettable night.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/bachelorette-party/UltimateDisco.jpg",
+    imgSrc: [
+      "./assets/img/bachelorette-party/UltimateDisco.jpg"
+    ]
+  },
+  {
+    _id: "11",
+    cardTitle: "Final Destination",
+    cardText: "<br>Celebrate the bride-to-be's final destination with a Bachelorette bash featuring chic decor that's as fabulous as the guest of honor.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/bachelorette-party/FinalDestination.jpg",
+    imgSrc: [
+      "./assets/img/bachelorette-party/FinalDestination.jpg"
+    ]
+  },
+  {
+    _id: "12",
+    cardTitle: "Last Disco",
+    cardText: "<br>Dance the night away at the Last Disco-themed celebration, where every detail sparkles with disco ball glamour and excitement.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/bachelorette-party/LastDisco.jpg",
+    imgSrc: [
+      "./assets/img/bachelorette-party/LastDisco.jpg"
+    ]
+  },
+  {
+    _id: "13",
+    cardTitle: "Lets Party",
+    cardText: "<br>Let the festivities begin with a Let's Party theme, complete with vibrant decorations that exude energy and celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/bachelorette-party/LetsParty.jpg",
+    imgSrc: [
+      "./assets/img/bachelorette-party/LetsParty.jpg"
+    ]
+  },
+  {
+    _id: "14",
+    cardTitle: "Lets Go Girls",
+    cardText: "<br>Gather the squad for a Let's Go Girls extravaganza, where bold decor choices mirror the confidence and spirit of the bride and her friends.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/bachelorette-party/LetsGoGirls.jpg",
+    imgSrc: [
+      "./assets/img/bachelorette-party/LetsGoGirls.jpg"
+    ]
+  },
+  {
+    _id: "15",
+    cardTitle: "Groovy",
+    cardText: "<br>Transport your celebration back in time to the Groovy era with psychedelic decorations and a retro-chic ambiance.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/bachelorette-party/Groovy.jpg",
+    imgSrc: [
+      "./assets/img/bachelorette-party/Groovy.jpg"
+    ]
+  },
+  {
+    _id: "16",
+    cardTitle: "Dancing Queen",
+    cardText: "<br>Crown the bride as the Dancing Queen of the night with a dazzling celebration featuring dance-inspired decor and vibrant energy.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/bachelorette-party/DancingQueen.jpg",
+    imgSrc: [
+      "./assets/img/bachelorette-party/DancingQueen.jpg"
+    ]
+  },
+  {
+    _id: "17",
+    cardTitle: "Glamour",
+    cardText: "<br>Unleash the Glamour with a sophisticated decor ensemble, featuring chic elements that radiate style and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/Glamour.jpg",
+    imgSrc: [
+      "./assets/img/common/Glamour.jpg"
+    ]
+  },
+  {
+    _id: "18",
+    cardTitle: "Pink Garland",
+    cardText: "<br>Envelop your space in the charm of Pink Garland, weaving a trail of delicate blossoms to create a romantic atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/PinkGarland.jpg",
+    imgSrc: [
+      "./assets/img/common/PinkGarland.jpg"
+    ]
+  },
+  {
+    _id: "19",
+    cardTitle: "Disco Balloons",
+    cardText: "<br>Transport your guests to a disco-inspired realm with White Disco Balloons, bringing a dance-worthy vibe to your event.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/DiscoBalloons.jpg",
+    imgSrc: [
+      "./assets/img/common/DiscoBalloons.jpg"
+    ]
   }
  ];
   

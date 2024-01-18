@@ -286,6 +286,96 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/common/ButterflyKisses.jpg"
     ]
+  },
+  {
+    _id: "33",
+    cardTitle: "Silver Glow",
+    cardText: "<br>Illuminate your celebration with a shimmering silver glow that adds an elegant touch to every corner.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/SilverGlow.jpg",
+    imgSrc: [
+      "./assets/img/birthday/SilverGlow.jpg"
+    ]
+  },
+  {
+    _id: "34",
+    cardTitle: "Pink Paradise",
+    cardText: "<br>Step into a whimsical Pink Paradise where every detail is adorned in delightful shades of pink, creating a dreamy ambiance.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/PinkParadise.jpg",
+    imgSrc: [
+      "./assets/img/birthday/PinkParadise.jpg"
+    ]
+  },
+  {
+    _id: "35",
+    cardTitle: "Silver Balls",
+    cardText: "<br>Elevate your decor with the sophistication of Silver Balls, transforming your space into a chic and glamorous setting.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/SilverBalls.jpg",
+    imgSrc: [
+      "./assets/img/birthday/SilverBalls.jpg"
+    ]
+  },
+  {
+    _id: "36",
+    cardTitle: "Barbie Magic",
+    cardText: "<br>Immerse the venue in the enchanting world of Barbie Magic, where vibrant colors and playful decor bring the theme to life.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/BarbieMagic.jpg",
+    imgSrc: [
+      "./assets/img/birthday/BarbieMagic.jpg"
+    ]
+  },
+  {
+    _id: "37",
+    cardTitle: "Frozen Theme",
+    cardText: "<br>Embark on a journey into the magical Frozen Theme, where icy hues and frosty accents create a winter wonderland.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/FrozenTheme.jpg",
+    imgSrc: [
+      "./assets/img/birthday/FrozenTheme.jpg"
+    ]
+  },
+  {
+    _id: "38",
+    cardTitle: "Glow Sticks",
+    cardText: "<br>Infuse your celebration with vibrant energy using Glow Sticks that cast a mesmerizing glow and set the mood for fun.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/GlowSticks.jpg",
+    imgSrc: [
+      "./assets/img/birthday/GlowSticks.jpg"
+    ]
+  },
+  {
+    _id: "39",
+    cardTitle: "Glamour",
+    cardText: "<br>Unleash the Glamour with a sophisticated decor ensemble, featuring chic elements that radiate style and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/Glamour.jpg",
+    imgSrc: [
+      "./assets/img/common/Glamour.jpg"
+    ]
+  },
+  {
+    _id: "40",
+    cardTitle: "Pink Garland",
+    cardText: "<br>Envelop your space in the charm of Pink Garland, weaving a trail of delicate blossoms to create a romantic atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/PinkGarland.jpg",
+    imgSrc: [
+      "./assets/img/common/PinkGarland.jpg"
+    ]
+  },
+  {
+    _id: "41",
+    cardTitle: "Disco Balloons",
+    cardText: "<br>Transport your guests to a disco-inspired realm with White Disco Balloons, bringing a dance-worthy vibe to your event.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/DiscoBalloons.jpg",
+    imgSrc: [
+      "./assets/img/common/DiscoBalloons.jpg"
+    ]
+  },
+  {
+    _id: "42",
+    cardTitle: "Tent Canopy",
+    cardText: "<br>Create an intimate and stylish setting with a Tent Canopy, offering a chic shelter for a celebration under the stars.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/TentCanopy.jpg",
+    imgSrc: [
+      "./assets/img/common/TentCanopy.jpg"
+    ]
   }  
 ];
 

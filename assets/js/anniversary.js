@@ -178,6 +178,51 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/ButterflyKisses.jpg"
     ]
+  },
+  {
+    _id: "21",
+    cardTitle: "Love Kisses",
+    cardText: "<br>Create a romantic ambiance with the LoveKisses theme, where every element of the decor whispers sweet sentiments and celebrates the magic of love.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/LoveKisses.jpg",
+    imgSrc: [
+      "./assets/img/common/LoveKisses.jpg"
+    ]
+  },
+  {
+    _id: "22",
+    cardTitle: "Glamour",
+    cardText: "<br>Unleash the Glamour with a sophisticated decor ensemble, featuring chic elements that radiate style and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/Glamour.jpg",
+    imgSrc: [
+      "./assets/img/common/Glamour.jpg"
+    ]
+  },
+  {
+    _id: "23",
+    cardTitle: "Pink Garland",
+    cardText: "<br>Envelop your space in the charm of Pink Garland, weaving a trail of delicate blossoms to create a romantic atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/PinkGarland.jpg",
+    imgSrc: [
+      "./assets/img/common/PinkGarland.jpg"
+    ]
+  },
+  {
+    _id: "24",
+    cardTitle: "Disco Balloons",
+    cardText: "<br>Transport your guests to a disco-inspired realm with White Disco Balloons, bringing a dance-worthy vibe to your event.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/DiscoBalloons.jpg",
+    imgSrc: [
+      "./assets/img/common/DiscoBalloons.jpg"
+    ]
+  },
+  {
+    _id: "25",
+    cardTitle: "Tent Canopy",
+    cardText: "<br>Create an intimate and stylish setting with a Tent Canopy, offering a chic shelter for a celebration under the stars.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/TentCanopy.jpg",
+    imgSrc: [
+      "./assets/img/common/TentCanopy.jpg"
+    ]
   }
 ];
 

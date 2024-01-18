@@ -70,6 +70,51 @@ let bridalshowerList = [
      imgSrc: [
        "./assets/img/common/ButterflyKisses.jpg"
      ]
+   },
+   {
+    _id: "9",
+    cardTitle: "Miss To Mrs",
+    cardText: "<br>Elevate the bridal shower experience with the Miss to Mrs theme, featuring elegant decor that celebrates the bride's journey to matrimony.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/bridal-shower/MissToMrs.jpg",
+    imgSrc: [
+      "./assets/img/bridal-shower/MissToMrs.jpg"
+    ]
+   },
+   {
+    _id: "10",
+    cardTitle: "Pure White",
+    cardText: "<br>Immerse in the timeless beauty of a Pure White bridal shower, where pristine decor creates a sophisticated and serene atmosphere for the celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/bridal-shower/PureWhite.jpg",
+    imgSrc: [
+      "./assets/img/bridal-shower/PureWhite.jpg"
+    ]
+   },
+   {
+     _id: "11",
+     cardTitle: "Glamour",
+     cardText: "<br>Unleash the Glamour with a sophisticated decor ensemble, featuring chic elements that radiate style and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
+     thumbSrc: "./assets/img/common/Glamour.jpg",
+     imgSrc: [
+       "./assets/img/common/Glamour.jpg"
+     ]
+   },
+   {
+     _id: "12",
+     cardTitle: "Pink Garland",
+     cardText: "<br>Envelop your space in the charm of Pink Garland, weaving a trail of delicate blossoms to create a romantic atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
+     thumbSrc: "./assets/img/common/PinkGarland.jpg",
+     imgSrc: [
+       "./assets/img/common/PinkGarland.jpg"
+     ]
+   },
+   {
+     _id: "13",
+     cardTitle: "Disco Balloons",
+     cardText: "<br>Transport your guests to a disco-inspired realm with White Disco Balloons, bringing a dance-worthy vibe to your event.<br><br> Tap on call or whatsapp to receive further details.",
+     thumbSrc: "./assets/img/common/DiscoBalloons.jpg",
+     imgSrc: [
+       "./assets/img/common/DiscoBalloons.jpg"
+     ]
    }
 ];
   

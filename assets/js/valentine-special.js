@@ -115,6 +115,24 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/common/BalloonLeague.jpg"
     ]
+  },
+  {
+    _id: "14",
+    cardTitle: "Love Kisses",
+    cardText: "<br>Create a romantic ambiance with the LoveKisses theme, where every element of the decor whispers sweet sentiments and celebrates the magic of love.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/LoveKisses.jpg",
+    imgSrc: [
+      "./assets/img/common/LoveKisses.jpg"
+    ]
+  },
+  {
+    _id: "15",
+    cardTitle: "Tent Canopy",
+    cardText: "<br>Create an intimate and stylish setting with a Tent Canopy, offering a chic shelter for a celebration under the stars.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/TentCanopy.jpg",
+    imgSrc: [
+      "./assets/img/common/TentCanopy.jpg"
+    ]
   }
 ];
   
