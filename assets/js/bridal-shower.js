@@ -1,78 +1,15 @@
 let bridalshowerList = [
-  {
-    _id: "1",
-    cardTitle: "Elegance in White",
-    cardText: "<br>A scerene ambiance is created with pristine white decor, invoking a sense of purity and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/bridal-shower/EleganceInWhite.jpg",
-    imgSrc: [
-      "./assets/img/bridal-shower/EleganceInWhite.jpg"
-    ]
+   {
+     _id: "1",
+     cardTitle: "Bridal Bloom",
+     cardText: "<br>Step into a garden of joy with 'Bridal Shower Bloom' decorations, where blooming florals and delicate details transform celebration into a charming tapestry of pre-wedding bliss.<br><br> Tap on call or whatsapp to receive further details.",
+     thumbSrc: "./assets/img/bridal-shower/BridalBloom.jpg",
+     imgSrc: [
+       "./assets/img/common/BridalBloom.jpg"
+     ]
    },
    {
     _id: "2",
-    cardTitle: "Gold Rush Decor",
-    cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/GoldSetup.jpg",
-    imgSrc: [
-      "./assets/img/common/GoldSetup.jpg"
-    ]
-   },
-   {
-     _id: "3",
-     cardTitle: "Vibrant Setup",
-     cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
-     thumbSrc: "./assets/img/common/VibrantSetup.jpg",
-     imgSrc: [
-       "./assets/img/common/VibrantSetup.jpg"
-     ]
-   },
-   {
-     _id: "4",
-     cardTitle: "Balloons And Bears",
-     cardText: "<br>Whisk away into a world of enchantment, where balloons and bears join forces to create an ambiance of pure love and joy.<br><br> Tap on call or whatsapp to receive further details.",
-     thumbSrc: "./assets/img/common/BalloonsAndBears.jpg",
-     imgSrc: [
-       "./assets/img/common/BalloonsAndBears.jpg"
-     ]
-   },
-   {
-     _id: "5",
-     cardTitle: "Balloon League",
-     cardText: "<br>Join the league of love with an enchanting array of balloons, transforming your celebration into a symphony of elegance.<br><br> Tap on call or whatsapp to receive further details.",
-     thumbSrc: "./assets/img/common/BalloonLeague.jpg",
-     imgSrc: [
-       "./assets/img/common/BalloonLeague.jpg"
-     ]
-   },
-   {
-     _id: "6",
-     cardTitle: "Tickled Pink",
-     cardText: "<br>Delight in the charming Tickled Pink theme. Soft pastels, whimsical decor, and an abundance of pink create a sweet and playful atmosphere for the celebration.<br><br> Tap on call or whatsapp to receive further details.",
-     thumbSrc: "./assets/img/common/TickledPink.jpg",
-     imgSrc: [
-       "./assets/img/common/TickledPink.jpg"
-     ]
-   },
-   {
-     _id: "7",
-     cardTitle: "Flamingo Fiesta",
-     cardText: "<br>Turn the party into a tropical paradise with a Flamingo Fiesta. Flamingos, vibrant colors, and a touch of aloha spirit make for a lively and festive celebration.<br><br> Tap on call or whatsapp to receive further details.",
-     thumbSrc: "./assets/img/common/FlamingoFiesta.jpg",
-     imgSrc: [
-       "./assets/img/common/FlamingoFiesta.jpg"
-     ]
-   },
-   {
-     _id: "8",
-     cardTitle: "Butterfly Kisses",
-     cardText: "<br>Shower the bride with Butterfly Kisses. Delicate butterflies, gentle hues, and enchanting decor elements set the stage for a celebration filled with love and sweetness.<br><br> Tap on call or whatsapp to receive further details.",
-     thumbSrc: "./assets/img/common/ButterflyKisses.jpg",
-     imgSrc: [
-       "./assets/img/common/ButterflyKisses.jpg"
-     ]
-   },
-   {
-    _id: "9",
     cardTitle: "Miss To Mrs",
     cardText: "<br>Elevate the bridal shower experience with the Miss to Mrs theme, featuring elegant decor that celebrates the bride's journey to matrimony.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/bridal-shower/MissToMrs.jpg",
@@ -81,7 +18,7 @@ let bridalshowerList = [
     ]
    },
    {
-    _id: "10",
+    _id: "3",
     cardTitle: "Pure White",
     cardText: "<br>Immerse in the timeless beauty of a Pure White bridal shower, where pristine decor creates a sophisticated and serene atmosphere for the celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/bridal-shower/PureWhite.jpg",
@@ -90,7 +27,79 @@ let bridalshowerList = [
     ]
    },
    {
+    _id: "4",
+    cardTitle: "Elegance in White",
+    cardText: "<br>A scerene ambiance is created with pristine white decor, invoking a sense of purity and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/bridal-shower/EleganceInWhite.jpg",
+    imgSrc: [
+      "./assets/img/bridal-shower/EleganceInWhite.jpg"
+    ]
+   },
+   {
+    _id: "5",
+    cardTitle: "Gold Rush Decor",
+    cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/GoldSetup.jpg",
+    imgSrc: [
+      "./assets/img/common/GoldSetup.jpg"
+    ]
+   },
+   {
+     _id: "6",
+     cardTitle: "Vibrant Setup",
+     cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
+     thumbSrc: "./assets/img/common/VibrantSetup.jpg",
+     imgSrc: [
+       "./assets/img/common/VibrantSetup.jpg"
+     ]
+   },
+   {
+     _id: "7",
+     cardTitle: "Balloons And Bears",
+     cardText: "<br>Whisk away into a world of enchantment, where balloons and bears join forces to create an ambiance of pure love and joy.<br><br> Tap on call or whatsapp to receive further details.",
+     thumbSrc: "./assets/img/common/BalloonsAndBears.jpg",
+     imgSrc: [
+       "./assets/img/common/BalloonsAndBears.jpg"
+     ]
+   },
+   {
+     _id: "8",
+     cardTitle: "Balloon League",
+     cardText: "<br>Join the league of love with an enchanting array of balloons, transforming your celebration into a symphony of elegance.<br><br> Tap on call or whatsapp to receive further details.",
+     thumbSrc: "./assets/img/common/BalloonLeague.jpg",
+     imgSrc: [
+       "./assets/img/common/BalloonLeague.jpg"
+     ]
+   },
+   {
+     _id: "9",
+     cardTitle: "Tickled Pink",
+     cardText: "<br>Delight in the charming Tickled Pink theme. Soft pastels, whimsical decor, and an abundance of pink create a sweet and playful atmosphere for the celebration.<br><br> Tap on call or whatsapp to receive further details.",
+     thumbSrc: "./assets/img/common/TickledPink.jpg",
+     imgSrc: [
+       "./assets/img/common/TickledPink.jpg"
+     ]
+   },
+   {
+     _id: "10",
+     cardTitle: "Flamingo Fiesta",
+     cardText: "<br>Turn the party into a tropical paradise with a Flamingo Fiesta. Flamingos, vibrant colors, and a touch of aloha spirit make for a lively and festive celebration.<br><br> Tap on call or whatsapp to receive further details.",
+     thumbSrc: "./assets/img/common/FlamingoFiesta.jpg",
+     imgSrc: [
+       "./assets/img/common/FlamingoFiesta.jpg"
+     ]
+   },
+   {
      _id: "11",
+     cardTitle: "Butterfly Kisses",
+     cardText: "<br>Shower the bride with Butterfly Kisses. Delicate butterflies, gentle hues, and enchanting decor elements set the stage for a celebration filled with love and sweetness.<br><br> Tap on call or whatsapp to receive further details.",
+     thumbSrc: "./assets/img/common/ButterflyKisses.jpg",
+     imgSrc: [
+       "./assets/img/common/ButterflyKisses.jpg"
+     ]
+   },
+   {
+     _id: "12",
      cardTitle: "Glamour",
      cardText: "<br>Unleash the Glamour with a sophisticated decor ensemble, featuring chic elements that radiate style and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
      thumbSrc: "./assets/img/common/Glamour.jpg",
@@ -99,7 +108,7 @@ let bridalshowerList = [
      ]
    },
    {
-     _id: "12",
+     _id: "13",
      cardTitle: "Pink Garland",
      cardText: "<br>Envelop your space in the charm of Pink Garland, weaving a trail of delicate blossoms to create a romantic atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
      thumbSrc: "./assets/img/common/PinkGarland.jpg",
@@ -108,21 +117,12 @@ let bridalshowerList = [
      ]
    },
    {
-     _id: "13",
+     _id: "14",
      cardTitle: "Disco Balloons",
      cardText: "<br>Transport your guests to a disco-inspired realm with White Disco Balloons, bringing a dance-worthy vibe to your event.<br><br> Tap on call or whatsapp to receive further details.",
      thumbSrc: "./assets/img/common/DiscoBalloons.jpg",
      imgSrc: [
        "./assets/img/common/DiscoBalloons.jpg"
-     ]
-   },
-   {
-     _id: "14",
-     cardTitle: "Bridal Bloom",
-     cardText: "<br>Step into a garden of joy with 'Bridal Shower Bloom' decorations, where blooming florals and delicate details transform celebration into a charming tapestry of pre-wedding bliss.<br><br> Tap on call or whatsapp to receive further details.",
-     thumbSrc: "./assets/img/bridal-shower/BridalBloom.jpg",
-     imgSrc: [
-       "./assets/img/common/BridalBloom.jpg"
      ]
    },
    {

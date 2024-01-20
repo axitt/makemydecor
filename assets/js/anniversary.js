@@ -1,42 +1,6 @@
 let anniversaryList = [
   {
     _id: "1",
-    cardTitle: "Mega Milestone",
-    cardText: "<br>Opt for a eye-catching milestone memory setup to create a lively and celebratory atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/anniversary/MilestoneMemorySetup.jpg",
-    imgSrc: [
-      "./assets/img/anniversary/MilestoneMemorySetup.jpg"
-    ]
-  },
-  {
-    _id: "2",
-    cardTitle: "Radiant Love",
-    cardText: "<br>Welcome guests with a stunning balloon arch in a spectrum of radiant colors, setting the tone for a joyful anniversary.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/anniversary/RadiantLoveSetup.jpg",
-    imgSrc: [
-      "./assets/img/anniversary/RadiantLoveSetup.jpg"
-    ]
-  },
-  {
-    _id: "3",
-    cardTitle: "Gold Setup",
-    cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/GoldSetup.jpg",
-    imgSrc: [
-      "./assets/img/common/GoldSetup.jpg"
-    ]
-  },
-  {
-    _id: "4",
-    cardTitle: "Vibrant Setup",
-    cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/VibrantSetup.jpg",
-    imgSrc: [
-      "./assets/img/common/VibrantSetup.jpg"
-    ]
-  },
-  {
-    _id: "5",
     cardTitle: "Home Heaven",
     cardText: "<br>Creating an ethereal atmosphere with a mix of helium and metallic balloons, tranforming your home into a dreamy heaven.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/anniversary/HomeHeavenSetup.jpg",
@@ -45,97 +9,16 @@ let anniversaryList = [
     ]
   },
   {
-    _id: "6",
-    cardTitle: "Pink Bliss",
-    cardText: "<br>Celebrate in the shades of pink with our enchanting ballon arrangement, transforming your space into a heaven of pure bliss.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/anniversary/DomesticBlissSetup.jpg",
+    _id: "2",
+    cardTitle: "Love Kisses",
+    cardText: "<br>Create a romantic ambiance with the LoveKisses theme, where every element of the decor whispers sweet sentiments and celebrates the magic of love.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/LoveKisses.jpg",
     imgSrc: [
-      "./assets/img/anniversary/DomesticBlissSetup.jpg"
+      "./assets/img/common/LoveKisses.jpg"
     ]
   },
   {
-    _id: "7",
-    cardTitle: "Cuddle Companion",
-    cardText: "<br>Set the mood with soft teddy and ballons, creating a relaxed and inviting atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/CuddleCompanions.jpg",
-    imgSrc: [
-      "./assets/img/common/CuddleCompanions.jpg"
-    ]
-  },
-  {
-    _id: "8",
-    cardTitle: "Teddy Tales",
-    cardText: "<br>Tranform your space into a magical teddy bear realm to immerse the room in a whimsical narrative.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/TeddyTales.jpg",
-    imgSrc: [
-      "./assets/img/common/TeddyTales.jpg"
-    ]
-  },
-  {
-    _id: "9",
-    cardTitle: "Teddy Bear Hugs",
-    cardText: "<br>Hide small teddy bear trinkets around the room, encoraging exploration and discovery for loved ones.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/TeddyBearHugs.jpg",
-    imgSrc: [
-      "./assets/img/common/TeddyBearHugs.jpg"
-    ]
-  },
-  {
-    _id: "10",
-    cardTitle: "Love Cuddles",
-    cardText: "<br>An unfogettable love fusion of balloons and teddy to set a lovely atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/anniversary/LoveCuddles.jpg",
-    imgSrc: [
-      "./assets/img/anniversary/LoveCuddles.jpg"
-    ]
-  },
-  {
-    _id: "11",
-    cardTitle: "Love Nest Teddy",
-    cardText: "<br>Love Nest Teddy introduces a cuddly and charming element, featuring adorable teddy bear accents that add a touch of warmth and affection to the Valentine's Day decor.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/LoveNestTeddy.jpg",
-    imgSrc: [
-      "./assets/img/common/LoveNestTeddy.jpg"
-    ]
-  },
-  {
-    _id: "12",
-    cardTitle: "Romantic",
-    cardText: "<br>Romantic Radiance bathes the space in soft, warm lighting, creating an intimate and cozy ambiance perfect for a romantic celebration.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/RomanticRadiance.jpg",
-    imgSrc: [
-      "./assets/img/common/RomanticRadiance.jpg"
-    ]
-  },
-  {
-    _id: "13",
-    cardTitle: "Heartfelt Decor",
-    cardText: "<br>Heartfelt Decor incorporates sentimental touches to convey love and emotion throughout the setup.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/HeartfeltDecor.jpg",
-    imgSrc: [
-      "./assets/img/common/HeartfeltDecor.jpg"
-    ]
-  },
-  {
-    _id: "14",
-    cardTitle: "Charmer",
-    cardText: "<br>Cherished Charmer brings together timeless and elegant decor elements, ensuring a sophisticated and enchanting atmosphere for celebrating love.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/CherishedCharmer.jpg",
-    imgSrc: [
-      "./assets/img/common/CherishedCharmer.jpg"
-    ]
-  },
-  {
-    _id: "15",
-    cardTitle: "Romance Retreat",
-    cardText: "<br>Romance Retreat transforms the venue into a romantic heaven, with cozy seating, draped fabrics, and soft hues creating an intimate setting for couples.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/RomanceRetreat.jpg",
-    imgSrc: [
-      "./assets/img/common/RomanceRetreat.jpg"
-    ]
-  },
-  {
-    _id: "16",
+    _id: "3",
     cardTitle: "Balloons & Bear",
     cardText: "<br>Whisk away into a world of enchantment, where balloons and bears join forces to create an ambiance of pure love and joy.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/BalloonsAndBears.jpg",
@@ -144,7 +27,7 @@ let anniversaryList = [
     ]
   },
   {
-    _id: "17",
+    _id: "4",
     cardTitle: "Balloon League",
     cardText: "<br>Join the league of love with an enchanting array of balloons, transforming your celebration into a symphony of elegance.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/BalloonLeague.jpg",
@@ -153,7 +36,7 @@ let anniversaryList = [
     ]
   },
   {
-    _id: "18",
+    _id: "5",
     cardTitle: "Tickled Pink",
     cardText: "<br>Delight in the charming Tickled Pink theme. Soft pastels, whimsical decor, and an abundance of pink create a sweet and playful atmosphere for the celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/TickledPink.jpg",
@@ -162,7 +45,16 @@ let anniversaryList = [
     ]
   },
   {
-    _id: "19",
+    _id: "6",
+    cardTitle: "Tent Canopy",
+    cardText: "<br>Create an intimate and stylish setting with a Tent Canopy, offering a chic shelter for a celebration under the stars.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/TentCanopy.jpg",
+    imgSrc: [
+      "./assets/img/common/TentCanopy.jpg"
+    ]
+  },
+  {
+    _id: "7",
     cardTitle: "Flamingo Fiesta",
     cardText: "<br>Turn the party into a tropical paradise with a Flamingo Fiesta. Flamingos, vibrant colors, and a touch of aloha spirit make for a lively and festive celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/FlamingoFiesta.jpg",
@@ -171,7 +63,7 @@ let anniversaryList = [
     ]
   },
   {
-    _id: "20",
+    _id: "8",
     cardTitle: "Butterfly Kisses",
     cardText: "<br>Shower the anniversary star with Butterfly Kisses. Delicate butterflies, gentle hues, and enchanting decor elements set the stage for a celebration filled with love and sweetness.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/ButterflyKisses.jpg",
@@ -180,12 +72,129 @@ let anniversaryList = [
     ]
   },
   {
-    _id: "21",
-    cardTitle: "Love Kisses",
-    cardText: "<br>Create a romantic ambiance with the LoveKisses theme, where every element of the decor whispers sweet sentiments and celebrates the magic of love.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/LoveKisses.jpg",
+    _id: "9",
+    cardTitle: "Mega Milestone",
+    cardText: "<br>Opt for a eye-catching milestone memory setup to create a lively and celebratory atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/anniversary/MilestoneMemorySetup.jpg",
     imgSrc: [
-      "./assets/img/common/LoveKisses.jpg"
+      "./assets/img/anniversary/MilestoneMemorySetup.jpg"
+    ]
+  },
+  {
+    _id: "10",
+    cardTitle: "Radiant Love",
+    cardText: "<br>Welcome guests with a stunning balloon arch in a spectrum of radiant colors, setting the tone for a joyful anniversary.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/anniversary/RadiantLoveSetup.jpg",
+    imgSrc: [
+      "./assets/img/anniversary/RadiantLoveSetup.jpg"
+    ]
+  },
+  {
+    _id: "11",
+    cardTitle: "Gold Setup",
+    cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/GoldSetup.jpg",
+    imgSrc: [
+      "./assets/img/common/GoldSetup.jpg"
+    ]
+  },
+  {
+    _id: "12",
+    cardTitle: "Vibrant Setup",
+    cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/VibrantSetup.jpg",
+    imgSrc: [
+      "./assets/img/common/VibrantSetup.jpg"
+    ]
+  },
+  {
+    _id: "13",
+    cardTitle: "Pink Bliss",
+    cardText: "<br>Celebrate in the shades of pink with our enchanting ballon arrangement, transforming your space into a heaven of pure bliss.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/anniversary/DomesticBlissSetup.jpg",
+    imgSrc: [
+      "./assets/img/anniversary/DomesticBlissSetup.jpg"
+    ]
+  },
+  {
+    _id: "14",
+    cardTitle: "Cuddle Companion",
+    cardText: "<br>Set the mood with soft teddy and ballons, creating a relaxed and inviting atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/CuddleCompanions.jpg",
+    imgSrc: [
+      "./assets/img/common/CuddleCompanions.jpg"
+    ]
+  },
+  {
+    _id: "15",
+    cardTitle: "Teddy Tales",
+    cardText: "<br>Tranform your space into a magical teddy bear realm to immerse the room in a whimsical narrative.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/TeddyTales.jpg",
+    imgSrc: [
+      "./assets/img/common/TeddyTales.jpg"
+    ]
+  },
+  {
+    _id: "16",
+    cardTitle: "Teddy Bear Hugs",
+    cardText: "<br>Hide small teddy bear trinkets around the room, encoraging exploration and discovery for loved ones.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/TeddyBearHugs.jpg",
+    imgSrc: [
+      "./assets/img/common/TeddyBearHugs.jpg"
+    ]
+  },
+  {
+    _id: "17",
+    cardTitle: "Love Cuddles",
+    cardText: "<br>An unfogettable love fusion of balloons and teddy to set a lovely atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/anniversary/LoveCuddles.jpg",
+    imgSrc: [
+      "./assets/img/anniversary/LoveCuddles.jpg"
+    ]
+  },
+  {
+    _id: "18",
+    cardTitle: "Love Nest Teddy",
+    cardText: "<br>Love Nest Teddy introduces a cuddly and charming element, featuring adorable teddy bear accents that add a touch of warmth and affection to the Valentine's Day decor.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/LoveNestTeddy.jpg",
+    imgSrc: [
+      "./assets/img/common/LoveNestTeddy.jpg"
+    ]
+  },
+  {
+    _id: "18",
+    cardTitle: "Romantic",
+    cardText: "<br>Romantic Radiance bathes the space in soft, warm lighting, creating an intimate and cozy ambiance perfect for a romantic celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/RomanticRadiance.jpg",
+    imgSrc: [
+      "./assets/img/common/RomanticRadiance.jpg"
+    ]
+  },
+  {
+    _id: "19",
+    cardTitle: "Heartfelt Decor",
+    cardText: "<br>Heartfelt Decor incorporates sentimental touches to convey love and emotion throughout the setup.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/HeartfeltDecor.jpg",
+    imgSrc: [
+      "./assets/img/common/HeartfeltDecor.jpg"
+    ]
+  },
+  {
+    _id: "20",
+    cardTitle: "Charmer",
+    cardText: "<br>Cherished Charmer brings together timeless and elegant decor elements, ensuring a sophisticated and enchanting atmosphere for celebrating love.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/CherishedCharmer.jpg",
+    imgSrc: [
+      "./assets/img/common/CherishedCharmer.jpg"
+    ]
+  },
+  {
+    _id: "21",
+    cardTitle: "Romance Retreat",
+    cardText: "<br>Romance Retreat transforms the venue into a romantic heaven, with cozy seating, draped fabrics, and soft hues creating an intimate setting for couples.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/RomanceRetreat.jpg",
+    imgSrc: [
+      "./assets/img/common/RomanceRetreat.jpg"
     ]
   },
   {
@@ -213,15 +222,6 @@ let anniversaryList = [
     thumbSrc: "./assets/img/common/DiscoBalloons.jpg",
     imgSrc: [
       "./assets/img/common/DiscoBalloons.jpg"
-    ]
-  },
-  {
-    _id: "25",
-    cardTitle: "Tent Canopy",
-    cardText: "<br>Create an intimate and stylish setting with a Tent Canopy, offering a chic shelter for a celebration under the stars.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/TentCanopy.jpg",
-    imgSrc: [
-      "./assets/img/common/TentCanopy.jpg"
     ]
   }
 ];

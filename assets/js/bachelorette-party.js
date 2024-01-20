@@ -10,106 +10,6 @@ let bachelorettepartyList = [
   },
   {
     _id: "2",
-    cardTitle: "Gold Rush Decor",
-    cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/GoldSetup.jpg",
-    imgSrc: [
-      "./assets/img/common/GoldSetup.jpg"
-    ]
-  },
-  {
-    _id: "3",
-    cardTitle: "Vibrant Setup",
-    cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/VibrantSetup.jpg",
-    imgSrc: [
-      "./assets/img/common/VibrantSetup.jpg"
-    ]
-  },
-  ,
-  {
-    _id: "4",
-    cardTitle: "Balloons And Bears",
-    cardText: "<br>Whisk away into a world of enchantment, where balloons and bears join forces to create an ambiance of pure love and joy.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/BalloonsAndBears.jpg",
-    imgSrc: [
-      "./assets/img/common/BalloonsAndBears.jpg"
-    ]
-  },
-  {
-    _id: "5",
-    cardTitle: "Balloon League",
-    cardText: "<br>Join the league of love with an enchanting array of balloons, transforming your celebration into a symphony of elegance.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/BalloonLeague.jpg",
-    imgSrc: [
-      "./assets/img/common/BalloonLeague.jpg"
-    ]
-  },
-  {
-    _id: "6",
-    cardTitle: "Tickled Pink",
-    cardText: "<br>Delight in the charming Tickled Pink theme. Soft pastels, whimsical decor, and an abundance of pink create a sweet and playful atmosphere for the celebration.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/TickledPink.jpg",
-    imgSrc: [
-      "./assets/img/common/TickledPink.jpg"
-    ]
-  },
-  {
-    _id: "7",
-    cardTitle: "Flamingo Fiesta",
-    cardText: "<br>Turn the party into a tropical paradise with a Flamingo Fiesta. Flamingos, vibrant colors, and a touch of aloha spirit make for a lively and festive celebration.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/FlamingoFiesta.jpg",
-    imgSrc: [
-      "./assets/img/common/FlamingoFiesta.jpg"
-    ]
-  },
-  {
-    _id: "8",
-    cardTitle: "Butterfly Kisses",
-    cardText: "<br>Shower the anniversary star with Butterfly Kisses. Delicate butterflies, gentle hues, and enchanting decor elements set the stage for a celebration filled with love and sweetness.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/ButterflyKisses.jpg",
-    imgSrc: [
-      "./assets/img/common/ButterflyKisses.jpg"
-    ]
-  },
-  {
-    _id: "9",
-    cardTitle: "Disco Party",
-    cardText: "<br>Dive into the ultimate Disco Party experience, where dazzling lights and funky decor set the stage for a night of glamour and dance.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/bachelorette-party/DiscoParty.jpg",
-    imgSrc: [
-      "./assets/img/bachelorette-party/DiscoParty.jpg"
-    ]
-  },
-  {
-    _id: "10",
-    cardTitle: "Ultimate Disco",
-    cardText: "<br>Transform your space into the Ultimate Disco haven, radiating with retro vibes and groovy elements that promise an unforgettable night.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/bachelorette-party/UltimateDisco.jpg",
-    imgSrc: [
-      "./assets/img/bachelorette-party/UltimateDisco.jpg"
-    ]
-  },
-  {
-    _id: "11",
-    cardTitle: "Final Destination",
-    cardText: "<br>Celebrate the bride-to-be's final destination with a Bachelorette bash featuring chic decor that's as fabulous as the guest of honor.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/bachelorette-party/FinalDestination.jpg",
-    imgSrc: [
-      "./assets/img/bachelorette-party/FinalDestination.jpg"
-    ]
-  },
-  {
-    _id: "12",
-    cardTitle: "Last Disco",
-    cardText: "<br>Dance the night away at the Last Disco-themed celebration, where every detail sparkles with disco ball glamour and excitement.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/bachelorette-party/LastDisco.jpg",
-    imgSrc: [
-      "./assets/img/bachelorette-party/LastDisco.jpg"
-    ]
-  },
-  {
-    _id: "13",
     cardTitle: "Lets Party",
     cardText: "<br>Let the festivities begin with a Let's Party theme, complete with vibrant decorations that exude energy and celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/bachelorette-party/LetsParty.jpg",
@@ -118,7 +18,7 @@ let bachelorettepartyList = [
     ]
   },
   {
-    _id: "14",
+    _id: "3",
     cardTitle: "Lets Go Girls",
     cardText: "<br>Gather the squad for a Let's Go Girls extravaganza, where bold decor choices mirror the confidence and spirit of the bride and her friends.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/bachelorette-party/LetsGoGirls.jpg",
@@ -127,7 +27,7 @@ let bachelorettepartyList = [
     ]
   },
   {
-    _id: "15",
+    _id: "4",
     cardTitle: "Groovy",
     cardText: "<br>Transport your celebration back in time to the Groovy era with psychedelic decorations and a retro-chic ambiance.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/bachelorette-party/Groovy.jpg",
@@ -136,12 +36,111 @@ let bachelorettepartyList = [
     ]
   },
   {
-    _id: "16",
+    _id: "5",
     cardTitle: "Dancing Queen",
     cardText: "<br>Crown the bride as the Dancing Queen of the night with a dazzling celebration featuring dance-inspired decor and vibrant energy.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/bachelorette-party/DancingQueen.jpg",
     imgSrc: [
       "./assets/img/bachelorette-party/DancingQueen.jpg"
+    ]
+  },
+  {
+    _id: "6",
+    cardTitle: "Final Destination",
+    cardText: "<br>Celebrate the bride-to-be's final destination with a Bachelorette bash featuring chic decor that's as fabulous as the guest of honor.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/bachelorette-party/FinalDestination.jpg",
+    imgSrc: [
+      "./assets/img/bachelorette-party/FinalDestination.jpg"
+    ]
+  },
+  {
+    _id: "7",
+    cardTitle: "Last Disco",
+    cardText: "<br>Dance the night away at the Last Disco-themed celebration, where every detail sparkles with disco ball glamour and excitement.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/bachelorette-party/LastDisco.jpg",
+    imgSrc: [
+      "./assets/img/bachelorette-party/LastDisco.jpg"
+    ]
+  },
+  {
+    _id: "8",
+    cardTitle: "Gold Rush Decor",
+    cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/GoldSetup.jpg",
+    imgSrc: [
+      "./assets/img/common/GoldSetup.jpg"
+    ]
+  },
+  {
+    _id: "9",
+    cardTitle: "Vibrant Setup",
+    cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/VibrantSetup.jpg",
+    imgSrc: [
+      "./assets/img/common/VibrantSetup.jpg"
+    ]
+  },
+  {
+    _id: "10",
+    cardTitle: "Balloons And Bears",
+    cardText: "<br>Whisk away into a world of enchantment, where balloons and bears join forces to create an ambiance of pure love and joy.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/BalloonsAndBears.jpg",
+    imgSrc: [
+      "./assets/img/common/BalloonsAndBears.jpg"
+    ]
+  },
+  {
+    _id: "11",
+    cardTitle: "Balloon League",
+    cardText: "<br>Join the league of love with an enchanting array of balloons, transforming your celebration into a symphony of elegance.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/BalloonLeague.jpg",
+    imgSrc: [
+      "./assets/img/common/BalloonLeague.jpg"
+    ]
+  },
+  {
+    _id: "12",
+    cardTitle: "Tickled Pink",
+    cardText: "<br>Delight in the charming Tickled Pink theme. Soft pastels, whimsical decor, and an abundance of pink create a sweet and playful atmosphere for the celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/TickledPink.jpg",
+    imgSrc: [
+      "./assets/img/common/TickledPink.jpg"
+    ]
+  },
+  {
+    _id: "13",
+    cardTitle: "Flamingo Fiesta",
+    cardText: "<br>Turn the party into a tropical paradise with a Flamingo Fiesta. Flamingos, vibrant colors, and a touch of aloha spirit make for a lively and festive celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/FlamingoFiesta.jpg",
+    imgSrc: [
+      "./assets/img/common/FlamingoFiesta.jpg"
+    ]
+  },
+  {
+    _id: "14",
+    cardTitle: "Butterfly Kisses",
+    cardText: "<br>Shower the anniversary star with Butterfly Kisses. Delicate butterflies, gentle hues, and enchanting decor elements set the stage for a celebration filled with love and sweetness.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/ButterflyKisses.jpg",
+    imgSrc: [
+      "./assets/img/common/ButterflyKisses.jpg"
+    ]
+  },
+  {
+    _id: "15",
+    cardTitle: "Disco Party",
+    cardText: "<br>Dive into the ultimate Disco Party experience, where dazzling lights and funky decor set the stage for a night of glamour and dance.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/bachelorette-party/DiscoParty.jpg",
+    imgSrc: [
+      "./assets/img/bachelorette-party/DiscoParty.jpg"
+    ]
+  },
+  {
+    _id: "16",
+    cardTitle: "Ultimate Disco",
+    cardText: "<br>Transform your space into the Ultimate Disco haven, radiating with retro vibes and groovy elements that promise an unforgettable night.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/bachelorette-party/UltimateDisco.jpg",
+    imgSrc: [
+      "./assets/img/bachelorette-party/UltimateDisco.jpg"
     ]
   },
   {

@@ -1,15 +1,24 @@
 let welcomebabygirlList = [
+  {
+    _id: "1",
+    cardTitle: "Welcome Home",
+    cardText: "<br>Create a cozy and loving environment with 'Welcome Home' girl-themed decorations, expressing the joy of bringing the little one home to love and warmth.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/welcome-baby-girl/WelcomeHome.jpg",
+    imgSrc: [
+      "./assets/img/welcome-baby-girl/WelcomeHome.jpg"
+    ]
+  },
+  {
+    _id: "2",
+    cardTitle: "Princess",
+    cardText: "<br>Transform your space into a royal kingdom with 'Princess' girl-themed decorations, celebrating the arrival of the little princess with regal elegance.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/welcome-baby-girl/Princess.jpg",
+    imgSrc: [
+      "./assets/img/welcome-baby-girl/Princess.jpg"
+    ]
+  },
     {
-      _id: "1",
-      cardTitle: "Welcome Princess",
-      cardText: "<br>Gorgeous pink drapery being an air of sophistication to welcome the pricness, setting the stage for a majestic celebration.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-girl/WelcomePrincess.jpg",
-      imgSrc: [
-        "./assets/img/welcome-baby-girl/WelcomePrincess.jpg"
-      ]
-    },
-    {
-      _id: "2",
+      _id: "3",
       cardTitle: "Sugar And Spice",
       cardText: "<br>Step into a world of sweetness and charm, where every corner is sprinkled with joy, welcoming our little girl with the perfect blend of sugar and spice.<br><br> Tap on call or whatsapp to receive further details.",
       thumbSrc: "./assets/img/welcome-baby-girl/SugarAndSpice.jpg",
@@ -18,7 +27,7 @@ let welcomebabygirlList = [
       ]
     },
     {
-      _id: "3",
+      _id: "4",
       cardTitle: "Pink Princess",
       cardText: "<br>Transform your home into a regal palace adorned in shades of pink, fit for the arrival of our little princess, the newest member of the royal family.<br><br> Tap on call or whatsapp to receive further details.",
       thumbSrc: "./assets/img/welcome-baby-girl/PinkPrincess.jpg",
@@ -27,7 +36,7 @@ let welcomebabygirlList = [
       ]
     },
     {
-      _id: "4",
+      _id: "5",
       cardTitle: "Star Is Born",
       cardText: "<br>Underneath a sky of twinkling stars, our home welcomes the brightest star of all, as we celebrate the magical moment when our little star is born.<br><br> Tap on call or whatsapp to receive further details.",
       thumbSrc: "./assets/img/welcome-baby-girl/StarIsBorn.jpg",
@@ -36,7 +45,7 @@ let welcomebabygirlList = [
       ]
     },
     {
-      _id: "5",
+      _id: "6",
       cardTitle: "Glossy Welcome",
       cardText: "<br>Adorn your space with 'Glossy Welcome' girl-themed decorations, ushering in the joy of a new arrival with a touch of elegance and shine.<br><br> Tap on call or whatsapp to receive further details.",
       thumbSrc: "./assets/img/welcome-baby-girl/GlossyWelcome.jpg",
@@ -45,7 +54,7 @@ let welcomebabygirlList = [
       ]
     },
     {
-      _id: "6",
+      _id: "7",
       cardTitle: " Welcome Baby",
       cardText: "<br>Celebrate the little one's arrival with 'Welcome Baby' girl-themed decorations, creating a warm and inviting atmosphere for family and friends.<br><br> Tap on call or whatsapp to receive further details.",
       thumbSrc: "./assets/img/welcome-baby-girl/WelcomeBaby.jpg",
@@ -54,7 +63,7 @@ let welcomebabygirlList = [
       ]
     },
     {
-      _id: "7",
+      _id: "8",
       cardTitle: "Welcome Stand",
       cardText: "<br>Set the stage for a joyful celebration with 'Welcome Stand' girl-themed decorations, making everyone feel the warmth and happiness of the occasion.<br><br> Tap on call or whatsapp to receive further details.",
       thumbSrc: "./assets/img/welcome-baby-girl/WelcomeStand.jpg",
@@ -63,7 +72,7 @@ let welcomebabygirlList = [
       ]
     },
     {
-      _id: "8",
+      _id: "9",
       cardTitle: "Welcome To The World",
       cardText: "<br>Introduce the newborn to the world with 'Welcome To The World' girl-themed decorations, capturing the wonder and excitement of this special moment.<br><br> Tap on call or whatsapp to receive further details.",
       thumbSrc: "./assets/img/welcome-baby-girl/WelcomeToTheWorld.jpg",
@@ -72,30 +81,21 @@ let welcomebabygirlList = [
       ]
     },
     {
-      _id: "9",
-      cardTitle: "Welcome Home",
-      cardText: "<br>Create a cozy and loving environment with 'Welcome Home' girl-themed decorations, expressing the joy of bringing the little one home to love and warmth.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-girl/WelcomeHome.jpg",
-      imgSrc: [
-        "./assets/img/welcome-baby-girl/WelcomeHome.jpg"
-      ]
-    },
-    {
       _id: "10",
-      cardTitle: "Princess",
-      cardText: "<br>Transform your space into a royal kingdom with 'Princess' girl-themed decorations, celebrating the arrival of the little princess with regal elegance.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-girl/Princess.jpg",
-      imgSrc: [
-        "./assets/img/welcome-baby-girl/Princess.jpg"
-      ]
-    },
-    {
-      _id: "11",
       cardTitle: "Baby Box",
       cardText: "<br>Unveil the charm of 'Baby Box' girl-themed decorations, adding a whimsical touch to the celebration and surrounding the little one in adorable details.<br><br> Tap on call or whatsapp to receive further details.",
       thumbSrc: "./assets/img/welcome-baby-girl/BabyBox.jpg",
       imgSrc: [
         "./assets/img/welcome-baby-girl/BabyBox.jpg"
+      ]
+    },
+    {
+      _id: "11",
+      cardTitle: "Welcome Princess",
+      cardText: "<br>Gorgeous pink drapery being an air of sophistication to welcome the pricness, setting the stage for a majestic celebration.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-girl/WelcomePrincess.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-girl/WelcomePrincess.jpg"
       ]
     }
   ];
