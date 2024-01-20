@@ -376,6 +376,141 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/common/TentCanopy.jpg"
     ]
+  },
+  {
+    _id: "43",
+    cardTitle: "Butterfly Wings",
+    cardText: "<br>Transform your space with enchanting elegance in a Purple Butterfly birthday celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/ButterflyWings.jpg",
+    imgSrc: [
+      "./assets/img/birthday/ButterflyWings.jpg"
+    ]
+  },
+  {
+    _id: "44",
+    cardTitle: "Lullaby Elephant",
+    cardText: "<br>Create a dreamy atmosphere with Lullaby Elephant-themed decorations for a sweet and whimsical birthday bash.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/LullabyElephant.jpg",
+    imgSrc: [
+      "./assets/img/birthday/LullabyElephant.jpg"
+    ]
+  },
+  {
+    _id: "45",
+    cardTitle: "Disney Giraffe",
+    cardText: "<br>Step into the magic of Disney with a Giraffe-themed birthday, blending the charm of Disney with the grace of giraffes.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/DisneyGiraffe.jpg",
+    imgSrc: [
+      "./assets/img/birthday/DisneyGiraffe.jpg"
+    ]
+  },
+  {
+    _id: "46",
+    cardTitle: "Baby Elephant Disney",
+    cardText: "<br>Celebrate with a touch of Disney magic and adorable baby elephants in this delightful Baby Elephant Disney decoration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/BabyElephantDisney.jpg",
+    imgSrc: [
+      "./assets/img/birthday/BabyElephantDisney.jpg"
+    ]
+  },
+  {
+    _id: "47",
+    cardTitle: "Winnie The Pooh",
+    cardText: "<br>Embark on a nostalgic journey with Winnie the Pooh-themed decorations, capturing the heartwarming spirit of Disney.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/WinnieThePooh.jpg",
+    imgSrc: [
+      "./assets/img/birthday/WinnieThePooh.jpg"
+    ]
+  },
+  {
+    _id: "48",
+    cardTitle: "Space Celebration",
+    cardText: "<br>Embark on an interstellar adventure with Space Celebration decorations, where cosmic wonders and stellar delights create an out-of-this-world birthday experience.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/SpaceCelebration.jpg",
+    imgSrc: [
+      "./assets/img/birthday/SpaceCelebration.jpg"
+    ]
+  },
+  {
+    _id: "49",
+    cardTitle: "Mini Mouse Marvel",
+    cardText: "<br>Bring the iconic style of Mini Mouse Marvel to life with vibrant decorations and a touch of superhero magic.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/MiniMouseMarvel.jpg",
+    imgSrc: [
+      "./assets/img/birthday/MiniMouseMarvel.jpg"
+    ]
+  },
+  {
+    _id: "50",
+    cardTitle: "Mini Mouse Theme",
+    cardText: "<br>Channel the timeless charm of Mini Mouse in a theme that's both bow-tastic and utterly delightful.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/MiniMouseTheme.jpg",
+    imgSrc: [
+      "./assets/img/birthday/MiniMouseTheme.jpg"
+    ]
+  },
+  {
+    _id: "51",
+    cardTitle: "Bunny Bash",
+    cardText: "<br>Hop into a world of whimsy with Bunny Bash decorations, creating a playful and adorable birthday setting.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/BunnyBash.jpg",
+    imgSrc: [
+      "./assets/img/birthday/BunnyBash.jpg"
+    ]
+  },
+  {
+    _id: "52",
+    cardTitle: "Spidey Sensation",
+    cardText: "<br>Swing into action with Spidey Sensation, where Spider-Man-themed decorations set the stage for a heroic birthday celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/SpideySensation.jpg",
+    imgSrc: [
+      "./assets/img/birthday/SpideySensation.jpg"
+    ]
+  },
+  {
+    _id: "53",
+    cardTitle: "Lion King",
+    cardText: "<br>Roar into the wild with Lion King decorations, creating a majestic and heartwarming atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/LionKing.jpg",
+    imgSrc: [
+      "./assets/img/birthday/LionKing.jpg"
+    ]
+  },
+  {
+    _id: "54",
+    cardTitle: "Travel The Moon",
+    cardText: "<br>Journey beyond the stars and immerse yourself in a celestial celebration as we 'Travel the Moon,' turning your event into an otherworldly voyage filled with lunar wonders and cosmic enchantment.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/TravelTheMoon.jpg",
+    imgSrc: [
+      "./assets/img/birthday/TravelTheMoon.jpg"
+    ]
+  },
+  {
+    _id: "55",
+    cardTitle: "Rocketing Orbit",
+    cardText: "<br>Travel to the moon and beyond with Rocketing Orbit decorations, creating a space-themed extravaganza for all to enjoy.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/RocketingOrbit.jpg",
+    imgSrc: [
+      "./assets/img/birthday/RocketingOrbit.jpg"
+    ]
+  },
+  {
+    _id: "56",
+    cardTitle: "Astronaut Theme",
+    cardText: "<br>Embark on an Astronaut Theme adventure with decorations that transport your party to the outer reaches of the cosmos.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/AstronautTheme.jpg",
+    imgSrc: [
+      "./assets/img/birthday/AstronautTheme.jpg"
+    ]
+  },
+  {
+    _id: "57",
+    cardTitle: "Dolphin Dreams",
+    cardText: "<br>Dive into the wonders of the sea with Dolphin Dreams decorations, bringing the enchantment of dolphins to your celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/common/DolphinDreams.jpg",
+    imgSrc: [
+      "./assets/img/common/DolphinDreams.jpg"
+    ]
   }  
 ];
 
