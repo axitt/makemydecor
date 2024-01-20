@@ -91,11 +91,20 @@ let babyshowerList = [
    },
    {
     _id: "11",
-    cardTitle: "Stitch Disney:",
+    cardTitle: "Stitch Disney",
     cardText: "<br>Embark on a whimsical adventure with 'Stitch Disney' baby shower decorations, merging the charm of Disney with the cuteness of Stitch for a celebration as unique as your little one.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/baby-shower/StitchDisney.jpg",
     imgSrc: [
       "./assets/img/baby-shower/StitchDisney.jpg"
+    ]
+   },
+   {
+    _id: "12",
+    cardTitle: "Boy Or Girl",
+    cardText: "<br>Embrace the anticipation with 'Boy Or Girl' baby shower decorations, creating an enchanting ambiance that keeps everyone guessing in joyful celebration of the upcoming bundle of joy.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/baby-shower/BoyOrGirl.jpg",
+    imgSrc: [
+      "./assets/img/baby-shower/BoyOrGirl.jpg"
     ]
    }
 ];

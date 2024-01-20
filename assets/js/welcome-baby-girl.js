@@ -34,6 +34,69 @@ let welcomebabygirlList = [
       imgSrc: [
         "./assets/img/welcome-baby-girl/StarIsBorn.jpg"
       ]
+    },
+    {
+      _id: "5",
+      cardTitle: "Glossy Welcome",
+      cardText: "<br>Adorn your space with 'Glossy Welcome' girl-themed decorations, ushering in the joy of a new arrival with a touch of elegance and shine.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-girl/GlossyWelcome.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-girl/GlossyWelcome.jpg"
+      ]
+    },
+    {
+      _id: "6",
+      cardTitle: " Welcome Baby",
+      cardText: "<br>Celebrate the little one's arrival with 'Welcome Baby' girl-themed decorations, creating a warm and inviting atmosphere for family and friends.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-girl/WelcomeBaby.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-girl/WelcomeBaby.jpg"
+      ]
+    },
+    {
+      _id: "7",
+      cardTitle: "Welcome Stand",
+      cardText: "<br>Set the stage for a joyful celebration with 'Welcome Stand' girl-themed decorations, making everyone feel the warmth and happiness of the occasion.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-girl/WelcomeStand.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-girl/WelcomeStand.jpg"
+      ]
+    },
+    {
+      _id: "8",
+      cardTitle: "Welcome To The World",
+      cardText: "<br>Introduce the newborn to the world with 'Welcome To The World' girl-themed decorations, capturing the wonder and excitement of this special moment.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-girl/WelcomeToTheWorld.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-girl/WelcomeToTheWorld.jpg"
+      ]
+    },
+    {
+      _id: "9",
+      cardTitle: "Welcome Home",
+      cardText: "<br>Create a cozy and loving environment with 'Welcome Home' girl-themed decorations, expressing the joy of bringing the little one home to love and warmth.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-girl/WelcomeHome.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-girl/WelcomeHome.jpg"
+      ]
+    },
+    {
+      _id: "10",
+      cardTitle: "Princess",
+      cardText: "<br>Transform your space into a royal kingdom with 'Princess' girl-themed decorations, celebrating the arrival of the little princess with regal elegance.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-girl/Princess.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-girl/Princess.jpg"
+      ]
+    },
+    {
+      _id: "11",
+      cardTitle: "Baby Box",
+      cardText: "<br>Unveil the charm of 'Baby Box' girl-themed decorations, adding a whimsical touch to the celebration and surrounding the little one in adorable details.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-girl/BabyBox.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-girl/BabyBox.jpg"
+      ]
     }
   ];
   

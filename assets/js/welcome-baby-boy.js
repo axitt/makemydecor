@@ -70,6 +70,42 @@ let welcomebabyboyList = [
       imgSrc: [
         "./assets/img/welcome-baby-boy/StarIsBorn.jpg"
       ]
+    },
+    {
+      _id: "9",
+      cardTitle: "New Arrival",
+      cardText: "<br>Celebrate the 'New Arrival' with boy-themed decorations, turning your space into a haven of joy and excitement for the little one.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-boy/NewArrival.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-boy/NewArrival.jpg"
+      ]
+    },
+    {
+      _id: "10",
+      cardTitle: "Cuddle Welcome",
+      cardText: "<br>Wrap your space in warmth with 'Cuddle Welcome' boy-themed decorations, creating a cozy and inviting atmosphere for family and friends.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-boy/CuddleWelcome.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-boy/CuddleWelcome.jpg"
+      ]
+    },
+    {
+      _id: "11",
+      cardTitle: "Little Blessing Bash",
+      cardText: "<br>Embark on a heartwarming journey with 'Little Blessing Bash' boy-themed decorations, showering the newest addition with love and joy.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-boy/LittleBlessingBash.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-boy/LittleBlessingBash.jpg"
+      ]
+    },
+    {
+      _id: "12",
+      cardTitle: "Welcome Boy",
+      cardText: "<br>Extend a warm greeting with 'Welcome Boy' decorations, setting the stage for a delightful celebration to honor the arrival of the little prince.<br><br> Tap on call or whatsapp to receive further details.",
+      thumbSrc: "./assets/img/welcome-baby-boy/WelcomeBoy.jpg",
+      imgSrc: [
+        "./assets/img/welcome-baby-boy/WelcomeBoy.jpg"
+      ]
     }
   ];
   

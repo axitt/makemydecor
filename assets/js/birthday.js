@@ -511,7 +511,34 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/common/DolphinDreams.jpg"
     ]
-  }  
+  },
+  {
+    _id: "58",
+    cardTitle: "First Birthday",
+    cardText: "<br>Celebrate the milestone of 'First Birthday' with delightful decorations, capturing the joy and wonder of your little one's inaugural year.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/FirstBirthday.jpg",
+    imgSrc: [
+      "./assets/img/birthday/FirstBirthday.jpg"
+    ]
+  },
+  {
+    _id: "59",
+    cardTitle: "Birthday At Home",
+    cardText: "<br>Transform your space into a festive haven with 'Birthday At Home' decorations, bringing the party spirit right to the heart of your celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/BirthdayAtHome.jpg",
+    imgSrc: [
+      "./assets/img/birthday/BirthdayAtHome.jpg"
+    ]
+  },
+  {
+    _id: "60",
+    cardTitle: "Pink Standee",
+    cardText: "<br>Add a touch of sweetness to your birthday bash with 'Pink Standee' decorations, creating an enchanting ambiance in celebration of a special day.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/birthday/PinkStandee.jpg",
+    imgSrc: [
+      "./assets/img/birthday/PinkStandee.jpg"
+    ]
+  } 
 ];
 
 
