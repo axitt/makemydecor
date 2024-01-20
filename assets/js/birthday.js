@@ -7,7 +7,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/PastelDonut.jpg"
     ],
-    whatsappUrl: "https://wa.me/p/7870733452943580/918779366396"
+    whatsappUrl: ""
   },
   {
     _id: "2",
@@ -16,7 +16,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/GlowSticks.jpg",
     imgSrc: [
       "./assets/img/birthday/GlowSticks.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/7457789050937744/918779366396"
   },
   {
     _id: "3",
@@ -25,7 +26,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/common/GoldSetup.jpg",
     imgSrc: [
       "./assets/img/common/GoldSetup.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "4",
@@ -34,7 +36,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/ButterflyWings.jpg",
     imgSrc: [
       "./assets/img/birthday/ButterflyWings.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/7011027772297091/918779366396"
   },
   {
     _id: "5",
@@ -43,7 +46,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/HappyBirthdayElegantSetup.jpg",
     imgSrc: [
       "./assets/img/birthday/HappyBirthdayElegantSetup.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "6",
@@ -52,7 +56,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/HappyBirthdayBlisfulSetup.jpg",
     imgSrc: [
       "./assets/img/birthday/HappyBirthdayBlisfulSetup.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "7",
@@ -61,7 +66,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/SeaAnimals.jpg",
     imgSrc: [
       "./assets/img/birthday/SeaAnimals.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "8",
@@ -70,7 +76,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/ButterflyBites.jpg",
     imgSrc: [
       "./assets/img/birthday/ButterflyBites.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "9",
@@ -79,7 +86,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/CocoMelon.jpg",
     imgSrc: [
       "./assets/img/birthday/CocoMelon.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "10",
@@ -88,7 +96,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/JungleMagic.jpg",
     imgSrc: [
       "./assets/img/birthday/JungleMagic.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "11",
@@ -97,7 +106,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/DinoParty.jpg",
     imgSrc: [
       "./assets/img/birthday/DinoParty.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "12",
@@ -106,7 +116,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/DinosaurTheme.jpg",
     imgSrc: [
       "./assets/img/birthday/DinosaurTheme.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "13",
@@ -115,7 +126,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/JungleSafari.jpg",
     imgSrc: [
       "./assets/img/birthday/JungleSafari.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "14",
@@ -124,7 +136,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/JungleThemeSetup.jpg",
     imgSrc: [
       "./assets/img/birthday/JungleThemeSetup.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "15",
@@ -133,7 +146,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/LionKing.jpg",
     imgSrc: [
       "./assets/img/birthday/LionKing.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/7556480017741608/918779366396"
   },
   {
     _id: "16",
@@ -142,7 +156,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/BabyBoss.jpg",
     imgSrc: [
       "./assets/img/birthday/BabyBoss.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "17",
@@ -151,7 +166,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/CarTheme.jpg",
     imgSrc: [
       "./assets/img/birthday/CarTheme.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "18",
@@ -160,7 +176,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/BarbieMagic.jpg",
     imgSrc: [
       "./assets/img/birthday/BarbieMagic.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/7449929935040858/918779366396"
   },
   {
     _id: "19",
@@ -169,7 +186,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/BarbieWonderland.jpg",
     imgSrc: [
       "./assets/img/birthday/BarbieWonderland.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "20",
@@ -178,7 +196,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/BarbieWorld.jpg",
     imgSrc: [
       "./assets/img/birthday/BarbieWorld.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "21",
@@ -187,7 +206,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/BarbieBliss.jpg",
     imgSrc: [
       "./assets/img/birthday/BarbieBliss.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "22",
@@ -196,7 +216,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/OneYearBash.jpg",
     imgSrc: [
       "./assets/img/birthday/OneYearBash.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "23",
@@ -205,7 +226,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/common/TickledPink.jpg",
     imgSrc: [
       "./assets/img/common/TickledPink.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "24",
@@ -214,7 +236,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/common/FlamingoFiesta.jpg",
     imgSrc: [
       "./assets/img/common/FlamingoFiesta.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "25",
@@ -223,7 +246,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/common/ButterflyKisses.jpg",
     imgSrc: [
       "./assets/img/common/ButterflyKisses.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "26",
@@ -232,7 +256,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/SilverGlow.jpg",
     imgSrc: [
       "./assets/img/birthday/SilverGlow.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/6982117151842357/918779366396"
   },
   {
     _id: "27",
@@ -241,7 +266,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/PinkParadise.jpg",
     imgSrc: [
       "./assets/img/birthday/PinkParadise.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/25538255539107443/918779366396"
   },
   {
     _id: "28",
@@ -250,7 +276,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/SilverBalls.jpg",
     imgSrc: [
       "./assets/img/birthday/SilverBalls.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/7075602009161347/918779366396"
   },
   {
     _id: "29",
@@ -259,7 +286,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/FrozenTheme.jpg",
     imgSrc: [
       "./assets/img/birthday/FrozenTheme.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/6792196877557872/918779366396"
   },
   {
     _id: "30",
@@ -268,7 +296,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/common/Glamour.jpg",
     imgSrc: [
       "./assets/img/common/Glamour.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "31",
@@ -277,7 +306,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/common/PinkGarland.jpg",
     imgSrc: [
       "./assets/img/common/PinkGarland.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "32",
@@ -286,7 +316,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/common/DiscoBalloons.jpg",
     imgSrc: [
       "./assets/img/common/DiscoBalloons.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "33",
@@ -295,7 +326,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/common/TentCanopy.jpg",
     imgSrc: [
       "./assets/img/common/TentCanopy.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "34",
@@ -304,7 +336,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/PurpleButterfly.jpg",
     imgSrc: [
       "./assets/img/birthday/PurpleButterfly.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/7313529218699023/918779366396"
   },
   {
     _id: "35",
@@ -313,7 +346,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/DisneyGiraffe.jpg",
     imgSrc: [
       "./assets/img/birthday/DisneyGiraffe.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/7407877592582069/918779366396"
   },
   {
     _id: "36",
@@ -322,7 +356,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/LullabyElephant.jpg",
     imgSrc: [
       "./assets/img/birthday/LullabyElephant.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/7640988589263794/918779366396"
   },
   {
     _id: "37",
@@ -331,7 +366,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/BabyElephantDisney.jpg",
     imgSrc: [
       "./assets/img/birthday/BabyElephantDisney.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/7008727759235379/918779366396"
   },
   {
     _id: "38",
@@ -340,7 +376,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/WinnieThePooh.jpg",
     imgSrc: [
       "./assets/img/birthday/WinnieThePooh.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/7020246234677741/918779366396"
   },
   {
     _id: "39",
@@ -349,7 +386,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/MiniMouseMarvel.jpg",
     imgSrc: [
       "./assets/img/birthday/MiniMouseMarvel.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/24652233711089495/918779366396"
   },
   {
     _id: "40",
@@ -358,7 +396,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/MiniMouseTheme.jpg",
     imgSrc: [
       "./assets/img/birthday/MiniMouseTheme.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "41",
@@ -367,7 +406,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/BunnyBash.jpg",
     imgSrc: [
       "./assets/img/birthday/BunnyBash.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/5408341525956627/918779366396"
   },
   {
     _id: "42",
@@ -376,7 +416,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/SpideySensation.jpg",
     imgSrc: [
       "./assets/img/birthday/SpideySensation.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/7941177685909365/918779366396"
   },
   {
     _id: "43",
@@ -385,7 +426,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/SpaceCelebration.jpg",
     imgSrc: [
       "./assets/img/birthday/SpaceCelebration.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/7281051478620090/918779366396"
   },
   {
     _id: "44",
@@ -394,7 +436,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/TravelTheMoon.jpg",
     imgSrc: [
       "./assets/img/birthday/TravelTheMoon.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/6543552092416252/918779366396"
   },
   {
     _id: "45",
@@ -403,7 +446,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/RocketingOrbit.jpg",
     imgSrc: [
       "./assets/img/birthday/RocketingOrbit.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/7533169000026879/918779366396"
   },
   {
     _id: "46",
@@ -412,7 +456,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/AstronautTheme.jpg",
     imgSrc: [
       "./assets/img/birthday/AstronautTheme.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/6832890166832718/918779366396"
   },
   {
     _id: "47",
@@ -421,7 +466,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/common/DolphinDreams.jpg",
     imgSrc: [
       "./assets/img/common/DolphinDreams.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "48",
@@ -430,7 +476,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/FirstBirthday.jpg",
     imgSrc: [
       "./assets/img/birthday/FirstBirthday.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/7870733452943580/918779366396"
   },
   {
     _id: "49",
@@ -439,7 +486,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/BirthdayAtHome.jpg",
     imgSrc: [
       "./assets/img/birthday/BirthdayAtHome.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/6859855244113609/918779366396"
   },
   {
     _id: "50",
@@ -448,7 +496,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/PinkStandee.jpg",
     imgSrc: [
       "./assets/img/birthday/PinkStandee.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/7259144890790454/918779366396"
   },
   {
     _id: "51",
@@ -457,7 +506,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/common/VibrantSetup.jpg",
     imgSrc: [
       "./assets/img/common/VibrantSetup.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "52",
@@ -466,7 +516,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/BlushBrilliance.jpg",
     imgSrc: [
       "./assets/img/birthday/BlushBrilliance.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "53",
@@ -475,7 +526,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/RoseGoldElegance.jpg",
     imgSrc: [
       "./assets/img/birthday/RoseGoldElegance.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "54",
@@ -484,7 +536,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/RoseGold.jpg",
     imgSrc: [
       "./assets/img/birthday/RoseGold.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "55",
@@ -493,7 +546,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/HappyBirthdayRainbowSetup.jpg",
     imgSrc: [
       "./assets/img/birthday/HappyBirthdayRainbowSetup.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "56",
@@ -502,7 +556,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/common/CuddleCompanions.jpg",
     imgSrc: [
       "./assets/img/common/CuddleCompanions.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "57",
@@ -511,7 +566,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/common/TeddyTales.jpg",
     imgSrc: [
       "./assets/img/common/TeddyTales.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "58",
@@ -520,7 +576,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/common/TeddyBearHugs.jpg",
     imgSrc: [
       "./assets/img/common/TeddyBearHugs.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "59",
@@ -529,7 +586,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/HappyBirthdayWhiteTower.jpg",
     imgSrc: [
       "./assets/img/birthday/HappyBirthdayWhiteTower.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "60",
@@ -538,7 +596,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/DoNotGrowUp.jpg",
     imgSrc: [
       "./assets/img/birthday/DoNotGrowUp.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   } 
 ];
 
@@ -567,7 +626,7 @@ birthdayList.forEach(function(list) {
       </div>
       <div class="btn-group" role="group" aria-label="Basic example">
       <a href="tel:+918779366396" class="btn btn-outline-primary btn-sm rounded-0"><i class="bi bi-telephone"></i><span> Call</span></a>
-      <a href="https://wa.me/918779366396" class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>
+      <a href=${list.whatsappUrl} class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>
       </div>
     </div>
   </div>
