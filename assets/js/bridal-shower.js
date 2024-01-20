@@ -115,6 +115,24 @@ let bridalshowerList = [
      imgSrc: [
        "./assets/img/common/DiscoBalloons.jpg"
      ]
+   },
+   {
+     _id: "14",
+     cardTitle: "Bridal Bloom",
+     cardText: "<br>Step into a garden of joy with 'Bridal Shower Bloom' decorations, where blooming florals and delicate details transform celebration into a charming tapestry of pre-wedding bliss.<br><br> Tap on call or whatsapp to receive further details.",
+     thumbSrc: "./assets/img/bridal-shower/BridalBloom.jpg",
+     imgSrc: [
+       "./assets/img/common/BridalBloom.jpg"
+     ]
+   },
+   {
+     _id: "15",
+     cardTitle: "Dolphin Dreams",
+     cardText: "<br>Dive into the wonders of the sea with Dolphin Dreams decorations, bringing the enchantment of dolphins to your celebration.<br><br> Tap on call or whatsapp to receive further details.",
+     thumbSrc: "./assets/img/common/DolphinDreams.jpg",
+     imgSrc: [
+       "./assets/img/common/DolphinDreams.jpg"
+     ]
    }
 ];
   

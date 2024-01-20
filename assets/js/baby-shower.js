@@ -79,6 +79,24 @@ let babyshowerList = [
     imgSrc: [
       "./assets/img/baby-shower/BundleOfJoy.jpg"
     ]
+   },
+   {
+    _id: "10",
+    cardTitle: "Sweet Beginnings:",
+    cardText: "<br>Celebrate the anticipation of 'Sweet Beginnings' with enchanting baby shower decorations, ushering in joy and love for the little one.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/baby-shower/SweetBeginnings.jpg",
+    imgSrc: [
+      "./assets/img/baby-shower/SweetBeginnings.jpg"
+    ]
+   },
+   {
+    _id: "11",
+    cardTitle: "Stitch Disney:",
+    cardText: "<br>Embark on a whimsical adventure with 'Stitch Disney' baby shower decorations, merging the charm of Disney with the cuteness of Stitch for a celebration as unique as your little one.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/baby-shower/StitchDisney.jpg",
+    imgSrc: [
+      "./assets/img/baby-shower/StitchDisney.jpg"
+    ]
    }
 ];
   
