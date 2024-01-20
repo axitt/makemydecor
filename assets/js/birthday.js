@@ -6,7 +6,8 @@ let birthdayList = [
     thumbSrc: "./assets/img/birthday/PastelDonut.jpg",
     imgSrc: [
       "./assets/img/birthday/PastelDonut.jpg"
-    ]
+    ],
+    whatsappUrl: "https://wa.me/p/7870733452943580/918779366396"
   },
   {
     _id: "2",
@@ -611,7 +612,7 @@ birthdayList.forEach(function(list) {
       <div class="modal-footer">
         <button type="button" class="btn btn-outline-secondary btn-sm rounded-0" data-dismiss="modal">Close</button>
         <a href="tel:+918779366396" class="btn btn-outline-primary btn-sm rounded-0"><i class="bi bi-telephone"></i><span> Call</span></a>
-        <a href="https://wa.me/p/7870733452943580/918779366396" class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>  
+        <a href=${list.whatsappUrl} class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>  
       </div>
     </div>
   </div>
