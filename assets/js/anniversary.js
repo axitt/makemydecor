@@ -87,7 +87,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/anniversary/MilestoneMemorySetup.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7388081041223326/918779366396"
   },
   {
     _id: "10",
@@ -97,7 +97,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/anniversary/RadiantLoveSetup.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7095056000573638/918779366396"
   },
   {
     _id: "11",
@@ -127,12 +127,12 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/anniversary/DomesticBlissSetup.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7179160035506353/918779366396"
   },
   {
     _id: "14",
     cardTitle: "Cuddle Companion",
-    cardText: "<br>Set the mood with soft teddy and ballons, creating a relaxed and inviting atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
+    cardText: "<br>Set the mood with soft teddy and balloons, creating a relaxed and inviting atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/CuddleCompanions.jpg",
     imgSrc: [
       "./assets/img/common/CuddleCompanions.jpg"
@@ -142,7 +142,7 @@ let anniversaryList = [
   {
     _id: "15",
     cardTitle: "Teddy Tales",
-    cardText: "<br>Tranform your space into a magical teddy bear realm to immerse the room in a whimsical narrative.<br><br> Tap on call or whatsapp to receive further details.",
+    cardText: "<br>Transform your space into a magical teddy bear realm to immerse the room in a whimsical narrative.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/TeddyTales.jpg",
     imgSrc: [
       "./assets/img/common/TeddyTales.jpg"
@@ -152,7 +152,7 @@ let anniversaryList = [
   {
     _id: "16",
     cardTitle: "Teddy Bear Hugs",
-    cardText: "<br>Hide small teddy bear trinkets around the room, encoraging exploration and discovery for loved ones.<br><br> Tap on call or whatsapp to receive further details.",
+    cardText: "<br>Hide small teddy bear trinkets around the room, encouraging exploration and discovery for loved ones.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/TeddyBearHugs.jpg",
     imgSrc: [
       "./assets/img/common/TeddyBearHugs.jpg"
@@ -167,7 +167,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/anniversary/LoveCuddles.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7334877779938014/918779366396"
   },
   {
     _id: "18",

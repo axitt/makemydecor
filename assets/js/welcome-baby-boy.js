@@ -7,7 +7,7 @@ let welcomebabyboyList = [
     imgSrc: [
       "./assets/img/welcome-baby-boy/WelcomeBoy.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7040837435971055/918779366396"
   },
   {
       _id: "2",
@@ -17,7 +17,7 @@ let welcomebabyboyList = [
       imgSrc: [
         "./assets/img/welcome-baby-boy/BabyBlues.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6952600211503060/918779366396"
     },
     {
       _id: "3",
@@ -27,7 +27,7 @@ let welcomebabyboyList = [
       imgSrc: [
         "./assets/img/welcome-baby-boy/ChocolateBabyBoy.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6886173471509249/918779366396"
     },
     {
       _id: "4",
@@ -37,7 +37,7 @@ let welcomebabyboyList = [
       imgSrc: [
         "./assets/img/welcome-baby-boy/HeavenSent.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7173443592709083/918779366396"
     },
     {
       _id: "5",
@@ -47,7 +47,7 @@ let welcomebabyboyList = [
       imgSrc: [
         "./assets/img/welcome-baby-boy/Blessed.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24591050750538597/918779366396"
     },
     {
       _id: "6",
@@ -57,7 +57,7 @@ let welcomebabyboyList = [
       imgSrc: [
         "./assets/img/welcome-baby-boy/JoyfulJourney.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7022583667836779/918779366396"
     },
     {
       _id: "7",
@@ -67,7 +67,7 @@ let welcomebabyboyList = [
       imgSrc: [
         "./assets/img/welcome-baby-boy/BabyElephant.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6877653649020907/918779366396"
     },
     {
       _id: "8",
@@ -77,7 +77,7 @@ let welcomebabyboyList = [
       imgSrc: [
         "./assets/img/welcome-baby-boy/OhBaby.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7291246607586454/918779366396"
     },
     {
       _id: "9",
@@ -87,7 +87,7 @@ let welcomebabyboyList = [
       imgSrc: [
         "./assets/img/welcome-baby-boy/StarIsBorn.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24521986337450193/918779366396"
     },
     {
       _id: "10",
@@ -97,7 +97,7 @@ let welcomebabyboyList = [
       imgSrc: [
         "./assets/img/welcome-baby-boy/NewArrival.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24793488830266730/918779366396"
     },
     {
       _id: "11",
@@ -107,7 +107,7 @@ let welcomebabyboyList = [
       imgSrc: [
         "./assets/img/welcome-baby-boy/CuddleWelcome.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6996286933821025/918779366396"
     },
     {
       _id: "12",
@@ -117,7 +117,7 @@ let welcomebabyboyList = [
       imgSrc: [
         "./assets/img/welcome-baby-boy/LittleBlessingBash.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6958724560849486/918779366396"
     }
   ];
   

@@ -7,7 +7,7 @@ let bridalshowerList = [
      imgSrc: [
        "./assets/img/common/BridalBloom.jpg"
      ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7517067905064744/918779366396"
    },
    {
     _id: "2",
@@ -17,7 +17,7 @@ let bridalshowerList = [
     imgSrc: [
       "./assets/img/bridal-shower/MissToMrs.jpg"
     ], 
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6838500909608853/918779366396"
    },
    {
     _id: "3",
@@ -27,7 +27,7 @@ let bridalshowerList = [
     imgSrc: [
       "./assets/img/bridal-shower/PureWhite.jpg"
     ], 
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7305367396216672/918779366396"
    },
    {
     _id: "4",
@@ -37,7 +37,7 @@ let bridalshowerList = [
     imgSrc: [
       "./assets/img/bridal-shower/EleganceInWhite.jpg"
     ], 
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/25408180698769071/918779366396"
    },
    {
     _id: "5",

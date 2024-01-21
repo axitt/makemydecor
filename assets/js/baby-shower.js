@@ -7,7 +7,7 @@ let babyshowerList = [
     imgSrc: [
       "./assets/img/baby-shower/BalloonExtravaganzaForBabyArrival.jpg"
     ], 
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7059455747479865/918779366396"
    },
    {
     _id: "2",
@@ -17,7 +17,7 @@ let babyshowerList = [
     imgSrc: [
       "./assets/img/baby-shower/JoyfulBeginnings.jpg"
     ], 
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6963224647130733/918779366396"
    },
    {
     _id: "3",
@@ -27,7 +27,7 @@ let babyshowerList = [
     imgSrc: [
       "./assets/img/baby-shower/OhBabyTinyToes.jpg"
     ], 
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7210245129058369/918779366396"
    },
    {
     _id: "4",
@@ -37,7 +37,7 @@ let babyshowerList = [
     imgSrc: [
       "./assets/img/baby-shower/HeyBaby.jpg"
     ], 
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7577388855618096/918779366396"
    },
    {
     _id: "5",
@@ -47,7 +47,7 @@ let babyshowerList = [
     imgSrc: [
       "./assets/img/baby-shower/PopToKnow.jpg"
     ], 
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6560101350760445/918779366396"
    },
    {
     _id: "6",
@@ -57,7 +57,7 @@ let babyshowerList = [
     imgSrc: [
       "./assets/img/baby-shower/PinkOrBlue.jpg"
     ], 
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24845170198430719/918779366396"
    },
    {
     _id: "7",
@@ -67,7 +67,7 @@ let babyshowerList = [
     imgSrc: [
       "./assets/img/baby-shower/BabyShowerSpectacle.jpg"
     ], 
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6804432946331762/918779366396"
    },
    {
     _id: "8",
@@ -77,7 +77,7 @@ let babyshowerList = [
     imgSrc: [
       "./assets/img/baby-shower/OhBabyBliss.jpg"
     ], 
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7320166674689457/918779366396"
    },
    {
     _id: "9",
@@ -87,7 +87,7 @@ let babyshowerList = [
     imgSrc: [
       "./assets/img/baby-shower/BundleOfJoy.jpg"
     ], 
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6454984621270185/918779366396"
    },
    {
     _id: "10",
@@ -97,7 +97,7 @@ let babyshowerList = [
     imgSrc: [
       "./assets/img/baby-shower/SweetBeginnings.jpg"
     ], 
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7017155831693459/918779366396"
    },
    {
     _id: "11",
@@ -107,7 +107,7 @@ let babyshowerList = [
     imgSrc: [
       "./assets/img/baby-shower/StitchDisney.jpg"
     ], 
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7089528184471002/918779366396"
    },
    {
     _id: "12",
@@ -117,7 +117,7 @@ let babyshowerList = [
     imgSrc: [
       "./assets/img/baby-shower/BoyOrGirl.jpg"
     ], 
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6485049454930351/918779366396"
    }
 ];
   

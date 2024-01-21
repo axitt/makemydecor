@@ -7,7 +7,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/PastelDonut.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7040368996051768/918779366396"
   },
   {
     _id: "2",
@@ -47,7 +47,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/HappyBirthdayElegantSetup.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24811335901813469/918779366396"
   },
   {
     _id: "6",
@@ -57,7 +57,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/HappyBirthdayBlisfulSetup.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6472265542873051/918779366396"
   },
   {
     _id: "7",
@@ -67,7 +67,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/SeaAnimals.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7169036639879276/918779366396"
   },
   {
     _id: "8",
@@ -77,7 +77,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/ButterflyBites.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7243386652349894/918779366396"
   },
   {
     _id: "9",
@@ -87,7 +87,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/CocoMelon.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7313684005319694/918779366396"
   },
   {
     _id: "10",
@@ -97,7 +97,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/JungleMagic.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6628744940564450/918779366396"
   },
   {
     _id: "11",
@@ -107,7 +107,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/DinoParty.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7160991260647903/918779366396"
   },
   {
     _id: "12",
@@ -117,7 +117,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/DinosaurTheme.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24440570575591226/918779366396"
   },
   {
     _id: "13",
@@ -127,7 +127,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/JungleSafari.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7123955780998262/918779366396"
   },
   {
     _id: "14",
@@ -137,7 +137,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/JungleThemeSetup.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7101529743293589/918779366396"
   },
   {
     _id: "15",
@@ -157,7 +157,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/BabyBoss.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7141326532652461/918779366396"
   },
   {
     _id: "17",
@@ -167,7 +167,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/CarTheme.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/25011794981752483/918779366396"
   },
   {
     _id: "18",
@@ -187,7 +187,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/BarbieWonderland.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6974093462716463/918779366396"
   },
   {
     _id: "20",
@@ -197,7 +197,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/BarbieWorld.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6453548141413744/918779366396"
   },
   {
     _id: "21",
@@ -207,7 +207,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/BarbieBliss.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7236216316439365/918779366396"
   },
   {
     _id: "22",
@@ -217,7 +217,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/OneYearBash.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7850608194956062/918779366396"
   },
   {
     _id: "23",
@@ -381,8 +381,8 @@ let birthdayList = [
   },
   {
     _id: "39",
-    cardTitle: "Mini Mouse Marvel",
-    cardText: "<br>Bring the iconic style of Mini Mouse Marvel to life with vibrant decorations and a touch of superhero magic.<br><br> Tap on call or whatsapp to receive further details.",
+    cardTitle: "Minnie Mouse Marvel",
+    cardText: "<br>Bring the iconic style of Minnie Mouse Marvel to life with vibrant decorations and a touch of superhero magic.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/MiniMouseMarvel.jpg",
     imgSrc: [
       "./assets/img/birthday/MiniMouseMarvel.jpg"
@@ -517,7 +517,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/BlushBrilliance.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7180335125345375/918779366396"
   },
   {
     _id: "53",
@@ -527,7 +527,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/RoseGoldElegance.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24934705876142817/918779366396"
   },
   {
     _id: "54",
@@ -537,7 +537,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/RoseGold.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24702279232720606/918779366396"
   },
   {
     _id: "55",
@@ -547,7 +547,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/HappyBirthdayRainbowSetup.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7673208126072707/918779366396"
   },
   {
     _id: "56",
@@ -587,7 +587,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/HappyBirthdayWhiteTower.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6509164942519061/918779366396"
   },
   {
     _id: "60",
@@ -597,7 +597,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/birthday/DoNotGrowUp.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7152186474862511/918779366396"
   } 
 ];
 

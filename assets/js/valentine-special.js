@@ -57,7 +57,7 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/anniversary/HomeHeavenSetup.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7061516980607548/918779366396"
   },
   {
     _id: "7",

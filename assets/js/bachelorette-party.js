@@ -7,7 +7,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/bachelorette-party/FlirtyAndFabulous.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7059273900856279/918779366396"
   },
   {
     _id: "2",
@@ -17,7 +17,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/bachelorette-party/LetsParty.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7101393723241824/918779366396"
   },
   {
     _id: "3",
@@ -27,7 +27,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/bachelorette-party/LetsGoGirls.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6930319003688042/918779366396"
   },
   {
     _id: "4",
@@ -37,7 +37,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/bachelorette-party/Groovy.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6443206419113991/918779366396"
   },
   {
     _id: "5",
@@ -47,7 +47,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/bachelorette-party/DancingQueen.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6823273854436347/918779366396"
   },
   {
     _id: "6",
@@ -57,7 +57,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/bachelorette-party/FinalDestination.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6926920507425925/918779366396"
   },
   {
     _id: "7",
@@ -67,7 +67,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/bachelorette-party/LastDisco.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7553925404620694/918779366396"
   },
   {
     _id: "8",
@@ -147,7 +147,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/bachelorette-party/DiscoParty.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24884734814473725/918779366396"
   },
   {
     _id: "16",
@@ -157,7 +157,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/bachelorette-party/UltimateDisco.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7442668532443905/918779366396"
   },
   {
     _id: "17",

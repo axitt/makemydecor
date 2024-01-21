@@ -7,7 +7,7 @@ let welcomebabygirlList = [
     imgSrc: [
       "./assets/img/welcome-baby-girl/WelcomeHome.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24652294184385539/918779366396"
   },
   {
     _id: "2",
@@ -17,7 +17,7 @@ let welcomebabygirlList = [
     imgSrc: [
       "./assets/img/welcome-baby-girl/Princess.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7053525641396399/918779366396"
   },
     {
       _id: "3",
@@ -27,7 +27,7 @@ let welcomebabygirlList = [
       imgSrc: [
         "./assets/img/welcome-baby-girl/SugarAndSpice.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7097041763695606/918779366396"
     },
     {
       _id: "4",
@@ -37,7 +37,7 @@ let welcomebabygirlList = [
       imgSrc: [
         "./assets/img/welcome-baby-girl/PinkPrincess.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7054686021267614/918779366396"
     },
     {
       _id: "5",
@@ -47,7 +47,7 @@ let welcomebabygirlList = [
       imgSrc: [
         "./assets/img/welcome-baby-girl/StarIsBorn.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7121014414691374/918779366396"
     },
     {
       _id: "6",
@@ -57,7 +57,7 @@ let welcomebabygirlList = [
       imgSrc: [
         "./assets/img/welcome-baby-girl/GlossyWelcome.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7751464971533599/918779366396"
     },
     {
       _id: "7",
@@ -67,7 +67,7 @@ let welcomebabygirlList = [
       imgSrc: [
         "./assets/img/welcome-baby-girl/WelcomeBaby.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6974856645901857/918779366396"
     },
     {
       _id: "8",
@@ -77,7 +77,7 @@ let welcomebabygirlList = [
       imgSrc: [
         "./assets/img/welcome-baby-girl/WelcomeStand.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7042505719172433/918779366396"
     },
     {
       _id: "9",
@@ -87,7 +87,7 @@ let welcomebabygirlList = [
       imgSrc: [
         "./assets/img/welcome-baby-girl/WelcomeToTheWorld.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7735017799845187/918779366396"
     },
     {
       _id: "10",
@@ -97,7 +97,7 @@ let welcomebabygirlList = [
       imgSrc: [
         "./assets/img/welcome-baby-girl/BabyBox.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/5655272377930589/918779366396"
     },
     {
       _id: "11",
@@ -107,7 +107,7 @@ let welcomebabygirlList = [
       imgSrc: [
         "./assets/img/welcome-baby-girl/WelcomePrincess.jpg"
       ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24851751954438942/918779366396"
     }
   ];
   
