@@ -47,7 +47,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/TickledPink.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7197879986965641/918779366396"
   },
   {
     _id: "6",
@@ -177,17 +177,17 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/LoveNestTeddy.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24814142801534942/918779366396"
   },
   {
     _id: "18",
-    cardTitle: "Romantic",
+    cardTitle: "Romantic Radiance",
     cardText: "<br>Romantic Radiance bathes the space in soft, warm lighting, creating an intimate and cozy ambiance perfect for a romantic celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/RomanticRadiance.jpg",
     imgSrc: [
       "./assets/img/common/RomanticRadiance.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7609711559063631/918779366396"
   },
   {
     _id: "19",

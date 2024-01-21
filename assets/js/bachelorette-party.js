@@ -117,7 +117,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/common/TickledPink.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7197879986965641/918779366396"
   },
   {
     _id: "13",

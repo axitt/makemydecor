@@ -7,7 +7,7 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/common/LoveNestTeddy.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24814142801534942/918779366396"
   },
   {
     _id: "2",
@@ -17,7 +17,7 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/common/RomanticRadiance.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7609711559063631/918779366396"
   },
   {
     _id: "3",
