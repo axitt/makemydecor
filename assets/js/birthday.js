@@ -27,7 +27,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/common/GoldSetup.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7219446461484095/918779366396"
   },
   {
     _id: "4",
@@ -237,7 +237,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/common/FlamingoFiesta.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6922128704502662/918779366396"
   },
   {
     _id: "25",
@@ -247,7 +247,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/common/ButterflyKisses.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7047496072000869/918779366396"
   },
   {
     _id: "26",
@@ -297,7 +297,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/common/Glamour.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7086151001506137/918779366396"
   },
   {
     _id: "31",
@@ -307,7 +307,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/common/PinkGarland.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/25007931045457864/918779366396"
   },
   {
     _id: "32",
@@ -317,7 +317,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/common/DiscoBalloons.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7321818417841447/918779366396"
   },
   {
     _id: "33",
@@ -327,7 +327,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/common/TentCanopy.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6976366679141242/918779366396"
   },
   {
     _id: "34",
@@ -467,7 +467,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/common/DolphinDreams.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24457895183857739/918779366396"
   },
   {
     _id: "48",
@@ -507,7 +507,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/common/VibrantSetup.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7495745943769069/918779366396"
   },
   {
     _id: "52",
@@ -551,13 +551,13 @@ let birthdayList = [
   },
   {
     _id: "56",
-    cardTitle: "Cuddle Companions",
+    cardTitle: "Cuddle Companion",
     cardText: "<br>Set the mood with soft teddy and ballons, creating a relaxed and inviting atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/CuddleCompanions.jpg",
     imgSrc: [
       "./assets/img/common/CuddleCompanions.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7044447909010178/918779366396"
   },
   {
     _id: "57",
@@ -567,7 +567,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/common/TeddyTales.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7506328439399477/918779366396"
   },
   {
     _id: "58",
@@ -577,7 +577,7 @@ let birthdayList = [
     imgSrc: [
       "./assets/img/common/TeddyBearHugs.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24680523161563099/918779366396"
   },
   {
     _id: "59",

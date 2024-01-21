@@ -7,7 +7,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/anniversary/HomeHeavenSetup.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7061516980607548/918779366396"
   },
   {
     _id: "2",
@@ -17,7 +17,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/LoveKisses.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6717306225063632/918779366396"
   },
   {
     _id: "3",
@@ -27,7 +27,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/BalloonsAndBears.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7027432153999173/918779366396"
   },
   {
     _id: "4",
@@ -37,7 +37,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/BalloonLeague.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6987015968085396/918779366396"
   },
   {
     _id: "5",
@@ -57,7 +57,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/TentCanopy.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6976366679141242/918779366396"
   },
   {
     _id: "7",
@@ -67,7 +67,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/FlamingoFiesta.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6922128704502662/918779366396"
   },
   {
     _id: "8",
@@ -77,7 +77,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/ButterflyKisses.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7047496072000869/918779366396"
   },
   {
     _id: "9",
@@ -107,7 +107,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/GoldSetup.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7219446461484095/918779366396"
   },
   {
     _id: "12",
@@ -117,7 +117,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/VibrantSetup.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7495745943769069/918779366396"
   },
   {
     _id: "13",
@@ -137,7 +137,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/CuddleCompanions.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7044447909010178/918779366396"
   },
   {
     _id: "15",
@@ -147,7 +147,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/TeddyTales.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7506328439399477/918779366396"
   },
   {
     _id: "16",
@@ -157,7 +157,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/TeddyBearHugs.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24680523161563099/918779366396"
   },
   {
     _id: "17",
@@ -197,17 +197,17 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/HeartfeltDecor.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24589405257373682/918779366396"
   },
   {
     _id: "20",
-    cardTitle: "Charmer",
+    cardTitle: "Cherished Charmer",
     cardText: "<br>Cherished Charmer brings together timeless and elegant decor elements, ensuring a sophisticated and enchanting atmosphere for celebrating love.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/CherishedCharmer.jpg",
     imgSrc: [
       "./assets/img/common/CherishedCharmer.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7146773918750388/918779366396"
   },
   {
     _id: "21",
@@ -217,7 +217,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/RomanceRetreat.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7631732426836848/918779366396"
   },
   {
     _id: "22",
@@ -227,7 +227,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/Glamour.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7086151001506137/918779366396"
   },
   {
     _id: "23",
@@ -237,7 +237,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/PinkGarland.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/25007931045457864/918779366396"
   },
   {
     _id: "24",
@@ -247,7 +247,7 @@ let anniversaryList = [
     imgSrc: [
       "./assets/img/common/DiscoBalloons.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7321818417841447/918779366396"
   }
 ];
 

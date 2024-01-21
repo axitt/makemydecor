@@ -27,7 +27,7 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/common/HeartfeltDecor.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24589405257373682/918779366396"
   },
   {
     _id: "4",
@@ -37,7 +37,7 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/common/CherishedCharmer.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7146773918750388/918779366396"
   },
   {
     _id: "5",
@@ -47,7 +47,7 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/common/RomanceRetreat.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7631732426836848/918779366396"
   },
   {
     _id: "6",
@@ -67,7 +67,7 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/anniversary/DomesticBlissSetup.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7179160035506353/918779366396"
   },
   {
     _id: "8",
@@ -77,7 +77,7 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/common/CuddleCompanions.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7044447909010178/918779366396"
   },
   {
     _id: "9",
@@ -87,7 +87,7 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/common/TeddyTales.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7506328439399477/918779366396"
   },
   {
     _id: "10",
@@ -97,7 +97,7 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/common/TeddyBearHugs.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/24680523161563099/918779366396"
   },
   {
     _id: "11",
@@ -107,7 +107,7 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/anniversary/LoveCuddles.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7334877779938014/918779366396"
   },
   {
     _id: "12",
@@ -117,7 +117,7 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/common/BalloonsAndBears.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7027432153999173/918779366396"
   },
   {
     _id: "13",
@@ -127,7 +127,7 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/common/BalloonLeague.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6987015968085396/918779366396"
   },
   {
     _id: "14",
@@ -137,7 +137,7 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/common/LoveKisses.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6717306225063632/918779366396"
   },
   {
     _id: "15",
@@ -147,7 +147,7 @@ let valentinespecialList = [
     imgSrc: [
       "./assets/img/common/TentCanopy.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6976366679141242/918779366396"
   }
 ];
   

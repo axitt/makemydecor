@@ -77,7 +77,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/common/GoldSetup.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7219446461484095/918779366396"
   },
   {
     _id: "9",
@@ -87,17 +87,17 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/common/VibrantSetup.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7495745943769069/918779366396"
   },
   {
     _id: "10",
-    cardTitle: "Balloons And Bears",
+    cardTitle: "Balloons And Bear",
     cardText: "<br>Whisk away into a world of enchantment, where balloons and bears join forces to create an ambiance of pure love and joy.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/BalloonsAndBears.jpg",
     imgSrc: [
       "./assets/img/common/BalloonsAndBears.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7027432153999173/918779366396"
   },
   {
     _id: "11",
@@ -107,7 +107,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/common/BalloonLeague.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6987015968085396/918779366396"
   },
   {
     _id: "12",
@@ -127,7 +127,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/common/FlamingoFiesta.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/6922128704502662/918779366396"
   },
   {
     _id: "14",
@@ -137,7 +137,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/common/ButterflyKisses.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7047496072000869/918779366396"
   },
   {
     _id: "15",
@@ -167,7 +167,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/common/Glamour.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7086151001506137/918779366396"
   },
   {
     _id: "18",
@@ -177,7 +177,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/common/PinkGarland.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/25007931045457864/918779366396"
   },
   {
     _id: "19",
@@ -187,7 +187,7 @@ let bachelorettepartyList = [
     imgSrc: [
       "./assets/img/common/DiscoBalloons.jpg"
     ],
-    whatsappUrl: ""
+    whatsappUrl: "https://wa.me/p/7321818417841447/918779366396"
   }
  ];
   
