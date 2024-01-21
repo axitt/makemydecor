@@ -11,7 +11,7 @@ let babyshowerList = [
    {
     _id: "2",
     cardTitle: "Joyful Beginnings",
-    cardText: "<br>Joyful beginnings decorates the space with charming balloons, symbolizing the joy and excitment surrounding the upcoming arrival.<br><br> Tap on call or whatsapp to receive further details.",
+    cardText: "<br>Joyful beginnings decorates the space with charming balloons, symbolizing the joy and excitement surrounding the upcoming arrival.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/baby-shower/JoyfulBeginnings.jpg",
     imgSrc: [
       "./assets/img/baby-shower/JoyfulBeginnings.jpg"
@@ -20,7 +20,7 @@ let babyshowerList = [
    {
     _id: "3",
     cardTitle: "Oh Baby Tiny Toes",
-    cardText: "<br>Tiney Toes theme features adorable footprints infusing a sweet and endearing touch to the baby shower celebration.<br><br> Tap on call or whatsapp to receive further details.",
+    cardText: "<br>Tiny Toes theme features adorable footprints infusing a sweet and endearing touch to the baby shower celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/baby-shower/OhBabyTinyToes.jpg",
     imgSrc: [
       "./assets/img/baby-shower/OhBabyTinyToes.jpg"
@@ -73,7 +73,7 @@ let babyshowerList = [
    },
    {
     _id: "9",
-    cardTitle: "BundleOfJoy:",
+    cardTitle: "Bundle Of Joy:",
     cardText: "<br>A heartwarming celebration adorned with soft hues, capturing the essence of the imminent bundle of joy.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/baby-shower/BundleOfJoy.jpg",
     imgSrc: [

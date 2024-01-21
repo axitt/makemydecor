@@ -29,7 +29,7 @@ let bridalshowerList = [
    {
     _id: "4",
     cardTitle: "Elegance in White",
-    cardText: "<br>A scerene ambiance is created with pristine white decor, invoking a sense of purity and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
+    cardText: "<br>A serene ambiance is created with pristine white decor, invoking a sense of purity and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/bridal-shower/EleganceInWhite.jpg",
     imgSrc: [
       "./assets/img/bridal-shower/EleganceInWhite.jpg"

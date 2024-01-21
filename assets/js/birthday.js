@@ -42,7 +42,7 @@ let birthdayList = [
   {
     _id: "5",
     cardTitle: "Elegant Setup",
-    cardText: "<br>Indulge in an atmosphere of spohistication with our elegantlt setup birthday decoration setup.<br><br> Tap on call or whatsapp to receive further details.",
+    cardText: "<br>Indulge in an atmosphere of sophistication with our elegant setup birthday decoration setup.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/HappyBirthdayElegantSetup.jpg",
     imgSrc: [
       "./assets/img/birthday/HappyBirthdayElegantSetup.jpg"
@@ -81,7 +81,7 @@ let birthdayList = [
   },
   {
     _id: "9",
-    cardTitle: "CocoMelon",
+    cardTitle: "Coco Melon",
     cardText: "<br>Dive into the world of musical joy with a CocoMelon-themed birthday. Bright colors, musical notes, and characters from the popular show set the stage for a melodious celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/CocoMelon.jpg",
     imgSrc: [

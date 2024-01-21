@@ -92,7 +92,7 @@ let welcomebabygirlList = [
     {
       _id: "11",
       cardTitle: "Welcome Princess",
-      cardText: "<br>Gorgeous pink drapery being an air of sophistication to welcome the pricness, setting the stage for a majestic celebration.<br><br> Tap on call or whatsapp to receive further details.",
+      cardText: "<br>Gorgeous pink drapery being an air of sophistication to welcome the princess, setting the stage for a majestic celebration.<br><br> Tap on call or whatsapp to receive further details.",
       thumbSrc: "./assets/img/welcome-baby-girl/WelcomePrincess.jpg",
       imgSrc: [
         "./assets/img/welcome-baby-girl/WelcomePrincess.jpg"

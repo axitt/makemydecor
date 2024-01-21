@@ -2,7 +2,7 @@ let anniversaryList = [
   {
     _id: "1",
     cardTitle: "Home Heaven",
-    cardText: "<br>Creating an ethereal atmosphere with a mix of helium and metallic balloons, tranforming your home into a dreamy heaven.<br><br> Tap on call or whatsapp to receive further details.",
+    cardText: "<br>Creating an ethereal atmosphere with a mix of helium and metallic balloons, transforming your home into a dreamy heaven.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/anniversary/HomeHeavenSetup.jpg",
     imgSrc: [
       "./assets/img/anniversary/HomeHeavenSetup.jpg"
@@ -110,7 +110,7 @@ let anniversaryList = [
   {
     _id: "13",
     cardTitle: "Pink Bliss",
-    cardText: "<br>Celebrate in the shades of pink with our enchanting ballon arrangement, transforming your space into a heaven of pure bliss.<br><br> Tap on call or whatsapp to receive further details.",
+    cardText: "<br>Celebrate in the shades of pink with our enchanting balloon arrangement, transforming your space into a heaven of pure bliss.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/anniversary/DomesticBlissSetup.jpg",
     imgSrc: [
       "./assets/img/anniversary/DomesticBlissSetup.jpg"
@@ -146,7 +146,7 @@ let anniversaryList = [
   {
     _id: "17",
     cardTitle: "Love Cuddles",
-    cardText: "<br>An unfogettable love fusion of balloons and teddy to set a lovely atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
+    cardText: "<br>An unforgettable love fusion of balloons and teddy to set a lovely atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/anniversary/LoveCuddles.jpg",
     imgSrc: [
       "./assets/img/anniversary/LoveCuddles.jpg"
