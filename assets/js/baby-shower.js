@@ -6,7 +6,8 @@ let babyshowerList = [
     thumbSrc: "./assets/img/baby-shower/BalloonExtravaganzaForBabyArrival.jpg",
     imgSrc: [
       "./assets/img/baby-shower/BalloonExtravaganzaForBabyArrival.jpg"
-    ]
+    ], 
+    whatsappUrl: ""
    },
    {
     _id: "2",
@@ -15,7 +16,8 @@ let babyshowerList = [
     thumbSrc: "./assets/img/baby-shower/JoyfulBeginnings.jpg",
     imgSrc: [
       "./assets/img/baby-shower/JoyfulBeginnings.jpg"
-    ]
+    ], 
+    whatsappUrl: ""
    },
    {
     _id: "3",
@@ -24,7 +26,8 @@ let babyshowerList = [
     thumbSrc: "./assets/img/baby-shower/OhBabyTinyToes.jpg",
     imgSrc: [
       "./assets/img/baby-shower/OhBabyTinyToes.jpg"
-    ]
+    ], 
+    whatsappUrl: ""
    },
    {
     _id: "4",
@@ -33,7 +36,8 @@ let babyshowerList = [
     thumbSrc: "./assets/img/baby-shower/HeyBaby.jpg",
     imgSrc: [
       "./assets/img/baby-shower/HeyBaby.jpg"
-    ]
+    ], 
+    whatsappUrl: ""
    },
    {
     _id: "5",
@@ -42,7 +46,8 @@ let babyshowerList = [
     thumbSrc: "./assets/img/baby-shower/PopToKnow.jpg",
     imgSrc: [
       "./assets/img/baby-shower/PopToKnow.jpg"
-    ]
+    ], 
+    whatsappUrl: ""
    },
    {
     _id: "6",
@@ -51,7 +56,8 @@ let babyshowerList = [
     thumbSrc: "./assets/img/baby-shower/PinkOrBlue.jpg",
     imgSrc: [
       "./assets/img/baby-shower/PinkOrBlue.jpg"
-    ]
+    ], 
+    whatsappUrl: ""
    },
    {
     _id: "7",
@@ -60,7 +66,8 @@ let babyshowerList = [
     thumbSrc: "./assets/img/baby-shower/BabyShowerSpectacle.jpg",
     imgSrc: [
       "./assets/img/baby-shower/BabyShowerSpectacle.jpg"
-    ]
+    ], 
+    whatsappUrl: ""
    },
    {
     _id: "8",
@@ -69,7 +76,8 @@ let babyshowerList = [
     thumbSrc: "./assets/img/baby-shower/OhBabyBliss.jpg",
     imgSrc: [
       "./assets/img/baby-shower/OhBabyBliss.jpg"
-    ]
+    ], 
+    whatsappUrl: ""
    },
    {
     _id: "9",
@@ -78,7 +86,8 @@ let babyshowerList = [
     thumbSrc: "./assets/img/baby-shower/BundleOfJoy.jpg",
     imgSrc: [
       "./assets/img/baby-shower/BundleOfJoy.jpg"
-    ]
+    ], 
+    whatsappUrl: ""
    },
    {
     _id: "10",
@@ -87,7 +96,8 @@ let babyshowerList = [
     thumbSrc: "./assets/img/baby-shower/SweetBeginnings.jpg",
     imgSrc: [
       "./assets/img/baby-shower/SweetBeginnings.jpg"
-    ]
+    ], 
+    whatsappUrl: ""
    },
    {
     _id: "11",
@@ -96,7 +106,8 @@ let babyshowerList = [
     thumbSrc: "./assets/img/baby-shower/StitchDisney.jpg",
     imgSrc: [
       "./assets/img/baby-shower/StitchDisney.jpg"
-    ]
+    ], 
+    whatsappUrl: ""
    },
    {
     _id: "12",
@@ -105,7 +116,8 @@ let babyshowerList = [
     thumbSrc: "./assets/img/baby-shower/BoyOrGirl.jpg",
     imgSrc: [
       "./assets/img/baby-shower/BoyOrGirl.jpg"
-    ]
+    ], 
+    whatsappUrl: ""
    }
 ];
   
@@ -134,7 +146,7 @@ let babyshowerList = [
         </div>
         <div class="btn-group" role="group" aria-label="Basic example">
         <a href="tel:+918779366396" class="btn btn-outline-primary btn-sm rounded-0"><i class="bi bi-telephone"></i><span> Call</span></a>
-        <a href="https://wa.me/918779366396" class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>
+        <a href=${list.whatsappUrl} class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>
         </div>
       </div>
     </div>
@@ -179,7 +191,7 @@ let babyshowerList = [
         <div class="modal-footer">
           <button type="button" class="btn btn-outline-secondary btn-sm rounded-0" data-dismiss="modal">Close</button>
           <a href="tel:+918779366396" class="btn btn-outline-primary btn-sm rounded-0"><i class="bi bi-telephone"></i><span> Call</span></a>
-          <a href="https://wa.me/918779366396" class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>  
+          <a href=${list.whatsappUrl} class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>  
         </div>
       </div>
     </div>

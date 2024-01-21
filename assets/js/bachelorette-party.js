@@ -6,7 +6,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/bachelorette-party/FlirtyAndFabulous.jpg",
     imgSrc: [
       "./assets/img/bachelorette-party/FlirtyAndFabulous.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "2",
@@ -15,7 +16,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/bachelorette-party/LetsParty.jpg",
     imgSrc: [
       "./assets/img/bachelorette-party/LetsParty.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "3",
@@ -24,7 +26,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/bachelorette-party/LetsGoGirls.jpg",
     imgSrc: [
       "./assets/img/bachelorette-party/LetsGoGirls.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "4",
@@ -33,7 +36,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/bachelorette-party/Groovy.jpg",
     imgSrc: [
       "./assets/img/bachelorette-party/Groovy.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "5",
@@ -42,7 +46,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/bachelorette-party/DancingQueen.jpg",
     imgSrc: [
       "./assets/img/bachelorette-party/DancingQueen.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "6",
@@ -51,7 +56,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/bachelorette-party/FinalDestination.jpg",
     imgSrc: [
       "./assets/img/bachelorette-party/FinalDestination.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "7",
@@ -60,7 +66,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/bachelorette-party/LastDisco.jpg",
     imgSrc: [
       "./assets/img/bachelorette-party/LastDisco.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "8",
@@ -69,7 +76,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/common/GoldSetup.jpg",
     imgSrc: [
       "./assets/img/common/GoldSetup.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "9",
@@ -78,7 +86,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/common/VibrantSetup.jpg",
     imgSrc: [
       "./assets/img/common/VibrantSetup.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "10",
@@ -87,7 +96,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/common/BalloonsAndBears.jpg",
     imgSrc: [
       "./assets/img/common/BalloonsAndBears.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "11",
@@ -96,7 +106,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/common/BalloonLeague.jpg",
     imgSrc: [
       "./assets/img/common/BalloonLeague.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "12",
@@ -105,7 +116,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/common/TickledPink.jpg",
     imgSrc: [
       "./assets/img/common/TickledPink.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "13",
@@ -114,7 +126,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/common/FlamingoFiesta.jpg",
     imgSrc: [
       "./assets/img/common/FlamingoFiesta.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "14",
@@ -123,7 +136,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/common/ButterflyKisses.jpg",
     imgSrc: [
       "./assets/img/common/ButterflyKisses.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "15",
@@ -132,7 +146,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/bachelorette-party/DiscoParty.jpg",
     imgSrc: [
       "./assets/img/bachelorette-party/DiscoParty.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "16",
@@ -141,7 +156,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/bachelorette-party/UltimateDisco.jpg",
     imgSrc: [
       "./assets/img/bachelorette-party/UltimateDisco.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "17",
@@ -150,7 +166,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/common/Glamour.jpg",
     imgSrc: [
       "./assets/img/common/Glamour.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "18",
@@ -159,7 +176,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/common/PinkGarland.jpg",
     imgSrc: [
       "./assets/img/common/PinkGarland.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "19",
@@ -168,7 +186,8 @@ let bachelorettepartyList = [
     thumbSrc: "./assets/img/common/DiscoBalloons.jpg",
     imgSrc: [
       "./assets/img/common/DiscoBalloons.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   }
  ];
   
@@ -197,7 +216,7 @@ let bachelorettepartyList = [
         </div>
         <div class="btn-group" role="group" aria-label="Basic example">
         <a href="tel:+918779366396" class="btn btn-outline-primary btn-sm rounded-0"><i class="bi bi-telephone"></i><span> Call</span></a>
-        <a href="https://wa.me/918779366396" class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>
+        <a href=${list.whatsappUrl} class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>
         </div>
       </div>
     </div>
@@ -242,7 +261,7 @@ let bachelorettepartyList = [
         <div class="modal-footer">
           <button type="button" class="btn btn-outline-secondary btn-sm rounded-0" data-dismiss="modal">Close</button>
           <a href="tel:+918779366396" class="btn btn-outline-primary btn-sm rounded-0"><i class="bi bi-telephone"></i><span> Call</span></a>
-          <a href="https://wa.me/918779366396" class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>  
+          <a href=${list.whatsappUrl} class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>  
         </div>
       </div>
     </div>

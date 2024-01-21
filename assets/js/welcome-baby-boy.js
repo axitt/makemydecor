@@ -6,7 +6,8 @@ let welcomebabyboyList = [
     thumbSrc: "./assets/img/welcome-baby-boy/WelcomeBoy.jpg",
     imgSrc: [
       "./assets/img/welcome-baby-boy/WelcomeBoy.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
       _id: "2",
@@ -15,7 +16,8 @@ let welcomebabyboyList = [
       thumbSrc: "./assets/img/welcome-baby-boy/BabyBlues.jpg",
       imgSrc: [
         "./assets/img/welcome-baby-boy/BabyBlues.jpg"
-      ]
+      ],
+    whatsappUrl: ""
     },
     {
       _id: "3",
@@ -24,7 +26,8 @@ let welcomebabyboyList = [
       thumbSrc: "./assets/img/welcome-baby-boy/ChocolateBabyBoy.jpg",
       imgSrc: [
         "./assets/img/welcome-baby-boy/ChocolateBabyBoy.jpg"
-      ]
+      ],
+    whatsappUrl: ""
     },
     {
       _id: "4",
@@ -33,7 +36,8 @@ let welcomebabyboyList = [
       thumbSrc: "./assets/img/welcome-baby-boy/HeavenSent.jpg",
       imgSrc: [
         "./assets/img/welcome-baby-boy/HeavenSent.jpg"
-      ]
+      ],
+    whatsappUrl: ""
     },
     {
       _id: "5",
@@ -42,7 +46,8 @@ let welcomebabyboyList = [
       thumbSrc: "./assets/img/welcome-baby-boy/Blessed.jpg",
       imgSrc: [
         "./assets/img/welcome-baby-boy/Blessed.jpg"
-      ]
+      ],
+    whatsappUrl: ""
     },
     {
       _id: "6",
@@ -51,7 +56,8 @@ let welcomebabyboyList = [
       thumbSrc: "./assets/img/welcome-baby-boy/JoyfulJourney.jpg",
       imgSrc: [
         "./assets/img/welcome-baby-boy/JoyfulJourney.jpg"
-      ]
+      ],
+    whatsappUrl: ""
     },
     {
       _id: "7",
@@ -60,7 +66,8 @@ let welcomebabyboyList = [
       thumbSrc: "./assets/img/welcome-baby-boy/BabyElephant.jpg",
       imgSrc: [
         "./assets/img/welcome-baby-boy/BabyElephant.jpg"
-      ]
+      ],
+    whatsappUrl: ""
     },
     {
       _id: "8",
@@ -69,7 +76,8 @@ let welcomebabyboyList = [
       thumbSrc: "./assets/img/welcome-baby-boy/OhBaby.jpg",
       imgSrc: [
         "./assets/img/welcome-baby-boy/OhBaby.jpg"
-      ]
+      ],
+    whatsappUrl: ""
     },
     {
       _id: "9",
@@ -78,7 +86,8 @@ let welcomebabyboyList = [
       thumbSrc: "./assets/img/welcome-baby-boy/StarIsBorn.jpg",
       imgSrc: [
         "./assets/img/welcome-baby-boy/StarIsBorn.jpg"
-      ]
+      ],
+    whatsappUrl: ""
     },
     {
       _id: "10",
@@ -87,7 +96,8 @@ let welcomebabyboyList = [
       thumbSrc: "./assets/img/welcome-baby-boy/NewArrival.jpg",
       imgSrc: [
         "./assets/img/welcome-baby-boy/NewArrival.jpg"
-      ]
+      ],
+    whatsappUrl: ""
     },
     {
       _id: "11",
@@ -96,7 +106,8 @@ let welcomebabyboyList = [
       thumbSrc: "./assets/img/welcome-baby-boy/CuddleWelcome.jpg",
       imgSrc: [
         "./assets/img/welcome-baby-boy/CuddleWelcome.jpg"
-      ]
+      ],
+    whatsappUrl: ""
     },
     {
       _id: "12",
@@ -105,7 +116,8 @@ let welcomebabyboyList = [
       thumbSrc: "./assets/img/welcome-baby-boy/LittleBlessingBash.jpg",
       imgSrc: [
         "./assets/img/welcome-baby-boy/LittleBlessingBash.jpg"
-      ]
+      ],
+    whatsappUrl: ""
     }
   ];
   
@@ -134,7 +146,7 @@ let welcomebabyboyList = [
         </div>
         <div class="btn-group" role="group" aria-label="Basic example">
         <a href="tel:+918779366396" class="btn btn-outline-primary btn-sm rounded-0"><i class="bi bi-telephone"></i><span> Call</span></a>
-        <a href="https://wa.me/918779366396" class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>
+        <a href=${list.whatsappUrl} class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>
         </div>
       </div>
     </div>
@@ -179,7 +191,7 @@ let welcomebabyboyList = [
         <div class="modal-footer">
           <button type="button" class="btn btn-outline-secondary btn-sm rounded-0" data-dismiss="modal">Close</button>
           <a href="tel:+918779366396" class="btn btn-outline-primary btn-sm rounded-0"><i class="bi bi-telephone"></i><span> Call</span></a>
-          <a href="https://wa.me/918779366396" class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>  
+          <a href=${list.whatsappUrl} class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>  
         </div>
       </div>
     </div>

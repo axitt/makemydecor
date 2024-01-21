@@ -6,7 +6,8 @@ let valentinespecialList = [
     thumbSrc: "./assets/img/common/LoveNestTeddy.jpg",
     imgSrc: [
       "./assets/img/common/LoveNestTeddy.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "2",
@@ -15,7 +16,8 @@ let valentinespecialList = [
     thumbSrc: "./assets/img/common/RomanticRadiance.jpg",
     imgSrc: [
       "./assets/img/common/RomanticRadiance.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "3",
@@ -24,7 +26,8 @@ let valentinespecialList = [
     thumbSrc: "./assets/img/common/HeartfeltDecor.jpg",
     imgSrc: [
       "./assets/img/common/HeartfeltDecor.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "4",
@@ -33,7 +36,8 @@ let valentinespecialList = [
     thumbSrc: "./assets/img/common/CherishedCharmer.jpg",
     imgSrc: [
       "./assets/img/common/CherishedCharmer.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "5",
@@ -42,7 +46,8 @@ let valentinespecialList = [
     thumbSrc: "./assets/img/common/RomanceRetreat.jpg",
     imgSrc: [
       "./assets/img/common/RomanceRetreat.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "6",
@@ -51,7 +56,8 @@ let valentinespecialList = [
     thumbSrc: "./assets/img/anniversary/HomeHeavenSetup.jpg",
     imgSrc: [
       "./assets/img/anniversary/HomeHeavenSetup.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "7",
@@ -60,7 +66,8 @@ let valentinespecialList = [
     thumbSrc: "./assets/img/anniversary/DomesticBlissSetup.jpg",
     imgSrc: [
       "./assets/img/anniversary/DomesticBlissSetup.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "8",
@@ -69,7 +76,8 @@ let valentinespecialList = [
     thumbSrc: "./assets/img/common/CuddleCompanions.jpg",
     imgSrc: [
       "./assets/img/common/CuddleCompanions.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "9",
@@ -78,7 +86,8 @@ let valentinespecialList = [
     thumbSrc: "./assets/img/common/TeddyTales.jpg",
     imgSrc: [
       "./assets/img/common/TeddyTales.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "10",
@@ -87,7 +96,8 @@ let valentinespecialList = [
     thumbSrc: "./assets/img/common/TeddyBearHugs.jpg",
     imgSrc: [
       "./assets/img/common/TeddyBearHugs.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "11",
@@ -96,7 +106,8 @@ let valentinespecialList = [
     thumbSrc: "./assets/img/anniversary/LoveCuddles.jpg",
     imgSrc: [
       "./assets/img/anniversary/LoveCuddles.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "12",
@@ -105,7 +116,8 @@ let valentinespecialList = [
     thumbSrc: "./assets/img/common/BalloonsAndBears.jpg",
     imgSrc: [
       "./assets/img/common/BalloonsAndBears.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "13",
@@ -114,7 +126,8 @@ let valentinespecialList = [
     thumbSrc: "./assets/img/common/BalloonLeague.jpg",
     imgSrc: [
       "./assets/img/common/BalloonLeague.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "14",
@@ -123,7 +136,8 @@ let valentinespecialList = [
     thumbSrc: "./assets/img/common/LoveKisses.jpg",
     imgSrc: [
       "./assets/img/common/LoveKisses.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   },
   {
     _id: "15",
@@ -132,7 +146,8 @@ let valentinespecialList = [
     thumbSrc: "./assets/img/common/TentCanopy.jpg",
     imgSrc: [
       "./assets/img/common/TentCanopy.jpg"
-    ]
+    ],
+    whatsappUrl: ""
   }
 ];
   
@@ -161,7 +176,7 @@ let valentinespecialList = [
         </div>
         <div class="btn-group" role="group" aria-label="Basic example">
         <a href="tel:+918779366396" class="btn btn-outline-primary btn-sm rounded-0"><i class="bi bi-telephone"></i><span> Call</span></a>
-        <a href="https://wa.me/918779366396" class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>
+        <a href=${list.whatsappUrl} class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>
         </div>
       </div>
     </div>
@@ -206,7 +221,7 @@ let valentinespecialList = [
         <div class="modal-footer">
           <button type="button" class="btn btn-outline-secondary btn-sm rounded-0" data-dismiss="modal">Close</button>
           <a href="tel:+918779366396" class="btn btn-outline-primary btn-sm rounded-0"><i class="bi bi-telephone"></i><span> Call</span></a>
-          <a href="https://wa.me/918779366396" class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>  
+          <a href=${list.whatsappUrl} class="btn btn-success btn-sm rounded-0"><i class="bi bi-whatsapp"></i><span> WhatsApp</span></a>  
         </div>
       </div>
     </div>
