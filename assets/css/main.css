@@ -52,7 +52,6 @@ h6 {
 # Sections & Section Header
 --------------------------------------------------------------*/
 section {
-  overflow: hidden;
   padding: 80px 0;
 }
 
@@ -85,6 +84,44 @@ section {
 
 .section-header p span {
   color: var(--color-primary);
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  font-weight: 500;
+  font-size: 14px;
+  text-align: center;
+  transition: 0.5s;
+  letter-spacing: 1px;
+  border-radius: 20px;
+  transition: 0.5s;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 4px 60px;
+  text-decoration: none;
+  display: block;
+  border-radius: 20px;
+}
+
+.dropdown-content a:hover {
+  color: #fff;
+  background: var(--color-primary);
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
 }
 
 /* Smooth scroll behavior */
@@ -554,6 +591,7 @@ section {
 .about .about-img {
   min-height: 685px;
   background-size: auto 100%;
+  background-image: url("../img/common/GoldSetup.jpg");
 }
 
 .about h3 {
@@ -686,6 +724,15 @@ section {
   100% {
     transform: scale(1, 1);
     opacity: 0;
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+  .about .about-img {
+    min-height: 450px;
+    background-size: auto 100%;
+    background-image: url("../img/common/GoldSetup.jpg");
   }
 }
 
@@ -1257,3 +1304,4 @@ section {
 .footer .credits a {
   color: #fff;
 }
+
