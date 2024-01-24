@@ -168,10 +168,10 @@ let bridalshowerList = [
   
   bridalshowerList.forEach(function(list) {
     bridalshowerHTML+=`
-    <div type="button" class="col-6 col-lg-3 col-md-4 mb-4" data-toggle="modal" data-target="#exampleModal${list._id}">
+    <div type="button" class="col-6 col-lg-3 col-md-4 mb-4">
       <div class="card">
-        <img class="card-img-top" src="${list.thumbSrc}" alt="Card image cap">
-      <div class="card-body py-2">
+        <img class="card-img-top" src="${list.thumbSrc}" alt="Card image cap" data-toggle="modal" data-target="#exampleModal${list._id}">
+        <div class="card-body py-2" data-toggle="modal" data-target="#exampleModal${list._id}">
         <h6 class="card-title card-title-text">${list.cardTitle}</h6>
         </div>
         <div class="btn-group" role="group" aria-label="Basic example">
