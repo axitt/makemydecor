@@ -361,7 +361,7 @@ let birthdayList = [
   },
   {
     _id: "37",
-    cardTitle: "Baby Elephant Disney",
+    cardTitle: "Baby Elephant",
     cardText: "<br>Celebrate with a touch of Disney magic and adorable baby elephants in this delightful Baby Elephant Disney decoration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/BabyElephantDisney.jpg",
     imgSrc: [
@@ -381,7 +381,7 @@ let birthdayList = [
   },
   {
     _id: "39",
-    cardTitle: "Minnie Mouse Marvel",
+    cardTitle: "Minnie Mouse",
     cardText: "<br>Bring the iconic style of Minnie Mouse Marvel to life with vibrant decorations and a touch of superhero magic.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/MiniMouseMarvel.jpg",
     imgSrc: [
