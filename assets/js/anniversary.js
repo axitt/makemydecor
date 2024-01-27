@@ -11,6 +11,16 @@ let anniversaryList = [
   },
   {
     _id: "2",
+    cardTitle: "Propose Love",
+    cardText: "<br>Express your deepest emotions with a love-themed car trunk decoration, setting the stage for a memorable declaration of love.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/car-dikki/ProposeLove.jpg",
+    imgSrc: [
+      "./assets/img/car-dikki/ProposeLove.jpg"
+    ],
+    whatsappUrl: "https://wa.me/p/7279649738778601/918779366396"
+  },
+  {
+    _id: "3",
     cardTitle: "Love Kisses",
     cardText: "<br>Create a romantic ambiance with the LoveKisses theme, where every element of the decor whispers sweet sentiments and celebrates the magic of love.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/LoveKisses.jpg",
@@ -20,7 +30,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/6717306225063632/918779366396"
   },
   {
-    _id: "3",
+    _id: "4",
     cardTitle: "Balloons & Bear",
     cardText: "<br>Whisk away into a world of enchantment, where balloons and bears join forces to create an ambiance of pure love and joy.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/BalloonsAndBears.jpg",
@@ -30,7 +40,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/7027432153999173/918779366396"
   },
   {
-    _id: "4",
+    _id: "5",
     cardTitle: "Balloon League",
     cardText: "<br>Join the league of love with an enchanting array of balloons, transforming your celebration into a symphony of elegance.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/BalloonLeague.jpg",
@@ -40,7 +50,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/6987015968085396/918779366396"
   },
   {
-    _id: "5",
+    _id: "6",
     cardTitle: "Tickled Pink",
     cardText: "<br>Delight in the charming Tickled Pink theme. Soft pastels, whimsical decor, and an abundance of pink create a sweet and playful atmosphere for the celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/TickledPink.jpg",
@@ -50,7 +60,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/7197879986965641/918779366396"
   },
   {
-    _id: "6",
+    _id: "7",
     cardTitle: "Tent Canopy",
     cardText: "<br>Create an intimate and stylish setting with a Tent Canopy, offering a chic shelter for a celebration under the stars.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/TentCanopy.jpg",
@@ -60,7 +70,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/6976366679141242/918779366396"
   },
   {
-    _id: "7",
+    _id: "8",
     cardTitle: "Flamingo Fiesta",
     cardText: "<br>Turn the party into a tropical paradise with a Flamingo Fiesta. Flamingos, vibrant colors, and a touch of aloha spirit make for a lively and festive celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/FlamingoFiesta.jpg",
@@ -70,7 +80,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/6922128704502662/918779366396"
   },
   {
-    _id: "8",
+    _id: "9",
     cardTitle: "Butterfly Kisses",
     cardText: "<br>Shower the anniversary star with Butterfly Kisses. Delicate butterflies, gentle hues, and enchanting decor elements set the stage for a celebration filled with love and sweetness.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/ButterflyKisses.jpg",
@@ -80,7 +90,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/7047496072000869/918779366396"
   },
   {
-    _id: "9",
+    _id: "10",
     cardTitle: "Mega Milestone",
     cardText: "<br>Opt for a eye-catching milestone memory setup to create a lively and celebratory atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/anniversary/MilestoneMemorySetup.jpg",
@@ -90,7 +100,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/7388081041223326/918779366396"
   },
   {
-    _id: "10",
+    _id: "11",
     cardTitle: "Radiant Love",
     cardText: "<br>Welcome guests with a stunning balloon arch in a spectrum of radiant colors, setting the tone for a joyful anniversary.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/anniversary/RadiantLoveSetup.jpg",
@@ -100,7 +110,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/7095056000573638/918779366396"
   },
   {
-    _id: "11",
+    _id: "12",
     cardTitle: "Gold Setup",
     cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/GoldSetup.jpg",
@@ -110,7 +120,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/7219446461484095/918779366396"
   },
   {
-    _id: "12",
+    _id: "13",
     cardTitle: "Vibrant Setup",
     cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/VibrantSetup.jpg",
@@ -120,7 +130,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/7495745943769069/918779366396"
   },
   {
-    _id: "13",
+    _id: "14",
     cardTitle: "Pink Bliss",
     cardText: "<br>Celebrate in the shades of pink with our enchanting balloon arrangement, transforming your space into a heaven of pure bliss.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/anniversary/DomesticBlissSetup.jpg",
@@ -130,7 +140,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/7179160035506353/918779366396"
   },
   {
-    _id: "14",
+    _id: "15",
     cardTitle: "Cuddle Companion",
     cardText: "<br>Set the mood with soft teddy and balloons, creating a relaxed and inviting atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/CuddleCompanions.jpg",
@@ -140,7 +150,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/7044447909010178/918779366396"
   },
   {
-    _id: "15",
+    _id: "16",
     cardTitle: "Teddy Tales",
     cardText: "<br>Transform your space into a magical teddy bear realm to immerse the room in a whimsical narrative.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/TeddyTales.jpg",
@@ -150,7 +160,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/7506328439399477/918779366396"
   },
   {
-    _id: "16",
+    _id: "17",
     cardTitle: "Teddy Bear Hugs",
     cardText: "<br>Hide small teddy bear trinkets around the room, encouraging exploration and discovery for loved ones.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/TeddyBearHugs.jpg",
@@ -160,7 +170,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/24680523161563099/918779366396"
   },
   {
-    _id: "17",
+    _id: "18",
     cardTitle: "Love Cuddles",
     cardText: "<br>An unforgettable love fusion of balloons and teddy to set a lovely atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/anniversary/LoveCuddles.jpg",
@@ -170,7 +180,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/7334877779938014/918779366396"
   },
   {
-    _id: "18",
+    _id: "19",
     cardTitle: "Love Nest Teddy",
     cardText: "<br>Love Nest Teddy introduces a cuddly and charming element, featuring adorable teddy bear accents that add a touch of warmth and affection to the Valentine's Day decor.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/LoveNestTeddy.jpg",
@@ -180,7 +190,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/24814142801534942/918779366396"
   },
   {
-    _id: "18",
+    _id: "20",
     cardTitle: "Romantic Radiance",
     cardText: "<br>Romantic Radiance bathes the space in soft, warm lighting, creating an intimate and cozy ambiance perfect for a romantic celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/RomanticRadiance.jpg",
@@ -190,7 +200,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/7609711559063631/918779366396"
   },
   {
-    _id: "19",
+    _id: "21",
     cardTitle: "Heartfelt Decor",
     cardText: "<br>Heartfelt Decor incorporates sentimental touches to convey love and emotion throughout the setup.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/HeartfeltDecor.jpg",
@@ -200,7 +210,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/24589405257373682/918779366396"
   },
   {
-    _id: "20",
+    _id: "22",
     cardTitle: "Cherished Charmer",
     cardText: "<br>Cherished Charmer brings together timeless and elegant decor elements, ensuring a sophisticated and enchanting atmosphere for celebrating love.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/CherishedCharmer.jpg",
@@ -210,7 +220,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/7146773918750388/918779366396"
   },
   {
-    _id: "21",
+    _id: "23",
     cardTitle: "Romance Retreat",
     cardText: "<br>Romance Retreat transforms the venue into a romantic heaven, with cozy seating, draped fabrics, and soft hues creating an intimate setting for couples.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/RomanceRetreat.jpg",
@@ -220,7 +230,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/7631732426836848/918779366396"
   },
   {
-    _id: "22",
+    _id: "24",
     cardTitle: "Glamour",
     cardText: "<br>Unleash the Glamour with a sophisticated decor ensemble, featuring chic elements that radiate style and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/Glamour.jpg",
@@ -230,7 +240,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/7086151001506137/918779366396"
   },
   {
-    _id: "23",
+    _id: "25",
     cardTitle: "Pink Garland",
     cardText: "<br>Envelop your space in the charm of Pink Garland, weaving a trail of delicate blossoms to create a romantic atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/PinkGarland.jpg",
@@ -240,7 +250,7 @@ let anniversaryList = [
     whatsappUrl: "https://wa.me/p/25007931045457864/918779366396"
   },
   {
-    _id: "24",
+    _id: "26",
     cardTitle: "Disco Balloons",
     cardText: "<br>Transport your guests to a disco-inspired realm with White Disco Balloons, bringing a dance-worthy vibe to your event.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/DiscoBalloons.jpg",

@@ -201,7 +201,7 @@ let welcomebabyList = [
     },
     {
       _id: "21",
-      cardTitle: "Welcome To The World",
+      cardTitle: "Welcome To World",
       cardText: "<br>Introduce the newborn to the world with 'Welcome To The World' girl-themed decorations, capturing the wonder and excitement of this special moment.<br><br> Tap on call or whatsapp to receive further details.",
       thumbSrc: "./assets/img/welcome-baby-girl/WelcomeToTheWorld.jpg",
       imgSrc: [

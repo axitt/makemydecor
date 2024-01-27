@@ -40,7 +40,17 @@ let bridalshowerList = [
     whatsappUrl: "https://wa.me/p/25408180698769071/918779366396"
    },
    {
-    _id: "5",
+     _id: "5",
+     cardTitle: "Car Decoration",
+     cardText: "<br>Turn your car into a masterpiece with a thoughtfully curated trunk decoration, showcasing your unique style and celebratory spirit.<br><br> Tap on call or whatsapp to receive further details.",
+     thumbSrc: "./assets/img/car-dikki/CarDecoration.jpg",
+     imgSrc: [
+       "./assets/img/car-dikki/CarDecoration.jpg"
+     ],
+     whatsappUrl: "https://wa.me/p/7231065890307325/918779366396"
+   },
+   {
+    _id: "6",
     cardTitle: "Gold Rush Decor",
     cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/GoldSetup.jpg",
@@ -50,7 +60,7 @@ let bridalshowerList = [
     whatsappUrl: "https://wa.me/p/7219446461484095/918779366396"
    },
    {
-     _id: "6",
+     _id: "7",
      cardTitle: "Vibrant Setup",
      cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
      thumbSrc: "./assets/img/common/VibrantSetup.jpg",
@@ -60,7 +70,7 @@ let bridalshowerList = [
     whatsappUrl: "https://wa.me/p/7495745943769069/918779366396"
    },
    {
-     _id: "7",
+     _id: "8",
      cardTitle: "Balloons And Bear",
      cardText: "<br>Whisk away into a world of enchantment, where balloons and bears join forces to create an ambiance of pure love and joy.<br><br> Tap on call or whatsapp to receive further details.",
      thumbSrc: "./assets/img/common/BalloonsAndBears.jpg",
@@ -70,7 +80,7 @@ let bridalshowerList = [
     whatsappUrl: "https://wa.me/p/7027432153999173/918779366396"
    },
    {
-     _id: "8",
+     _id: "9",
      cardTitle: "Balloon League",
      cardText: "<br>Join the league of love with an enchanting array of balloons, transforming your celebration into a symphony of elegance.<br><br> Tap on call or whatsapp to receive further details.",
      thumbSrc: "./assets/img/common/BalloonLeague.jpg",
@@ -80,7 +90,7 @@ let bridalshowerList = [
     whatsappUrl: "https://wa.me/p/6987015968085396/918779366396"
    },
    {
-     _id: "9",
+     _id: "10",
      cardTitle: "Tickled Pink",
      cardText: "<br>Delight in the charming Tickled Pink theme. Soft pastels, whimsical decor, and an abundance of pink create a sweet and playful atmosphere for the celebration.<br><br> Tap on call or whatsapp to receive further details.",
      thumbSrc: "./assets/img/common/TickledPink.jpg",
@@ -90,7 +100,7 @@ let bridalshowerList = [
     whatsappUrl: "https://wa.me/p/7197879986965641/918779366396"
    },
    {
-     _id: "10",
+     _id: "11",
      cardTitle: "Flamingo Fiesta",
      cardText: "<br>Turn the party into a tropical paradise with a Flamingo Fiesta. Flamingos, vibrant colors, and a touch of aloha spirit make for a lively and festive celebration.<br><br> Tap on call or whatsapp to receive further details.",
      thumbSrc: "./assets/img/common/FlamingoFiesta.jpg",
@@ -100,7 +110,7 @@ let bridalshowerList = [
     whatsappUrl: "https://wa.me/p/6922128704502662/918779366396"
    },
    {
-     _id: "11",
+     _id: "12",
      cardTitle: "Butterfly Kisses",
      cardText: "<br>Shower the bride with Butterfly Kisses. Delicate butterflies, gentle hues, and enchanting decor elements set the stage for a celebration filled with love and sweetness.<br><br> Tap on call or whatsapp to receive further details.",
      thumbSrc: "./assets/img/common/ButterflyKisses.jpg",
@@ -110,7 +120,7 @@ let bridalshowerList = [
     whatsappUrl: "https://wa.me/p/7047496072000869/918779366396"
    },
    {
-     _id: "12",
+     _id: "13",
      cardTitle: "Glamour",
      cardText: "<br>Unleash the Glamour with a sophisticated decor ensemble, featuring chic elements that radiate style and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
      thumbSrc: "./assets/img/common/Glamour.jpg",
@@ -120,7 +130,7 @@ let bridalshowerList = [
     whatsappUrl: "https://wa.me/p/7086151001506137/918779366396"
    },
    {
-     _id: "13",
+     _id: "14",
      cardTitle: "Pink Garland",
      cardText: "<br>Envelop your space in the charm of Pink Garland, weaving a trail of delicate blossoms to create a romantic atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
      thumbSrc: "./assets/img/common/PinkGarland.jpg",
@@ -130,7 +140,7 @@ let bridalshowerList = [
     whatsappUrl: "https://wa.me/p/25007931045457864/918779366396"
    },
    {
-     _id: "14",
+     _id: "15",
      cardTitle: "Disco Balloons",
      cardText: "<br>Transport your guests to a disco-inspired realm with White Disco Balloons, bringing a dance-worthy vibe to your event.<br><br> Tap on call or whatsapp to receive further details.",
      thumbSrc: "./assets/img/common/DiscoBalloons.jpg",
@@ -140,7 +150,7 @@ let bridalshowerList = [
     whatsappUrl: "https://wa.me/p/7321818417841447/918779366396"
    },
    {
-     _id: "15",
+     _id: "16",
      cardTitle: "Dolphin Dreams",
      cardText: "<br>Dive into the wonders of the sea with Dolphin Dreams decorations, bringing the enchantment of dolphins to your celebration.<br><br> Tap on call or whatsapp to receive further details.",
      thumbSrc: "./assets/img/common/DolphinDreams.jpg",

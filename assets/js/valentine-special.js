@@ -1,6 +1,16 @@
 let valentinespecialList = [
   {
     _id: "1",
+    cardTitle: "Propose Love",
+    cardText: "<br>Express your deepest emotions with a love-themed car trunk decoration, setting the stage for a memorable declaration of love.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/car-dikki/ProposeLove.jpg",
+    imgSrc: [
+      "./assets/img/car-dikki/ProposeLove.jpg"
+    ],
+    whatsappUrl: "https://wa.me/p/7279649738778601/918779366396"
+  },
+  {
+    _id: "2",
     cardTitle: "Love Nest Teddy",
     cardText: "<br>Love Nest Teddy introduces a cuddly and charming element, featuring adorable teddy bear accents that add a touch of warmth and affection to the Valentine's Day decor.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/LoveNestTeddy.jpg",
@@ -10,7 +20,7 @@ let valentinespecialList = [
     whatsappUrl: "https://wa.me/p/24814142801534942/918779366396"
   },
   {
-    _id: "2",
+    _id: "3",
     cardTitle: "Romantic Radiance",
     cardText: "<br>Romantic Radiance bathes the space in soft, warm lighting, creating an intimate and cozy ambiance perfect for a romantic celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/RomanticRadiance.jpg",
@@ -20,7 +30,7 @@ let valentinespecialList = [
     whatsappUrl: "https://wa.me/p/7609711559063631/918779366396"
   },
   {
-    _id: "3",
+    _id: "4",
     cardTitle: "Heartfelt Decor",
     cardText: "<br>Heartfelt Decor incorporates sentimental touches to convey love and emotion throughout the setup.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/HeartfeltDecor.jpg",
@@ -30,7 +40,7 @@ let valentinespecialList = [
     whatsappUrl: "https://wa.me/p/24589405257373682/918779366396"
   },
   {
-    _id: "4",
+    _id: "5",
     cardTitle: "Cherished Charmer",
     cardText: "<br>Cherished Charmer brings together timeless and elegant decor elements, ensuring a sophisticated and enchanting atmosphere for celebrating love.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/CherishedCharmer.jpg",
@@ -40,7 +50,7 @@ let valentinespecialList = [
     whatsappUrl: "https://wa.me/p/7146773918750388/918779366396"
   },
   {
-    _id: "5",
+    _id: "6",
     cardTitle: "Romance Retreat",
     cardText: "<br>Romance Retreat transforms the venue into a romantic heaven, with cozy seating, draped fabrics, and soft hues creating an intimate setting for couples.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/RomanceRetreat.jpg",
@@ -50,7 +60,7 @@ let valentinespecialList = [
     whatsappUrl: "https://wa.me/p/7631732426836848/918779366396"
   },
   {
-    _id: "6",
+    _id: "7",
     cardTitle: "Home Heaven Setup",
     cardText: "<br>Creating an ethereal atmosphere with a mix of helium and metallic balloons, tranforming your home into a dreamy heaven.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/anniversary/HomeHeavenSetup.jpg",
@@ -60,7 +70,7 @@ let valentinespecialList = [
     whatsappUrl: "https://wa.me/p/7061516980607548/918779366396"
   },
   {
-    _id: "7",
+    _id: "8",
     cardTitle: "Pink Bliss Setup",
     cardText: "<br>Celebrate in the shades of pink with our enchanting ballon arrangement, transforming your space into a heaven of pure bliss.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/anniversary/DomesticBlissSetup.jpg",
@@ -70,7 +80,7 @@ let valentinespecialList = [
     whatsappUrl: "https://wa.me/p/7179160035506353/918779366396"
   },
   {
-    _id: "8",
+    _id: "9",
     cardTitle: "Cuddle Companions",
     cardText: "<br>Set the mood with soft teddy and ballons, creating a relaxed and inviting atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/CuddleCompanions.jpg",
@@ -80,7 +90,7 @@ let valentinespecialList = [
     whatsappUrl: "https://wa.me/p/7044447909010178/918779366396"
   },
   {
-    _id: "9",
+    _id: "10",
     cardTitle: "Teddy Tales",
     cardText: "<br>Tranform your space into a magical teddy bear realm to immerse the room in a whimsical narrative.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/TeddyTales.jpg",
@@ -90,7 +100,7 @@ let valentinespecialList = [
     whatsappUrl: "https://wa.me/p/7506328439399477/918779366396"
   },
   {
-    _id: "10",
+    _id: "11",
     cardTitle: "Teddy Bear Hugs",
     cardText: "<br>Hide small teddy bear trinkets around the room, encoraging exploration and discovery for loved ones.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/TeddyBearHugs.jpg",
@@ -100,7 +110,7 @@ let valentinespecialList = [
     whatsappUrl: "https://wa.me/p/24680523161563099/918779366396"
   },
   {
-    _id: "11",
+    _id: "12",
     cardTitle: "Love Cuddles",
     cardText: "<br>An unfogettable love fusion of balloons and teddy to set a lovely atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/anniversary/LoveCuddles.jpg",
@@ -110,7 +120,7 @@ let valentinespecialList = [
     whatsappUrl: "https://wa.me/p/7334877779938014/918779366396"
   },
   {
-    _id: "12",
+    _id: "13",
     cardTitle: "Balloons And Bears",
     cardText: "<br>Whisk away into a world of enchantment, where balloons and bears join forces to create an ambiance of pure love and joy.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/BalloonsAndBears.jpg",
@@ -120,7 +130,7 @@ let valentinespecialList = [
     whatsappUrl: "https://wa.me/p/7027432153999173/918779366396"
   },
   {
-    _id: "13",
+    _id: "14",
     cardTitle: "Balloon League",
     cardText: "<br>Join the league of love with an enchanting array of balloons, transforming your celebration into a symphony of elegance.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/BalloonLeague.jpg",
@@ -130,7 +140,7 @@ let valentinespecialList = [
     whatsappUrl: "https://wa.me/p/6987015968085396/918779366396"
   },
   {
-    _id: "14",
+    _id: "15",
     cardTitle: "Love Kisses",
     cardText: "<br>Create a romantic ambiance with the LoveKisses theme, where every element of the decor whispers sweet sentiments and celebrates the magic of love.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/LoveKisses.jpg",
@@ -140,7 +150,7 @@ let valentinespecialList = [
     whatsappUrl: "https://wa.me/p/6717306225063632/918779366396"
   },
   {
-    _id: "15",
+    _id: "16",
     cardTitle: "Tent Canopy",
     cardText: "<br>Create an intimate and stylish setting with a Tent Canopy, offering a chic shelter for a celebration under the stars.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/TentCanopy.jpg",

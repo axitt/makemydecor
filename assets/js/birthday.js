@@ -221,6 +221,36 @@ let birthdayList = [
   },
   {
     _id: "23",
+    cardTitle: "Car Dikki",
+    cardText: "<br>Elevate your car's style with a specially themed trunk decoration, adding a touch of personalized flair to your ride.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/car-dikki/CarDikki.jpg",
+    imgSrc: [
+      "./assets/img/car-dikki/CarDikki.jpg"
+    ],
+    whatsappUrl: "https://wa.me/p/6837063693086670/918779366396"
+  },
+  {
+    _id: "24",
+    cardTitle: "Surprise Dikki",
+    cardText: "<br>Transform your car's trunk into a surprise wonderland, filled with joy and excitement for your special occasion.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/car-dikki/SurpriseDikki.jpg",
+    imgSrc: [
+      "./assets/img/car-dikki/SurpriseDikki.jpg"
+    ],
+    whatsappUrl: "https://wa.me/p/7276419259082902/918779366396"
+  },
+  {
+    _id: "25",
+    cardTitle: "Propose Girl",
+    cardText: "<br>Create a romantic and charming atmosphere in your car's trunk, perfect for a heartwarming proposal that will be forever cherished.<br><br> Tap on call or whatsapp to receive further details.",
+    thumbSrc: "./assets/img/car-dikki/ProposeGirl.jpg",
+    imgSrc: [
+      "./assets/img/car-dikki/ProposeGirl.jpg"
+    ],
+    whatsappUrl: "https://wa.me/p/6779486152177828/918779366396"
+  },
+  {
+    _id: "26",
     cardTitle: "Tickled Pink",
     cardText: "<br>Delight in the charming Tickled Pink theme. Soft pastels, whimsical decor, and an abundance of pink create a sweet and playful atmosphere for the celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/TickledPink.jpg",
@@ -230,7 +260,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7197879986965641/918779366396"
   },
   {
-    _id: "24",
+    _id: "27",
     cardTitle: "Flamingo Fiesta",
     cardText: "<br>Turn the party into a tropical paradise with a Flamingo Fiesta. Flamingos, vibrant colors, and a touch of aloha spirit make for a lively and festive celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/FlamingoFiesta.jpg",
@@ -240,7 +270,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/6922128704502662/918779366396"
   },
   {
-    _id: "25",
+    _id: "28",
     cardTitle: "Butterfly Kisses",
     cardText: "<br>Shower the birthday star with Butterfly Kisses. Delicate butterflies, gentle hues, and enchanting decor elements set the stage for a celebration filled with love and sweetness.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/ButterflyKisses.jpg",
@@ -250,7 +280,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7047496072000869/918779366396"
   },
   {
-    _id: "26",
+    _id: "29",
     cardTitle: "Silver Glow",
     cardText: "<br>Illuminate your celebration with a shimmering silver glow that adds an elegant touch to every corner.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/SilverGlow.jpg",
@@ -260,7 +290,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/6982117151842357/918779366396"
   },
   {
-    _id: "27",
+    _id: "30",
     cardTitle: "Pink Paradise",
     cardText: "<br>Step into a whimsical Pink Paradise where every detail is adorned in delightful shades of pink, creating a dreamy ambiance.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/PinkParadise.jpg",
@@ -270,7 +300,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/25538255539107443/918779366396"
   },
   {
-    _id: "28",
+    _id: "31",
     cardTitle: "Silver Balls",
     cardText: "<br>Elevate your decor with the sophistication of Silver Balls, transforming your space into a chic and glamorous setting.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/SilverBalls.jpg",
@@ -280,7 +310,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7075602009161347/918779366396"
   },
   {
-    _id: "29",
+    _id: "32",
     cardTitle: "Frozen Theme",
     cardText: "<br>Embark on a journey into the magical Frozen Theme, where icy hues and frosty accents create a winter wonderland.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/FrozenTheme.jpg",
@@ -290,7 +320,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/6792196877557872/918779366396"
   },
   {
-    _id: "30",
+    _id: "33",
     cardTitle: "Glamour",
     cardText: "<br>Unleash the Glamour with a sophisticated decor ensemble, featuring chic elements that radiate style and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/Glamour.jpg",
@@ -300,7 +330,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7086151001506137/918779366396"
   },
   {
-    _id: "31",
+    _id: "34",
     cardTitle: "Pink Garland",
     cardText: "<br>Envelop your space in the charm of Pink Garland, weaving a trail of delicate blossoms to create a romantic atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/PinkGarland.jpg",
@@ -310,7 +340,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/25007931045457864/918779366396"
   },
   {
-    _id: "32",
+    _id: "35",
     cardTitle: "Disco Balloons",
     cardText: "<br>Transport your guests to a disco-inspired realm with White Disco Balloons, bringing a dance-worthy vibe to your event.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/DiscoBalloons.jpg",
@@ -320,7 +350,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7321818417841447/918779366396"
   },
   {
-    _id: "33",
+    _id: "36",
     cardTitle: "Tent Canopy",
     cardText: "<br>Create an intimate and stylish setting with a Tent Canopy, offering a chic shelter for a celebration under the stars.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/TentCanopy.jpg",
@@ -330,7 +360,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/6976366679141242/918779366396"
   },
   {
-    _id: "34",
+    _id: "37",
     cardTitle: "Purple Butterfly",
     cardText: "<br>Transform the party space into a whimsical garden with shades of purple and enchanting butterfly decorations. Let the delicate fluttering wings add a touch of magic to the celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/PurpleButterfly.jpg",
@@ -340,7 +370,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7313529218699023/918779366396"
   },
   {
-    _id: "35",
+    _id: "38",
     cardTitle: "Disney Giraffe",
     cardText: "<br>Step into the magic of Disney with a Giraffe-themed birthday, blending the charm of Disney with the grace of giraffes.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/DisneyGiraffe.jpg",
@@ -350,7 +380,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7407877592582069/918779366396"
   },
   {
-    _id: "36",
+    _id: "39",
     cardTitle: "Lullaby Elephant",
     cardText: "<br>Create a dreamy atmosphere with Lullaby Elephant-themed decorations for a sweet and whimsical birthday bash.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/LullabyElephant.jpg",
@@ -360,7 +390,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7640988589263794/918779366396"
   },
   {
-    _id: "37",
+    _id: "40",
     cardTitle: "Baby Elephant",
     cardText: "<br>Celebrate with a touch of Disney magic and adorable baby elephants in this delightful Baby Elephant Disney decoration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/BabyElephantDisney.jpg",
@@ -370,7 +400,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7008727759235379/918779366396"
   },
   {
-    _id: "38",
+    _id: "41",
     cardTitle: "Winnie The Pooh",
     cardText: "<br>Embark on a nostalgic journey with Winnie the Pooh-themed decorations, capturing the heartwarming spirit of Disney.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/WinnieThePooh.jpg",
@@ -380,7 +410,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7020246234677741/918779366396"
   },
   {
-    _id: "39",
+    _id: "42",
     cardTitle: "Minnie Mouse",
     cardText: "<br>Bring the iconic style of Minnie Mouse Marvel to life with vibrant decorations and a touch of superhero magic.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/MiniMouseMarvel.jpg",
@@ -390,7 +420,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/24652233711089495/918779366396"
   },
   {
-    _id: "40",
+    _id: "43",
     cardTitle: "Mini Mouse Theme",
     cardText: "<br>Channel the timeless charm of Mini Mouse in a theme that's both bow-tastic and utterly delightful.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/MiniMouseTheme.jpg",
@@ -400,7 +430,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7671493192865103/918779366396"
   },
   {
-    _id: "41",
+    _id: "44",
     cardTitle: "Bunny Bash",
     cardText: "<br>Hop into a world of whimsy with Bunny Bash decorations, creating a playful and adorable birthday setting.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/BunnyBash.jpg",
@@ -410,7 +440,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/5408341525956627/918779366396"
   },
   {
-    _id: "42",
+    _id: "45",
     cardTitle: "Spidey Sensation",
     cardText: "<br>Swing into action with Spidey Sensation, where Spider-Man-themed decorations set the stage for a heroic birthday celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/SpideySensation.jpg",
@@ -420,7 +450,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7941177685909365/918779366396"
   },
   {
-    _id: "43",
+    _id: "46",
     cardTitle: "Space Celebration",
     cardText: "<br>Embark on an interstellar adventure with Space Celebration decorations, where cosmic wonders and stellar delights create an out-of-this-world birthday experience.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/SpaceCelebration.jpg",
@@ -430,7 +460,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7281051478620090/918779366396"
   },
   {
-    _id: "44",
+    _id: "47",
     cardTitle: "Travel The Moon",
     cardText: "<br>Journey beyond the stars and immerse yourself in a celestial celebration as we 'Travel the Moon,' turning your event into an otherworldly voyage filled with lunar wonders and cosmic enchantment.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/TravelTheMoon.jpg",
@@ -440,7 +470,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/6543552092416252/918779366396"
   },
   {
-    _id: "45",
+    _id: "48",
     cardTitle: "Rocketing Orbit",
     cardText: "<br>Travel to the moon and beyond with Rocketing Orbit decorations, creating a space-themed extravaganza for all to enjoy.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/RocketingOrbit.jpg",
@@ -450,7 +480,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7533169000026879/918779366396"
   },
   {
-    _id: "46",
+    _id: "49",
     cardTitle: "Astronaut Theme",
     cardText: "<br>Embark on an Astronaut Theme adventure with decorations that transport your party to the outer reaches of the cosmos.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/AstronautTheme.jpg",
@@ -460,7 +490,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/6832890166832718/918779366396"
   },
   {
-    _id: "47",
+    _id: "50",
     cardTitle: "Dolphin Dreams",
     cardText: "<br>Dive into the wonders of the sea with Dolphin Dreams decorations, bringing the enchantment of dolphins to your celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/DolphinDreams.jpg",
@@ -470,7 +500,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/24457895183857739/918779366396"
   },
   {
-    _id: "48",
+    _id: "51",
     cardTitle: "First Birthday",
     cardText: "<br>Celebrate the milestone of 'First Birthday' with delightful decorations, capturing the joy and wonder of your little one's inaugural year.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/FirstBirthday.jpg",
@@ -480,7 +510,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7870733452943580/918779366396"
   },
   {
-    _id: "49",
+    _id: "52",
     cardTitle: "Birthday At Home",
     cardText: "<br>Transform your space into a festive haven with 'Birthday At Home' decorations, bringing the party spirit right to the heart of your celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/BirthdayAtHome.jpg",
@@ -490,7 +520,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/6859855244113609/918779366396"
   },
   {
-    _id: "50",
+    _id: "53",
     cardTitle: "Pink Standee",
     cardText: "<br>Add a touch of sweetness to your birthday bash with 'Pink Standee' decorations, creating an enchanting ambiance in celebration of a special day.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/PinkStandee.jpg",
@@ -500,7 +530,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7259144890790454/918779366396"
   },
   {
-    _id: "51",
+    _id: "54",
     cardTitle: "Vibrant Setup",
     cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/VibrantSetup.jpg",
@@ -510,7 +540,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7495745943769069/918779366396"
   },
   {
-    _id: "52",
+    _id: "55",
     cardTitle: "Blush Brilliance",
     cardText: "<br>Elevate your birthday affair with a touch of blush brilliance, where soft tones and dazzling details come together for an elegant and charming ambiance.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/BlushBrilliance.jpg",
@@ -520,7 +550,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7180335125345375/918779366396"
   },
   {
-    _id: "53",
+    _id: "56",
     cardTitle: "Rose Gold Elegance",
     cardText: "<br>Bask in the opulence of rose gold as it adds a touch of sophistication and timeless elegance to your birthday celebration.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/RoseGoldElegance.jpg",
@@ -530,7 +560,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/24934705876142817/918779366396"
   },
   {
-    _id: "54",
+    _id: "57",
     cardTitle: "Rose Gold",
     cardText: "<br>Celebrate in style with a lavish rose gold theme, transforming your party space into a shimmering haven of glamour and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/RoseGold.jpg",
@@ -540,7 +570,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/24702279232720606/918779366396"
   },
   {
-    _id: "55",
+    _id: "58",
     cardTitle: "Rainbow Decor",
     cardText: "<br>Celebrate your special day with a burst of color in our vibrant and enchanting rainbow-themed setup.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/HappyBirthdayRainbowSetup.jpg",
@@ -550,7 +580,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7673208126072707/918779366396"
   },
   {
-    _id: "56",
+    _id: "59",
     cardTitle: "Cuddle Companion",
     cardText: "<br>Set the mood with soft teddy and ballons, creating a relaxed and inviting atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/CuddleCompanions.jpg",
@@ -560,7 +590,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7044447909010178/918779366396"
   },
   {
-    _id: "57",
+    _id: "60",
     cardTitle: "Teddy Tales",
     cardText: "<br>Tranform your space into a magical teddy bear realm to immerse the room in a whimsical narrative.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/TeddyTales.jpg",
@@ -570,7 +600,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/7506328439399477/918779366396"
   },
   {
-    _id: "58",
+    _id: "61",
     cardTitle: "Teddy Bear Hugs",
     cardText: "<br>Hide small teddy bear trinkets around the room, encoraging exploration and discovery for loved ones.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/common/TeddyBearHugs.jpg",
@@ -580,7 +610,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/24680523161563099/918779366396"
   },
   {
-    _id: "59",
+    _id: "62",
     cardTitle: "White Tower",
     cardText: "<br>Reach new heights of style with our majestic white tower themed decoration making your special day truly unforgettable.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/HappyBirthdayWhiteTower.jpg",
@@ -590,7 +620,7 @@ let birthdayList = [
     whatsappUrl: "https://wa.me/p/6509164942519061/918779366396"
   },
   {
-    _id: "60",
+    _id: "63",
     cardTitle: "Do Not Grow Up",
     cardText: "<br>Step into a whimsical wonderland where age is just a number, and the celebration exudes playful charm for the eternal child at heart.<br><br> Tap on call or whatsapp to receive further details.",
     thumbSrc: "./assets/img/birthday/DoNotGrowUp.jpg",
