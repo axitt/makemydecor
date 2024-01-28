@@ -1012,7 +1012,7 @@ section {
 
 .instagram .event-item:before {
   content: "";
-  position: absolute;
+  position: relative;
   inset: 0;
 }
 
