@@ -5,7 +5,7 @@ let bridalshowerList = [
      cardText: "<br>Step into a garden of joy with 'Bridal Shower Bloom' decorations, where blooming florals and delicate details transform celebration into a charming tapestry of pre-wedding bliss.<br><br> Tap on call or whatsapp to receive further details.",
      thumbSrc: "./assets/img/bridal-shower/BridalBloom.jpg",
      imgSrc: [
-       "./assets/img/common/BridalBloom.jpg"
+       "./assets/img/bridal-shower/BridalBloom.jpg"
      ],
     whatsappUrl: "https://wa.me/p/7517067905064744/918779366396"
    },
