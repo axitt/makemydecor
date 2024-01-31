@@ -3,9 +3,9 @@ let bachelorettepartyList = [
     _id: "1",
     cardTitle: "Flirty and Fabulous",
     cardText: "<br>Chicky and chic elements add a touch of flirtation, making this decor perfect for a fun and memorable moment.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/bachelorette-party/FlirtyAndFabulous.jpg",
+    thumbSrc: "../assets/img/bachelorette-party/FlirtyAndFabulous.jpg",
     imgSrc: [
-      "./assets/img/bachelorette-party/FlirtyAndFabulous.jpg"
+      "../assets/img/bachelorette-party/FlirtyAndFabulous.jpg"
     ],
     whatsappUrl: "https://wa.me/p/7059273900856279/918779366396"
   },
@@ -13,9 +13,9 @@ let bachelorettepartyList = [
     _id: "2",
     cardTitle: "Lets Party",
     cardText: "<br>Let the festivities begin with a Let's Party theme, complete with vibrant decorations that exude energy and celebration.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/bachelorette-party/LetsParty.jpg",
+    thumbSrc: "../assets/img/bachelorette-party/LetsParty.jpg",
     imgSrc: [
-      "./assets/img/bachelorette-party/LetsParty.jpg"
+      "../assets/img/bachelorette-party/LetsParty.jpg"
     ],
     whatsappUrl: "https://wa.me/p/7101393723241824/918779366396"
   },
@@ -23,9 +23,9 @@ let bachelorettepartyList = [
     _id: "3",
     cardTitle: "Lets Go Girls",
     cardText: "<br>Gather the squad for a Let's Go Girls extravaganza, where bold decor choices mirror the confidence and spirit of the bride and her friends.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/bachelorette-party/LetsGoGirls.jpg",
+    thumbSrc: "../assets/img/bachelorette-party/LetsGoGirls.jpg",
     imgSrc: [
-      "./assets/img/bachelorette-party/LetsGoGirls.jpg"
+      "../assets/img/bachelorette-party/LetsGoGirls.jpg"
     ],
     whatsappUrl: "https://wa.me/p/6930319003688042/918779366396"
   },
@@ -33,9 +33,9 @@ let bachelorettepartyList = [
     _id: "4",
     cardTitle: "Groovy",
     cardText: "<br>Transport your celebration back in time to the Groovy era with psychedelic decorations and a retro-chic ambiance.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/bachelorette-party/Groovy.jpg",
+    thumbSrc: "../assets/img/bachelorette-party/Groovy.jpg",
     imgSrc: [
-      "./assets/img/bachelorette-party/Groovy.jpg"
+      "../assets/img/bachelorette-party/Groovy.jpg"
     ],
     whatsappUrl: "https://wa.me/p/6443206419113991/918779366396"
   },
@@ -43,9 +43,9 @@ let bachelorettepartyList = [
     _id: "5",
     cardTitle: "Car Decoration",
     cardText: "<br>Turn your car into a masterpiece with a thoughtfully curated trunk decoration, showcasing your unique style and celebratory spirit.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/car-dikki/CarDecoration.jpg",
+    thumbSrc: "../assets/img/car-dikki/CarDecoration.jpg",
     imgSrc: [
-      "./assets/img/car-dikki/CarDecoration.jpg"
+      "../assets/img/car-dikki/CarDecoration.jpg"
     ],
     whatsappUrl: "https://wa.me/p/7231065890307325/918779366396"
   },
@@ -53,9 +53,9 @@ let bachelorettepartyList = [
     _id: "6",
     cardTitle: "Dancing Queen",
     cardText: "<br>Crown the bride as the Dancing Queen of the night with a dazzling celebration featuring dance-inspired decor and vibrant energy.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/bachelorette-party/DancingQueen.jpg",
+    thumbSrc: "../assets/img/bachelorette-party/DancingQueen.jpg",
     imgSrc: [
-      "./assets/img/bachelorette-party/DancingQueen.jpg"
+      "../assets/img/bachelorette-party/DancingQueen.jpg"
     ],
     whatsappUrl: "https://wa.me/p/6823273854436347/918779366396"
   },
@@ -63,9 +63,9 @@ let bachelorettepartyList = [
     _id: "7",
     cardTitle: "Final Destination",
     cardText: "<br>Celebrate the bride-to-be's final destination with a Bachelorette bash featuring chic decor that's as fabulous as the guest of honor.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/bachelorette-party/FinalDestination.jpg",
+    thumbSrc: "../assets/img/bachelorette-party/FinalDestination.jpg",
     imgSrc: [
-      "./assets/img/bachelorette-party/FinalDestination.jpg"
+      "../assets/img/bachelorette-party/FinalDestination.jpg"
     ],
     whatsappUrl: "https://wa.me/p/6926920507425925/918779366396"
   },
@@ -73,9 +73,9 @@ let bachelorettepartyList = [
     _id: "8",
     cardTitle: "Last Disco",
     cardText: "<br>Dance the night away at the Last Disco-themed celebration, where every detail sparkles with disco ball glamour and excitement.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/bachelorette-party/LastDisco.jpg",
+    thumbSrc: "../assets/img/bachelorette-party/LastDisco.jpg",
     imgSrc: [
-      "./assets/img/bachelorette-party/LastDisco.jpg"
+      "../assets/img/bachelorette-party/LastDisco.jpg"
     ],
     whatsappUrl: "https://wa.me/p/7553925404620694/918779366396"
   },
@@ -83,9 +83,9 @@ let bachelorettepartyList = [
     _id: "9",
     cardTitle: "Gold Rush Decor",
     cardText: "<br>Experience the epitome of luxury with our opulent gold themed setup, where every detail shines with elegance and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/GoldSetup.jpg",
+    thumbSrc: "../assets/img/common/GoldSetup.jpg",
     imgSrc: [
-      "./assets/img/common/GoldSetup.jpg"
+      "../assets/img/common/GoldSetup.jpg"
     ],
     whatsappUrl: "https://wa.me/p/7219446461484095/918779366396"
   },
@@ -93,9 +93,9 @@ let bachelorettepartyList = [
     _id: "10",
     cardTitle: "Vibrant Setup",
     cardText: "<br>Mark your celebration with a vibrant setup that reflects the refined taste and timeless celebration.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/VibrantSetup.jpg",
+    thumbSrc: "../assets/img/common/VibrantSetup.jpg",
     imgSrc: [
-      "./assets/img/common/VibrantSetup.jpg"
+      "../assets/img/common/VibrantSetup.jpg"
     ],
     whatsappUrl: "https://wa.me/p/7495745943769069/918779366396"
   },
@@ -103,9 +103,9 @@ let bachelorettepartyList = [
     _id: "11",
     cardTitle: "Balloons And Bear",
     cardText: "<br>Whisk away into a world of enchantment, where balloons and bears join forces to create an ambiance of pure love and joy.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/BalloonsAndBears.jpg",
+    thumbSrc: "../assets/img/common/BalloonsAndBears.jpg",
     imgSrc: [
-      "./assets/img/common/BalloonsAndBears.jpg"
+      "../assets/img/common/BalloonsAndBears.jpg"
     ],
     whatsappUrl: "https://wa.me/p/7027432153999173/918779366396"
   },
@@ -113,9 +113,9 @@ let bachelorettepartyList = [
     _id: "12",
     cardTitle: "Balloon League",
     cardText: "<br>Join the league of love with an enchanting array of balloons, transforming your celebration into a symphony of elegance.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/BalloonLeague.jpg",
+    thumbSrc: "../assets/img/common/BalloonLeague.jpg",
     imgSrc: [
-      "./assets/img/common/BalloonLeague.jpg"
+      "../assets/img/common/BalloonLeague.jpg"
     ],
     whatsappUrl: "https://wa.me/p/6987015968085396/918779366396"
   },
@@ -123,9 +123,9 @@ let bachelorettepartyList = [
     _id: "13",
     cardTitle: "Tickled Pink",
     cardText: "<br>Delight in the charming Tickled Pink theme. Soft pastels, whimsical decor, and an abundance of pink create a sweet and playful atmosphere for the celebration.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/TickledPink.jpg",
+    thumbSrc: "../assets/img/common/TickledPink.jpg",
     imgSrc: [
-      "./assets/img/common/TickledPink.jpg"
+      "../assets/img/common/TickledPink.jpg"
     ],
     whatsappUrl: "https://wa.me/p/7197879986965641/918779366396"
   },
@@ -133,9 +133,9 @@ let bachelorettepartyList = [
     _id: "14",
     cardTitle: "Flamingo Fiesta",
     cardText: "<br>Turn the party into a tropical paradise with a Flamingo Fiesta. Flamingos, vibrant colors, and a touch of aloha spirit make for a lively and festive celebration.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/FlamingoFiesta.jpg",
+    thumbSrc: "../assets/img/common/FlamingoFiesta.jpg",
     imgSrc: [
-      "./assets/img/common/FlamingoFiesta.jpg"
+      "../assets/img/common/FlamingoFiesta.jpg"
     ],
     whatsappUrl: "https://wa.me/p/6922128704502662/918779366396"
   },
@@ -143,9 +143,9 @@ let bachelorettepartyList = [
     _id: "15",
     cardTitle: "Butterfly Kisses",
     cardText: "<br>Shower the anniversary star with Butterfly Kisses. Delicate butterflies, gentle hues, and enchanting decor elements set the stage for a celebration filled with love and sweetness.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/ButterflyKisses.jpg",
+    thumbSrc: "../assets/img/common/ButterflyKisses.jpg",
     imgSrc: [
-      "./assets/img/common/ButterflyKisses.jpg"
+      "../assets/img/common/ButterflyKisses.jpg"
     ],
     whatsappUrl: "https://wa.me/p/7047496072000869/918779366396"
   },
@@ -153,9 +153,9 @@ let bachelorettepartyList = [
     _id: "16",
     cardTitle: "Disco Party",
     cardText: "<br>Dive into the ultimate Disco Party experience, where dazzling lights and funky decor set the stage for a night of glamour and dance.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/bachelorette-party/DiscoParty.jpg",
+    thumbSrc: "../assets/img/bachelorette-party/DiscoParty.jpg",
     imgSrc: [
-      "./assets/img/bachelorette-party/DiscoParty.jpg"
+      "../assets/img/bachelorette-party/DiscoParty.jpg"
     ],
     whatsappUrl: "https://wa.me/p/24884734814473725/918779366396"
   },
@@ -163,9 +163,9 @@ let bachelorettepartyList = [
     _id: "17",
     cardTitle: "Ultimate Disco",
     cardText: "<br>Transform your space into the Ultimate Disco haven, radiating with retro vibes and groovy elements that promise an unforgettable night.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/bachelorette-party/UltimateDisco.jpg",
+    thumbSrc: "../assets/img/bachelorette-party/UltimateDisco.jpg",
     imgSrc: [
-      "./assets/img/bachelorette-party/UltimateDisco.jpg"
+      "../assets/img/bachelorette-party/UltimateDisco.jpg"
     ],
     whatsappUrl: "https://wa.me/p/7442668532443905/918779366396"
   },
@@ -173,9 +173,9 @@ let bachelorettepartyList = [
     _id: "18",
     cardTitle: "Glamour",
     cardText: "<br>Unleash the Glamour with a sophisticated decor ensemble, featuring chic elements that radiate style and sophistication.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/Glamour.jpg",
+    thumbSrc: "../assets/img/common/Glamour.jpg",
     imgSrc: [
-      "./assets/img/common/Glamour.jpg"
+      "../assets/img/common/Glamour.jpg"
     ],
     whatsappUrl: "https://wa.me/p/7086151001506137/918779366396"
   },
@@ -183,9 +183,9 @@ let bachelorettepartyList = [
     _id: "19",
     cardTitle: "Pink Garland",
     cardText: "<br>Envelop your space in the charm of Pink Garland, weaving a trail of delicate blossoms to create a romantic atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/PinkGarland.jpg",
+    thumbSrc: "../assets/img/common/PinkGarland.jpg",
     imgSrc: [
-      "./assets/img/common/PinkGarland.jpg"
+      "../assets/img/common/PinkGarland.jpg"
     ],
     whatsappUrl: "https://wa.me/p/25007931045457864/918779366396"
   },
@@ -193,9 +193,9 @@ let bachelorettepartyList = [
     _id: "20",
     cardTitle: "Disco Balloons",
     cardText: "<br>Transport your guests to a disco-inspired realm with White Disco Balloons, bringing a dance-worthy vibe to your event.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/common/DiscoBalloons.jpg",
+    thumbSrc: "../assets/img/common/DiscoBalloons.jpg",
     imgSrc: [
-      "./assets/img/common/DiscoBalloons.jpg"
+      "../assets/img/common/DiscoBalloons.jpg"
     ],
     whatsappUrl: "https://wa.me/p/7321818417841447/918779366396"
   }

@@ -3,9 +3,9 @@ let welcomebabyList = [
     _id: "1",
     cardTitle: "Welcome Boy",
     cardText: "<br>Extend a warm greeting with 'Welcome Boy' decorations, setting the stage for a delightful celebration to honor the arrival of the little prince.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/welcome-baby-boy/WelcomeBoy.jpg",
+    thumbSrc: "../assets/img/welcome-baby-boy/WelcomeBoy.jpg",
     imgSrc: [
-      "./assets/img/welcome-baby-boy/WelcomeBoy.jpg"
+      "../assets/img/welcome-baby-boy/WelcomeBoy.jpg"
     ],
     whatsappUrl: "https://wa.me/p/7040837435971055/918779366396"
   },
@@ -13,9 +13,9 @@ let welcomebabyList = [
       _id: "2",
       cardTitle: "Baby Blues",
       cardText: "<br>Baby blues welcomes the little one with a soothing palette of soft blue balloons, creating a calm atmosphere for celebration.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-boy/BabyBlues.jpg",
+      thumbSrc: "../assets/img/welcome-baby-boy/BabyBlues.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-boy/BabyBlues.jpg"
+        "../assets/img/welcome-baby-boy/BabyBlues.jpg"
       ],
     whatsappUrl: "https://wa.me/p/6952600211503060/918779366396"
   },
@@ -23,9 +23,9 @@ let welcomebabyList = [
       _id: "3",
       cardTitle: "Chocolate Baby Boy",
       cardText: "<br>Chocolate boy incorporates rich brown hues, blending warmth and sweetness to infuse the setup with a cozy and charming feel.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-boy/ChocolateBabyBoy.jpg",
+      thumbSrc: "../assets/img/welcome-baby-boy/ChocolateBabyBoy.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-boy/ChocolateBabyBoy.jpg"
+        "../assets/img/welcome-baby-boy/ChocolateBabyBoy.jpg"
       ],
     whatsappUrl: "https://wa.me/p/6886173471509249/918779366396"
   },
@@ -33,9 +33,9 @@ let welcomebabyList = [
       _id: "4",
       cardTitle: "Heaven Sent",
       cardText: "<br>Transform your space into a celestial haven, adorned with heavenly decor, celebrating the arrival of your little angel.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-boy/HeavenSent.jpg",
+      thumbSrc: "../assets/img/welcome-baby-boy/HeavenSent.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-boy/HeavenSent.jpg"
+        "../assets/img/welcome-baby-boy/HeavenSent.jpg"
       ],
     whatsappUrl: "https://wa.me/p/7173443592709083/918779366396"
   },
@@ -43,9 +43,9 @@ let welcomebabyList = [
       _id: "5",
       cardTitle: "Blessed",
       cardText: "<br>Embrace the warmth of blessings with a decor ensemble that radiates love and joy, marking the cherished welcome of your baby boy.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-boy/Blessed.jpg",
+      thumbSrc: "../assets/img/welcome-baby-boy/Blessed.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-boy/Blessed.jpg"
+        "../assets/img/welcome-baby-boy/Blessed.jpg"
       ],
     whatsappUrl: "https://wa.me/p/24591050750538597/918779366396"
   },
@@ -53,9 +53,9 @@ let welcomebabyList = [
       _id: "6",
       cardTitle: "Joyful Journey",
       cardText: "<br>Embark on a whimsical adventure of joy, where every corner is adorned with delightful decorations, reflecting the beginning of a joyful journey with your baby boy.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-boy/JoyfulJourney.jpg",
+      thumbSrc: "../assets/img/welcome-baby-boy/JoyfulJourney.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-boy/JoyfulJourney.jpg"
+        "../assets/img/welcome-baby-boy/JoyfulJourney.jpg"
       ],
     whatsappUrl: "https://wa.me/p/7022583667836779/918779366396"
   },
@@ -63,9 +63,9 @@ let welcomebabyList = [
       _id: "7",
       cardTitle: "Baby Elephant",
       cardText: "<br>Welcome your little one with the charm of baby elephants, creating a playful and adorable atmosphere for a delightful celebration.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-boy/BabyElephant.jpg",
+      thumbSrc: "../assets/img/welcome-baby-boy/BabyElephant.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-boy/BabyElephant.jpg"
+        "../assets/img/welcome-baby-boy/BabyElephant.jpg"
       ],
     whatsappUrl: "https://wa.me/p/6877653649020907/918779366396"
   },
@@ -73,9 +73,9 @@ let welcomebabyList = [
       _id: "8",
       cardTitle: "Oh Baby",
       cardText: "<br>Infuse your space with excitement and anticipation, as the Oh Baby theme brings together whimsical elements, capturing the essence of joyful expectancy.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-boy/OhBaby.jpg",
+      thumbSrc: "../assets/img/welcome-baby-boy/OhBaby.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-boy/OhBaby.jpg"
+        "../assets/img/welcome-baby-boy/OhBaby.jpg"
       ],
     whatsappUrl: "https://wa.me/p/7291246607586454/918779366396"
   },
@@ -83,9 +83,9 @@ let welcomebabyList = [
       _id: "9",
       cardTitle: "Star Is Born",
       cardText: "<br>Celebrate the celestial moment when a star is born, with an enchanting decor theme that echoes the magic and wonder of your baby boy's arrival.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-boy/StarIsBorn.jpg",
+      thumbSrc: "../assets/img/welcome-baby-boy/StarIsBorn.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-boy/StarIsBorn.jpg"
+        "../assets/img/welcome-baby-boy/StarIsBorn.jpg"
       ],
     whatsappUrl: "https://wa.me/p/24521986337450193/918779366396"
   },
@@ -93,9 +93,9 @@ let welcomebabyList = [
       _id: "10",
       cardTitle: "New Arrival",
       cardText: "<br>Celebrate the 'New Arrival' with boy-themed decorations, turning your space into a haven of joy and excitement for the little one.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-boy/NewArrival.jpg",
+      thumbSrc: "../assets/img/welcome-baby-boy/NewArrival.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-boy/NewArrival.jpg"
+        "../assets/img/welcome-baby-boy/NewArrival.jpg"
       ],
     whatsappUrl: "https://wa.me/p/24793488830266730/918779366396"
   },
@@ -103,9 +103,9 @@ let welcomebabyList = [
       _id: "11",
       cardTitle: "Cuddle Welcome",
       cardText: "<br>Wrap your space in warmth with 'Cuddle Welcome' boy-themed decorations, creating a cozy and inviting atmosphere for family and friends.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-boy/CuddleWelcome.jpg",
+      thumbSrc: "../assets/img/welcome-baby-boy/CuddleWelcome.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-boy/CuddleWelcome.jpg"
+        "../assets/img/welcome-baby-boy/CuddleWelcome.jpg"
       ],
     whatsappUrl: "https://wa.me/p/6996286933821025/918779366396"
   },
@@ -113,9 +113,9 @@ let welcomebabyList = [
       _id: "12",
       cardTitle: "Little Blessing Bash",
       cardText: "<br>Embark on a heartwarming journey with 'Little Blessing Bash' boy-themed decorations, showering the newest addition with love and joy.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-boy/LittleBlessingBash.jpg",
+      thumbSrc: "../assets/img/welcome-baby-boy/LittleBlessingBash.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-boy/LittleBlessingBash.jpg"
+        "../assets/img/welcome-baby-boy/LittleBlessingBash.jpg"
       ],
     whatsappUrl: "https://wa.me/p/6958724560849486/918779366396"
   },
@@ -123,9 +123,9 @@ let welcomebabyList = [
     _id: "13",
     cardTitle: "Welcome Home",
     cardText: "<br>Create a cozy and loving environment with 'Welcome Home' girl-themed decorations, expressing the joy of bringing the little one home to love and warmth.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/welcome-baby-girl/WelcomeHome.jpg",
+    thumbSrc: "../assets/img/welcome-baby-girl/WelcomeHome.jpg",
     imgSrc: [
-      "./assets/img/welcome-baby-girl/WelcomeHome.jpg"
+      "../assets/img/welcome-baby-girl/WelcomeHome.jpg"
     ],
     whatsappUrl: "https://wa.me/p/24652294184385539/918779366396"
   },
@@ -133,9 +133,9 @@ let welcomebabyList = [
     _id: "14",
     cardTitle: "Princess",
     cardText: "<br>Transform your space into a royal kingdom with 'Princess' girl-themed decorations, celebrating the arrival of the little princess with regal elegance.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/welcome-baby-girl/Princess.jpg",
+    thumbSrc: "../assets/img/welcome-baby-girl/Princess.jpg",
     imgSrc: [
-      "./assets/img/welcome-baby-girl/Princess.jpg"
+      "../assets/img/welcome-baby-girl/Princess.jpg"
     ],
     whatsappUrl: "https://wa.me/p/7053525641396399/918779366396"
   },
@@ -143,9 +143,9 @@ let welcomebabyList = [
       _id: "15",
       cardTitle: "Sugar And Spice",
       cardText: "<br>Step into a world of sweetness and charm, where every corner is sprinkled with joy, welcoming our little girl with the perfect blend of sugar and spice.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-girl/SugarAndSpice.jpg",
+      thumbSrc: "../assets/img/welcome-baby-girl/SugarAndSpice.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-girl/SugarAndSpice.jpg"
+        "../assets/img/welcome-baby-girl/SugarAndSpice.jpg"
       ],
     whatsappUrl: "https://wa.me/p/7097041763695606/918779366396"
     },
@@ -153,9 +153,9 @@ let welcomebabyList = [
       _id: "16",
       cardTitle: "Pink Princess",
       cardText: "<br>Transform your home into a regal palace adorned in shades of pink, fit for the arrival of our little princess, the newest member of the royal family.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-girl/PinkPrincess.jpg",
+      thumbSrc: "../assets/img/welcome-baby-girl/PinkPrincess.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-girl/PinkPrincess.jpg"
+        "../assets/img/welcome-baby-girl/PinkPrincess.jpg"
       ],
     whatsappUrl: "https://wa.me/p/7054686021267614/918779366396"
     },
@@ -163,9 +163,9 @@ let welcomebabyList = [
       _id: "17",
       cardTitle: "Star Is Born",
       cardText: "<br>Underneath a sky of twinkling stars, our home welcomes the brightest star of all, as we celebrate the magical moment when our little star is born.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-girl/StarIsBorn.jpg",
+      thumbSrc: "../assets/img/welcome-baby-girl/StarIsBorn.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-girl/StarIsBorn.jpg"
+        "../assets/img/welcome-baby-girl/StarIsBorn.jpg"
       ],
     whatsappUrl: "https://wa.me/p/7121014414691374/918779366396"
     },
@@ -173,9 +173,9 @@ let welcomebabyList = [
       _id: "18",
       cardTitle: "Glossy Welcome",
       cardText: "<br>Adorn your space with 'Glossy Welcome' girl-themed decorations, ushering in the joy of a new arrival with a touch of elegance and shine.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-girl/GlossyWelcome.jpg",
+      thumbSrc: "../assets/img/welcome-baby-girl/GlossyWelcome.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-girl/GlossyWelcome.jpg"
+        "../assets/img/welcome-baby-girl/GlossyWelcome.jpg"
       ],
     whatsappUrl: "https://wa.me/p/7751464971533599/918779366396"
     },
@@ -183,9 +183,9 @@ let welcomebabyList = [
       _id: "19",
       cardTitle: " Welcome Baby",
       cardText: "<br>Celebrate the little one's arrival with 'Welcome Baby' girl-themed decorations, creating a warm and inviting atmosphere for family and friends.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-girl/WelcomeBaby.jpg",
+      thumbSrc: "../assets/img/welcome-baby-girl/WelcomeBaby.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-girl/WelcomeBaby.jpg"
+        "../assets/img/welcome-baby-girl/WelcomeBaby.jpg"
       ],
     whatsappUrl: "https://wa.me/p/6974856645901857/918779366396"
     },
@@ -193,9 +193,9 @@ let welcomebabyList = [
       _id: "20",
       cardTitle: "Welcome Stand",
       cardText: "<br>Set the stage for a joyful celebration with 'Welcome Stand' girl-themed decorations, making everyone feel the warmth and happiness of the occasion.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-girl/WelcomeStand.jpg",
+      thumbSrc: "../assets/img/welcome-baby-girl/WelcomeStand.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-girl/WelcomeStand.jpg"
+        "../assets/img/welcome-baby-girl/WelcomeStand.jpg"
       ],
     whatsappUrl: "https://wa.me/p/7042505719172433/918779366396"
     },
@@ -203,9 +203,9 @@ let welcomebabyList = [
       _id: "21",
       cardTitle: "Welcome To World",
       cardText: "<br>Introduce the newborn to the world with 'Welcome To The World' girl-themed decorations, capturing the wonder and excitement of this special moment.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-girl/WelcomeToTheWorld.jpg",
+      thumbSrc: "../assets/img/welcome-baby-girl/WelcomeToTheWorld.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-girl/WelcomeToTheWorld.jpg"
+        "../assets/img/welcome-baby-girl/WelcomeToTheWorld.jpg"
       ],
     whatsappUrl: "https://wa.me/p/7735017799845187/918779366396"
     },
@@ -213,9 +213,9 @@ let welcomebabyList = [
       _id: "22",
       cardTitle: "Baby Box",
       cardText: "<br>Unveil the charm of 'Baby Box' girl-themed decorations, adding a whimsical touch to the celebration and surrounding the little one in adorable details.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-girl/BabyBox.jpg",
+      thumbSrc: "../assets/img/welcome-baby-girl/BabyBox.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-girl/BabyBox.jpg"
+        "../assets/img/welcome-baby-girl/BabyBox.jpg"
       ],
     whatsappUrl: "https://wa.me/p/5655272377930589/918779366396"
     },
@@ -223,9 +223,9 @@ let welcomebabyList = [
       _id: "23",
       cardTitle: "Welcome Princess",
       cardText: "<br>Gorgeous pink drapery being an air of sophistication to welcome the princess, setting the stage for a majestic celebration.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/welcome-baby-girl/WelcomePrincess.jpg",
+      thumbSrc: "../assets/img/welcome-baby-girl/WelcomePrincess.jpg",
       imgSrc: [
-        "./assets/img/welcome-baby-girl/WelcomePrincess.jpg"
+        "../assets/img/welcome-baby-girl/WelcomePrincess.jpg"
       ],
     whatsappUrl: "https://wa.me/p/24851751954438942/918779366396"
     }

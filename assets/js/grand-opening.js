@@ -3,9 +3,9 @@ let grandopeningList = [
       _id: "1",
       cardTitle: "New Shop",
       cardText: "<br>Transform the grand opening of your new shop into a dazzling event with sophisticated blue and white decorations, creating an atmosphere of excitement and elegance.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/grand-opening/NewShop.jpg",
+      thumbSrc: "../assets/img/grand-opening/NewShop.jpg",
       imgSrc: [
-        "./assets/img/grand-opening/NewShop.jpg"
+        "../assets/img/grand-opening/NewShop.jpg"
       ],
       whatsappUrl: "https://wa.me/p/7272786642788331/918779366396"
     },
@@ -13,9 +13,9 @@ let grandopeningList = [
       _id: "2",
       cardTitle: "Gate Decor",
       cardText: "<br>Welcome your guests with a captivating entrance, adorned with exquisite decorations that set the tone for a grand opening.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/grand-opening/GateDecor.jpg",
+      thumbSrc: "../assets/img/grand-opening/GateDecor.jpg",
       imgSrc: [
-        "./assets/img/grand-opening/GateDecor.jpg"
+        "../assets/img/grand-opening/GateDecor.jpg"
       ],
       whatsappUrl: "https://wa.me/p/7097725920323463/918779366396"
     },
@@ -23,9 +23,9 @@ let grandopeningList = [
       _id: "3",
       cardTitle: "India Flag",
       cardText: "<br>Pay homage to the nation's pride by incorporating the vibrant colors of the Indian flag, creating a patriotic and uplifting atmosphere.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/grand-opening/IndiaFlag.jpg",
+      thumbSrc: "../assets/img/grand-opening/IndiaFlag.jpg",
       imgSrc: [
-        "./assets/img/grand-opening/IndiaFlag.jpg"
+        "../assets/img/grand-opening/IndiaFlag.jpg"
       ],
       whatsappUrl: "https://wa.me/p/7730472573634092/918779366396"
     },
@@ -33,9 +33,9 @@ let grandopeningList = [
       _id: "4",
       cardTitle: "Independence Day",
       cardText: "<br>Commemorate the spirit of freedom and independence with decorations that echo the sentiments of this historic day.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/grand-opening/IndependenceDay.jpg",
+      thumbSrc: "../assets/img/grand-opening/IndependenceDay.jpg",
       imgSrc: [
-        "./assets/img/grand-opening/IndependenceDay.jpg"
+        "../assets/img/grand-opening/IndependenceDay.jpg"
       ],
       whatsappUrl: "https://wa.me/p/7735693019828189/918779366396"
     },
@@ -43,9 +43,9 @@ let grandopeningList = [
       _id: "5",
       cardTitle: "Republic Day",
       cardText: "<br>Embrace the essence of unity and patriotism as you celebrate with decorations inspired by the Indian Republic Day.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/grand-opening/RepublicDay.jpg",
+      thumbSrc: "../assets/img/grand-opening/RepublicDay.jpg",
       imgSrc: [
-        "./assets/img/grand-opening/RepublicDay.jpg"
+        "../assets/img/grand-opening/RepublicDay.jpg"
       ],
       whatsappUrl: "https://wa.me/p/7089739617776509/918779366396"
     },
@@ -53,9 +53,9 @@ let grandopeningList = [
       _id: "6",
       cardTitle: "Entrance Decor",
       cardText: "<br>Make a lasting impression with meticulously crafted entrance decor that reflects the significance and grandeur of your special occasion.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/grand-opening/EntranceDecor.jpg",
+      thumbSrc: "../assets/img/grand-opening/EntranceDecor.jpg",
       imgSrc: [
-        "./assets/img/grand-opening/EntranceDecor.jpg"
+        "../assets/img/grand-opening/EntranceDecor.jpg"
       ],
       whatsappUrl: "https://wa.me/p/7043535465742985/918779366396"
     },
@@ -63,9 +63,9 @@ let grandopeningList = [
       _id: "7",
       cardTitle: "Red And White",
       cardText: "<br>Infuse sophistication and elegance into your grand opening celebration with a striking color scheme of red and white, symbolizing prosperity and purity.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/grand-opening/RedAndWhite.jpg",
+      thumbSrc: "../assets/img/grand-opening/RedAndWhite.jpg",
       imgSrc: [
-        "./assets/img/grand-opening/RedAndWhite.jpg"
+        "../assets/img/grand-opening/RedAndWhite.jpg"
       ],
       whatsappUrl: "https://wa.me/p/7188379384576946/918779366396"
     },
@@ -73,9 +73,9 @@ let grandopeningList = [
       _id: "8",
       cardTitle: "Inauguration",
       cardText: "<br>Mark the beginning of a new chapter with inauguration-themed decorations that radiate a sense of prestige and accomplishment.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/grand-opening/Inauguration.jpg",
+      thumbSrc: "../assets/img/grand-opening/Inauguration.jpg",
       imgSrc: [
-        "./assets/img/grand-opening/Inaugurationa.jpg"
+        "../assets/img/grand-opening/Inaugurationa.jpg"
       ],
       whatsappUrl: "https://wa.me/p/7198815673572052/918779366396"
     },
@@ -83,9 +83,9 @@ let grandopeningList = [
       _id: "9",
       cardTitle: "Grand Opening",
       cardText: "<br>Elevate the grandeur of your event with celebratory decorations that signify the exciting commencement of a new venture or enterprise.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/grand-opening/GrandOpening.jpg",
+      thumbSrc: "../assets/img/grand-opening/GrandOpening.jpg",
       imgSrc: [
-        "./assets/img/grand-opening/GrandOpening.jpg"
+        "../assets/img/grand-opening/GrandOpening.jpg"
       ],
       whatsappUrl: "https://wa.me/p/7001267433254297/918779366396"
     }

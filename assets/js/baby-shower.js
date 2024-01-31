@@ -3,9 +3,9 @@ let babyshowerList = [
     _id: "1",
     cardTitle: "Extravaganza",
     cardText: "<br>Balloon extravaganza sets the tone with the cloud of colorful balloons, creating a whimsical and celebratory atmosphere for the baby shower.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/baby-shower/BalloonExtravaganzaForBabyArrival.jpg",
+    thumbSrc: "../assets/img/baby-shower/BalloonExtravaganzaForBabyArrival.jpg",
     imgSrc: [
-      "./assets/img/baby-shower/BalloonExtravaganzaForBabyArrival.jpg"
+      "../assets/img/baby-shower/BalloonExtravaganzaForBabyArrival.jpg"
     ], 
     whatsappUrl: "https://wa.me/p/7059455747479865/918779366396"
    },
@@ -13,9 +13,9 @@ let babyshowerList = [
     _id: "2",
     cardTitle: "Joyful Beginnings",
     cardText: "<br>Joyful beginnings decorates the space with charming balloons, symbolizing the joy and excitement surrounding the upcoming arrival.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/baby-shower/JoyfulBeginnings.jpg",
+    thumbSrc: "../assets/img/baby-shower/JoyfulBeginnings.jpg",
     imgSrc: [
-      "./assets/img/baby-shower/JoyfulBeginnings.jpg"
+      "../assets/img/baby-shower/JoyfulBeginnings.jpg"
     ], 
     whatsappUrl: "https://wa.me/p/6963224647130733/918779366396"
    },
@@ -23,9 +23,9 @@ let babyshowerList = [
     _id: "3",
     cardTitle: "Oh Baby Tiny Toes",
     cardText: "<br>Tiny Toes theme features adorable footprints infusing a sweet and endearing touch to the baby shower celebration.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/baby-shower/OhBabyTinyToes.jpg",
+    thumbSrc: "../assets/img/baby-shower/OhBabyTinyToes.jpg",
     imgSrc: [
-      "./assets/img/baby-shower/OhBabyTinyToes.jpg"
+      "../assets/img/baby-shower/OhBabyTinyToes.jpg"
     ], 
     whatsappUrl: "https://wa.me/p/7210245129058369/918779366396"
    },
@@ -33,9 +33,9 @@ let babyshowerList = [
     _id: "4",
     cardTitle: "Hey Baby",
     cardText: "<br>Hey baby transforms the venue into a playful heaven making it delightful for guests.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/baby-shower/HeyBaby.jpg",
+    thumbSrc: "../assets/img/baby-shower/HeyBaby.jpg",
     imgSrc: [
-      "./assets/img/baby-shower/HeyBaby.jpg"
+      "../assets/img/baby-shower/HeyBaby.jpg"
     ], 
     whatsappUrl: "https://wa.me/p/7577388855618096/918779366396"
    },
@@ -43,9 +43,9 @@ let babyshowerList = [
     _id: "5",
     cardTitle: "Pop To Know",
     cardText: "<br>A popping extravaganza revealing the much-anticipated gender in a burst of colorful surprise.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/baby-shower/PopToKnow.jpg",
+    thumbSrc: "../assets/img/baby-shower/PopToKnow.jpg",
     imgSrc: [
-      "./assets/img/baby-shower/PopToKnow.jpg"
+      "../assets/img/baby-shower/PopToKnow.jpg"
     ], 
     whatsappUrl: "https://wa.me/p/6560101350760445/918779366396"
    },
@@ -53,9 +53,9 @@ let babyshowerList = [
     _id: "6",
     cardTitle: "Pink Or Blue",
     cardText: "<br>Step into a dreamy dual-toned wonderland where the gender question is celebrated with whimsy and charm.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/baby-shower/PinkOrBlue.jpg",
+    thumbSrc: "../assets/img/baby-shower/PinkOrBlue.jpg",
     imgSrc: [
-      "./assets/img/baby-shower/PinkOrBlue.jpg"
+      "../assets/img/baby-shower/PinkOrBlue.jpg"
     ], 
     whatsappUrl: "https://wa.me/p/24845170198430719/918779366396"
    },
@@ -63,9 +63,9 @@ let babyshowerList = [
     _id: "7",
     cardTitle: "Magical Moment",
     cardText: "<br>Prepare for a magical celebration where each corner holds a delightful surprise, turning the baby shower into a captivating spectacle.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/baby-shower/BabyShowerSpectacle.jpg",
+    thumbSrc: "../assets/img/baby-shower/BabyShowerSpectacle.jpg",
     imgSrc: [
-      "./assets/img/baby-shower/BabyShowerSpectacle.jpg"
+      "../assets/img/baby-shower/BabyShowerSpectacle.jpg"
     ], 
     whatsappUrl: "https://wa.me/p/6804432946331762/918779366396"
    },
@@ -73,9 +73,9 @@ let babyshowerList = [
     _id: "8",
     cardTitle: "Oh Baby Bliss",
     cardText: "<br>Immerse in the serenity of pastel hues and delicate decor, creating an atmosphere of pure bliss for the impending arrival.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/baby-shower/OhBabyBliss.jpg",
+    thumbSrc: "../assets/img/baby-shower/OhBabyBliss.jpg",
     imgSrc: [
-      "./assets/img/baby-shower/OhBabyBliss.jpg"
+      "../assets/img/baby-shower/OhBabyBliss.jpg"
     ], 
     whatsappUrl: "https://wa.me/p/7320166674689457/918779366396"
    },
@@ -83,9 +83,9 @@ let babyshowerList = [
     _id: "9",
     cardTitle: "Bundle Of Joy:",
     cardText: "<br>A heartwarming celebration adorned with soft hues, capturing the essence of the imminent bundle of joy.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/baby-shower/BundleOfJoy.jpg",
+    thumbSrc: "../assets/img/baby-shower/BundleOfJoy.jpg",
     imgSrc: [
-      "./assets/img/baby-shower/BundleOfJoy.jpg"
+      "../assets/img/baby-shower/BundleOfJoy.jpg"
     ], 
     whatsappUrl: "https://wa.me/p/6454984621270185/918779366396"
    },
@@ -93,9 +93,9 @@ let babyshowerList = [
     _id: "10",
     cardTitle: "Sweet Beginnings:",
     cardText: "<br>Celebrate the anticipation of 'Sweet Beginnings' with enchanting baby shower decorations, ushering in joy and love for the little one.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/baby-shower/SweetBeginnings.jpg",
+    thumbSrc: "../assets/img/baby-shower/SweetBeginnings.jpg",
     imgSrc: [
-      "./assets/img/baby-shower/SweetBeginnings.jpg"
+      "../assets/img/baby-shower/SweetBeginnings.jpg"
     ], 
     whatsappUrl: "https://wa.me/p/7017155831693459/918779366396"
    },
@@ -103,9 +103,9 @@ let babyshowerList = [
     _id: "11",
     cardTitle: "Stitch Disney",
     cardText: "<br>Embark on a whimsical adventure with 'Stitch Disney' baby shower decorations, merging the charm of Disney with the cuteness of Stitch for a celebration as unique as your little one.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/baby-shower/StitchDisney.jpg",
+    thumbSrc: "../assets/img/baby-shower/StitchDisney.jpg",
     imgSrc: [
-      "./assets/img/baby-shower/StitchDisney.jpg"
+      "../assets/img/baby-shower/StitchDisney.jpg"
     ], 
     whatsappUrl: "https://wa.me/p/7089528184471002/918779366396"
    },
@@ -113,9 +113,9 @@ let babyshowerList = [
     _id: "12",
     cardTitle: "Boy Or Girl",
     cardText: "<br>Embrace the anticipation with 'Boy Or Girl' baby shower decorations, creating an enchanting ambiance that keeps everyone guessing in joyful celebration of the upcoming bundle of joy.<br><br> Tap on call or whatsapp to receive further details.",
-    thumbSrc: "./assets/img/baby-shower/BoyOrGirl.jpg",
+    thumbSrc: "../assets/img/baby-shower/BoyOrGirl.jpg",
     imgSrc: [
-      "./assets/img/baby-shower/BoyOrGirl.jpg"
+      "../assets/img/baby-shower/BoyOrGirl.jpg"
     ], 
     whatsappUrl: "https://wa.me/p/6485049454930351/918779366396"
    }

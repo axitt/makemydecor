@@ -3,9 +3,9 @@ let cardikkiList = [
       _id: "1",
       cardTitle: "Propose Love",
       cardText: "<br>Express your deepest emotions with a love-themed car trunk decoration, setting the stage for a memorable declaration of love.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/car-dikki/ProposeLove.jpg",
+      thumbSrc: "../assets/img/car-dikki/ProposeLove.jpg",
       imgSrc: [
-        "./assets/img/car-dikki/ProposeLove.jpg"
+        "../assets/img/car-dikki/ProposeLove.jpg"
       ],
       whatsappUrl: "https://wa.me/p/7279649738778601/918779366396"
     },
@@ -13,9 +13,9 @@ let cardikkiList = [
       _id: "2",
       cardTitle: "Car Dikki",
       cardText: "<br>Elevate your car's style with a specially themed trunk decoration, adding a touch of personalized flair to your ride.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/car-dikki/CarDikki.jpg",
+      thumbSrc: "../assets/img/car-dikki/CarDikki.jpg",
       imgSrc: [
-        "./assets/img/car-dikki/CarDikki.jpg"
+        "../assets/img/car-dikki/CarDikki.jpg"
       ],
       whatsappUrl: "https://wa.me/p/6837063693086670/918779366396"
     },
@@ -23,9 +23,9 @@ let cardikkiList = [
       _id: "3",
       cardTitle: "Surprise Dikki",
       cardText: "<br>Transform your car's trunk into a surprise wonderland, filled with joy and excitement for your special occasion.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/car-dikki/SurpriseDikki.jpg",
+      thumbSrc: "../assets/img/car-dikki/SurpriseDikki.jpg",
       imgSrc: [
-        "./assets/img/car-dikki/SurpriseDikki.jpg"
+        "../assets/img/car-dikki/SurpriseDikki.jpg"
       ],
       whatsappUrl: "https://wa.me/p/7276419259082902/918779366396"
     },
@@ -33,9 +33,9 @@ let cardikkiList = [
       _id: "4",
       cardTitle: "Propose Girl",
       cardText: "<br>Create a romantic and charming atmosphere in your car's trunk, perfect for a heartwarming proposal that will be forever cherished.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/car-dikki/ProposeGirl.jpg",
+      thumbSrc: "../assets/img/car-dikki/ProposeGirl.jpg",
       imgSrc: [
-        "./assets/img/car-dikki/ProposeGirl.jpg"
+        "../assets/img/car-dikki/ProposeGirl.jpg"
       ],
       whatsappUrl: "https://wa.me/p/6779486152177828/918779366396"
     },
@@ -43,9 +43,9 @@ let cardikkiList = [
       _id: "5",
       cardTitle: "Car Decoration",
       cardText: "<br>Turn your car into a masterpiece with a thoughtfully curated trunk decoration, showcasing your unique style and celebratory spirit.<br><br> Tap on call or whatsapp to receive further details.",
-      thumbSrc: "./assets/img/car-dikki/CarDecoration.jpg",
+      thumbSrc: "../assets/img/car-dikki/CarDecoration.jpg",
       imgSrc: [
-        "./assets/img/car-dikki/CarDecoration.jpg"
+        "../assets/img/car-dikki/CarDecoration.jpg"
       ],
       whatsappUrl: "https://wa.me/p/7231065890307325/918779366396"
     }
